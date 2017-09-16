@@ -8,47 +8,47 @@
 
 # 關於 7.3.0
 
-- *阿古斯怎麼飛？*
+- 阿古斯怎麼飛？
 
 阿古斯不能飛。
 
-- *7.x 要注意什麼？聽說神兵知識很重要？*
+- 7.x 要注意什麼？聽說神兵知識很重要？
 
-7.3.0 以後不用擔心神兵知識了，只要顧神兵特長和聖物。這個簡介不錯：https://www.ptt.cc/bbs/WOW/M.1504451362.A.F0B.html
+7.3.0 以後不用擔心神兵知識了，只要顧神兵特長和聖物。這個[簡介](https://www.ptt.cc/bbs/WOW/M.1504451362.A.F0B.html)不錯。
 
 # 關於 7.x
 
-- *我想飛。*
+- 教練，我想飛。
 
 如果 7.0、7.1 玩比較少，可以參考[這一篇](http://blog.xuite.net/i20jay/wow/446850986-%E3%80%907.0.3+%E9%AD%94%E7%8D%B8%E4%B8%96%E7%95%8C%E3%80%91+%E6%83%B3%E9%A3%9B%E5%B0%B1%E4%BE%86%E8%A1%9D%E8%81%B2%E6%9C%9B%EF%BC%8C%E7%87%83%E7%87%92%E8%BB%8D%E5%9C%98%E8%81%B2%E6%9C%9B%E5%85%A8%E6%94%BB%E7%95%A5)；如果 7.0、7.1 都有玩，主要會卡在軍團之殞聲望，可以透過破碎海岸每日、追隨者任務、祈倫托特使任務提高聲望。原則上破碎群島探路者第一章、第二章兩個成就都解完就可以飛了。
 
-- *職業坐騎任務起點在哪裡？*
+- 職業坐騎任務起點在哪裡？
 
 請完成[突破古墓](http://www.wowhead.com/achievement=11546/breaching-the-tomb)成就（其實就是破碎海岸主線）。
 
-- *什麼是新神兵？*
+- 什麼是新神兵？
 
 舊神兵武器已經點到 35 個神兵特長以後，可以回新達拉然找卡德加接任務。最後用[破碎海岸：調查燃燒軍團](http://www.wowhead.com/quest=46765/the-broken-shore-investigating-the-legion#comments)解開新的神兵武器天賦樹。
 
-- *我想試試看神兵挑戰，拿[很酷的外觀](http://www.wowhead.com/challenging-artifact-weapon-appearances)……*
+- 我想試試看神兵挑戰，拿[很酷的外觀](http://www.wowhead.com/challenging-artifact-weapon-appearances)……
 
-目前神兵挑戰的成功率是 10%。
+目前神兵挑戰的成功率很低。
 
-- *入侵時間有規律嗎？*
+- 入侵時間有規律嗎？
 
-請見這一篇：https://www.ptt.cc/bbs/WOW/M.1492408548.A.A72.html
+請見[這一篇](https://www.ptt.cc/bbs/WOW/M.1492408548.A.A72.html)。
 
-- *瓦里安的遺物（羅盤在那裡）？*
+- 瓦里安的遺物（羅盤在那裡）？
 
 審判角右下方海域，約 53, 80 有沉船那裡（有可能不同）。
 
-- *永夜怎麼進，有什麼前置任務？*
+- 永夜怎麼進，有什麼前置任務？
 
 [軍團之殞物資](http://www.wowhead.com/quest=46286/legionfall-supplies)、[神盾祭壇](http://www.wowhead.com/quest=46244/altar-of-the-aegis)，解到神盾祭壇就可以進去了。
 
-- *卡拉贊前置任務怎麼做？*
+- 卡拉贊前置任務怎麼做？
 
-請看：http://www.wowhead.com/quest=45422/edict-of-the-god-king
+請看[這一篇](http://www.wowhead.com/quest=45422/edict-of-the-god-king)。
 
 # 好用的網路資源
 
@@ -89,7 +89,7 @@
 
 新人初加入公會的會階是 I <3 Sunshine，比較認識後即可晉升為正式會員，成為 Guildie。
 
-如果當前版本（例如 7.2.**5**）穩定參與公會團隊活動再晉升為 Raider。Raider 認定的是角色，不是帳號或人，會提供物資補助出團活動。
+如果當前版本（例如 7.2.__5__）穩定參與公會團隊活動再晉升為 Raider。Raider 認定的是角色，不是帳號或人，會提供物資補助出團活動。
 
 為了減少更新會階的工作量，每次小改版（例如 7.2.0→7.2.5）點名一次。
 
