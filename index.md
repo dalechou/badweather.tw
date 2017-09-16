@@ -77,7 +77,7 @@
 
 # 出團
 
-有興趣請參考[專頁](dalechou.github.io/raid/)。
+有興趣請參考[專頁](https://dalechou.github.io/raid/)。
 
 # 會階
 
