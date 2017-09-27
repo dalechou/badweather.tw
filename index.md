@@ -121,3 +121,5 @@
 
 - BattleTag: dale#3350
 - Line: dalechou
+
+現在手機可以裝 Battle.net App（[Android](https://play.google.com/store/apps/details?id=com.blizzard.messenger)/[iOS](https://itunes.apple.com/us/app/blizzard-battle-net/id1241040030)），滿好用的。
