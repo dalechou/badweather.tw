@@ -10,7 +10,7 @@
 
 # 好物推廣
 
-- [《千年之戰》](https://news.blizzard.com/zh-tw/world-of-warcraft/21061014/全新有聲書！《千年之戰》-艾蘭里亞與圖拉揚)有聲書上線囉:)
+- [《千年之戰》](https://news.blizzard.com/zh-tw/world-of-warcraft/21061014/全新有聲書！《千年之戰》-艾蘭里亞與圖拉揚)有聲書上線囉！
 
 # 關於 7.3.0
 
