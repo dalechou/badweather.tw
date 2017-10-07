@@ -8,6 +8,10 @@
 
 另外想特別感謝[那些穩定出團的人](https://dalechou.github.io/raid/)。謝謝。
 
+# 好物推廣
+
+- [《千年之戰》](https://news.blizzard.com/zh-tw/world-of-warcraft/21061014/全新有聲書！《千年之戰》-艾蘭里亞與圖拉揚)有聲書上線囉:)
+
 # 關於 7.3.0
 
 - 阿古斯怎麼飛？
