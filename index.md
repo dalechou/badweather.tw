@@ -90,7 +90,7 @@
 有興趣請參考下列專頁。
 
 - [趴了就怪那隻熊](https://dalechou.github.io/raid/)：跨伺服器休閒團，當前版本內容
-- [趴了別怪那隻熊，怪森夫](https://dalechou.github.io/raid/)：公會成就團，非當前版本內容
+- [趴了別怪那隻熊，怪森夫](https://dalechou.github.io/raid2/)：公會成就團，非當前版本內容
 
 # 會階
 
