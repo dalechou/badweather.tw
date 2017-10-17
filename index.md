@@ -6,7 +6,7 @@
 
 目前會維護當前版本和上一個版本的遊戲資訊。此外也會透過這份文件說明公會制度，盡力讓規則簡潔、清楚。
 
-另外想特別感謝那些穩定出團的人（[raid](https://dalechou.github.io/raid/)、[raid](https://dalechou.github.io/raid2/)）。謝謝。
+另外想特別感謝那些穩定出團的人（[raid](https://dalechou.github.io/raid/)、[raid2](https://dalechou.github.io/raid2/)）。謝謝。
 
 # 好物推廣
 
