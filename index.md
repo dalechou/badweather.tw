@@ -6,7 +6,7 @@
 
 目前會維護當前版本和上一個版本的遊戲資訊。此外也會透過這份文件說明公會制度，盡力讓規則簡潔、清楚。
 
-另外想特別感謝那些穩定出團的人（[raid](https://dalechou.github.io/raid/)、[raid2](https://dalechou.github.io/raid2/)）。謝謝。
+另外想特別感謝那些穩定出團的人（[raid](https://dalechou.github.io/raid/)、[raid2](https://sunflowerliu.github.io/raid2/)）。謝謝。
 
 # 好物推廣
 
@@ -90,7 +90,7 @@
 有興趣請參考下列專頁。
 
 - [趴了就怪那隻熊](https://dalechou.github.io/raid/)：跨伺服器休閒團，當前版本內容
-- [趴了別怪那隻熊，怪森夫](https://dalechou.github.io/raid2/)：公會成就團，非當前版本內容
+- [趴了別怪那隻熊，怪森夫](https://sunflowerliu.github.io/raid2/)：公會成就團，非當前版本內容
 
 # 會階
 
