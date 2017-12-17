@@ -1,12 +1,10 @@
 # 關於 Bad Weather
 
-我們是小公會，不一定隨時有人在線上，但仍希望會員在艾澤拉斯需要幫助時，都能找到答案。
-
-這份文件正是為了這樣的原因誕生的，希望隨著時間能讓既有答案更豐富完善。
+我們是小公會，不一定隨時都有人在線上，但仍希望會員在艾澤拉斯需要幫助時，都能找到答案。這份文件正是為了這樣的原因誕生的，希望隨著時間能讓既有答案更豐富完善。
 
 目前會維護當前版本和上一個版本的遊戲資訊。此外也會透過這份文件說明公會制度，盡力讓規則簡潔、清楚。
 
-另外想特別感謝那些穩定出團的人（[raid](https://dalechou.github.io/raid/)、[raid2](https://sunflowerliu.github.io/raid2/)）。謝謝。
+另外想特別感謝那些穩定出團的人（[raid](https://dalechou.github.io/raid/)。謝謝。
 
 # 好物推廣
 
@@ -74,23 +72,23 @@
 
 ## 副本表現相關插件
 
-- [DBM](https://mods.curse.com/addons/wow/deadly-boss-mods)：機制提醒
-- [Recount](https://mods.curse.com/addons/wow/recount)：看數據
-- [GTFO](https://mods.curse.com/addons/wow/gtfo)：常莫名其妙死掉請裝這個
+- [DBM](https://www.curseforge.com/wow/addons/deadly-boss-mods)：機制提醒
+- [Recount](https://www.curseforge.com/wow/addons/recount)：看數據
+- [GTFO](https://www.curseforge.com/wow/addons/gtfo)：常常莫名其妙死掉請裝這個
 
-## 其他可以改善遊戲品質的插件
+## 其他可以改善遊戲生活品質的插件
 
-- [Garrison Mission Manager](https://mods.curse.com/addons/wow/garrison-mission-manager)：派追隨者做任務
-- [Bagnon](https://mods.curse.com/addons/wow/bagnon)：把背包整合成一個大背包
-- [Postal](https://mods.curse.com/addons/wow/coordinates)：讓郵件功能更好用
-- [Coordinates](https://mods.curse.com/addons/wow/coordinates)：如果你在網路討論看到座標，不知道座標怎麼找，可以用這個
+- [Garrison Mission Manager](https://www.curseforge.com/wow/addons/garrison-mission-manager)：派追隨者做任務
+- [Bagnon](https://www.curseforge.com/wow/addons/bagnon)：把背包整合成一個大背包
+- [Postal](https://www.curseforge.com/wow/addons/nomicakes)：7.x 找糯米練食譜必用
+- [Coordinates](https://www.curseforge.com/wow/addons/coordinates)：如果你在網路討論看到座標，不知道座標怎麼找，可以用這個
 
 # 出團
 
 有興趣請參考下列專頁。
 
-- [趴了就怪那隻熊](https://dalechou.github.io/raid/)：跨伺服器休閒團，當前版本內容
-- [趴了別怪那隻熊，怪森夫](https://sunflowerliu.github.io/raid2/)：公會成就團，非當前版本內容
+- [趴了就怪那隻熊](https://dalechou.github.io/raid/)：跨伺服器
+- [趴了別怪那隻熊，怪森夫](https://sunflowerliu.github.io/raid2/)：籌備中
 
 # 會階
 
@@ -102,7 +100,7 @@
 
 新人初加入公會的會階是 I <3 Sunshine，比較認識後即可晉升為正式會員，成為 Guildie。
 
-如果當前版本（例如 7.2.__5__）穩定參與公會團隊活動再晉升為 Raider。這個會階認定的是角色，不是帳號或人，會提供物資補助出團活動。「穩定」的定義很直接：假設當週出團前沒有特別溝通過是否出團，但大家都覺得你應該會來；你也覺得你來了，一定有位子，那顯然就是穩定的。
+如果當前版本（例如 7.2.__5__）穩定參與團隊活動再晉升為 Raider。這個會階認定的是角色，不是帳號或人，會提供物資補助出團活動。想知道自己算不算穩定可以參考[出團名單](https://dalechou.github.io/raid/)。
 
 特例：如果出團角色一開始就在其他伺服器，然後開了分身來公會；又如果這個角色是有在經營的，第一個角色會設定為 Raider 會階。
 
@@ -114,7 +112,7 @@
 
 名單會標記第一個加入公會或顯然是本尊的角色名稱，目的是為了讓大家知道公會有誰。
 
-如果標記的剛好不是你最喜歡的角色，可以改的，說一聲就好。
+如果標記的剛好不是你最喜歡的角色，可以改，請跟會長說。
 
 # 會倉
 
@@ -127,6 +125,10 @@
 會倉就是要給大家用的，只要拿得到物品，就表示歡迎使用。別害羞！當前版本物資會放在前三頁，出團相關物資會放在最後一頁。
 
 有些排列方式可能不是最有邏輯的，如果是熟悉的專業，歡迎更動排列方式，讓會倉變得更好。原則是各個版本的物資都維持一定庫存，方便大家練專業、解任務。
+
+## 本頁變更
+
+在 GitHub 頁面更動都有[公開紀錄](https://github.com/dalechou/guild/commits/master/index.md)，有興趣的可以自己去看，就不再另外公告了。
 
 ## 聯絡
 
