@@ -1,6 +1,6 @@
 # 關於 Bad Weather
 
-我們是小公會，不一定隨時有人在線上，但仍希望會員在艾澤拉斯需要幫助時，能找到答案。這份文件正是為了這樣的原因誕生的，希望隨著時間能讓既有答案更豐富完善。
+我們是小公會，不一定隨時有人在線上，但仍希望會員在艾澤拉斯需要幫助時，能找到答案。這份文件正是為了這樣的原因誕生的，希望隨著時間能讓答案更豐富完善。
 
 目前會維護當前版本和上一個版本的遊戲資訊。此外也會透過這份文件說明公會制度，盡力讓規則簡潔、清楚。
 
@@ -8,27 +8,31 @@
 
 # 關於 7.3.5
 
+- 聽說有動態等級？
+
+有，請看[批踢踢這篇](https://www.ptt.cc/bbs/WOW/M.1510551609.A.BD3.html)。
+
 - 好卡好卡所有東西都好卡怎麼辦？
 
-請參考 [NGA](http://bbs.nga.cn/read.php?tid=13275250&rand=870) 這一篇。沒問題請不要亂調。
-
-- 阿古斯怎麼飛？
-
-阿古斯不能飛。
-
-- 7.x 要注意什麼？聽說神兵知識很重要？
-
-7.3.0 以後不用擔心神兵知識了，只要顧神兵特長和聖物。這個[簡介](https://www.ptt.cc/bbs/WOW/M.1504451362.A.F0B.html)不錯。
-
-- 六件 ilv 925 追隨者裝備任務做完後，怎麼接 ilv 950 追隨者裝備任務？
-
-換去荒原的太空船看看，會收到兩個中途任務，做完才有六件 ilv 950 追隨者裝備任務，再做完才有傳家寶任務（感謝包子）。
+請參考 [NGA](http://bbs.nga.cn/read.php?tid=13275250&rand=870) 這一篇。如果本來沒問題請不要亂調。
 
 # 關於 7.x
 
 - 教練，我想飛。
 
 如果 7.0、7.1 玩比較少，可以參考[這一篇](http://blog.xuite.net/i20jay/wow/446850986-%E3%80%907.0.3+%E9%AD%94%E7%8D%B8%E4%B8%96%E7%95%8C%E3%80%91+%E6%83%B3%E9%A3%9B%E5%B0%B1%E4%BE%86%E8%A1%9D%E8%81%B2%E6%9C%9B%EF%BC%8C%E7%87%83%E7%87%92%E8%BB%8D%E5%9C%98%E8%81%B2%E6%9C%9B%E5%85%A8%E6%94%BB%E7%95%A5)；如果 7.0、7.1 都有玩，主要會卡在軍團之殞聲望，可以透過破碎海岸每日、追隨者任務、祈倫托特使任務提高聲望。原則上破碎群島探路者第一章、第二章兩個成就都解完就可以飛了。
+
+- 阿古斯怎麼飛？
+
+阿古斯不能飛。
+
+- 要注意什麼？聽說神兵知識很重要？
+
+7.3.0 以後不用擔心神兵知識了，只要顧神兵特長和聖物。這個[簡介](https://www.ptt.cc/bbs/WOW/M.1504451362.A.F0B.html)不錯。
+
+- 去阿古斯後，六件 ilv 925 追隨者裝備任務做完後，怎麼接 ilv 950 追隨者裝備任務？
+
+換去荒原的太空船看看，會收到兩個中途任務，做完才有六件 ilv 950 追隨者裝備任務，再做完才有傳家寶任務（感謝包子）。
 
 - 職業坐騎任務起點在哪裡？
 
@@ -64,16 +68,16 @@
 
 ## 副本表現相關插件
 
-- [DBM](https://www.curseforge.com/wow/addons/deadly-boss-mods)：機制提醒
-- [Recount](https://www.curseforge.com/wow/addons/recount)：看數據
-- [GTFO](https://www.curseforge.com/wow/addons/gtfo)：常常莫名其妙死掉請裝這個
+- [DBM](https://wow.curseforge.com/projects/deadly-boss-mods)：機制提醒
+- [Details!](https://wow.curseforge.com/projects/details)：看數據
+- [GTFO](https://wow.curseforge.com/projects/gtfo)：常常莫名其妙死掉請裝這個
 
 ## 其他可以改善遊戲生活品質的插件
 
-- [Garrison Mission Manager](https://www.curseforge.com/wow/addons/garrison-mission-manager)：派追隨者做任務
-- [Bagnon](https://www.curseforge.com/wow/addons/bagnon)：把背包整合成一個大背包
-- [Postal](https://www.curseforge.com/wow/addons/nomicakes)：7.x 找糯米練食譜必用
-- [Coordinates](https://www.curseforge.com/wow/addons/coordinates)：如果你在網路討論看到座標，不知道座標怎麼找，可以用這個
+- [Garrison Mission Manager](https://wow.curseforge.com/projects/garrison-mission-manager)：派追隨者做任務
+- [Bagnon](https://wow.curseforge.com/projects/bagnon)：把背包整合成一個大背包
+- [Postal](https://wow.curseforge.com/projects/nomicakes)：7.x 找糯米練食譜必用
+- [Coordinates](https://wow.curseforge.com/projects/coordinates)：如果你在網路討論看到座標，不知道座標怎麼找，可以用這個
 
 # 出團
 
