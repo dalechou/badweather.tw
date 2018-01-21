@@ -8,7 +8,7 @@
 
 # 關於 7.3.5
 
-- 聽說有動態等級？
+- 聽說有動態等級？我練等要去哪裡？
 
 有，請看[批踢踢這篇](https://www.ptt.cc/bbs/WOW/M.1510551609.A.BD3.html)。
 
@@ -20,7 +20,7 @@
 
 - 教練，我想飛。
 
-如果 7.0、7.1 玩比較少，可以參考[這一篇](http://blog.xuite.net/i20jay/wow/446850986-%E3%80%907.0.3+%E9%AD%94%E7%8D%B8%E4%B8%96%E7%95%8C%E3%80%91+%E6%83%B3%E9%A3%9B%E5%B0%B1%E4%BE%86%E8%A1%9D%E8%81%B2%E6%9C%9B%EF%BC%8C%E7%87%83%E7%87%92%E8%BB%8D%E5%9C%98%E8%81%B2%E6%9C%9B%E5%85%A8%E6%94%BB%E7%95%A5)；如果 7.0、7.1 都有玩，主要會卡在軍團之殞聲望，可以透過破碎海岸每日、追隨者任務、祈倫托特使任務提高聲望。原則上破碎群島探路者第一章、第二章兩個成就都解完就可以飛了。
+如果 7.x 初期玩得比較少，可以參考[這一篇](http://blog.xuite.net/i20jay/wow/446850986-%E3%80%907.0.3+%E9%AD%94%E7%8D%B8%E4%B8%96%E7%95%8C%E3%80%91+%E6%83%B3%E9%A3%9B%E5%B0%B1%E4%BE%86%E8%A1%9D%E8%81%B2%E6%9C%9B%EF%BC%8C%E7%87%83%E7%87%92%E8%BB%8D%E5%9C%98%E8%81%B2%E6%9C%9B%E5%85%A8%E6%94%BB%E7%95%A5)；如果 7.0、7.1 都有玩，主要會卡在軍團之殞聲望，可以透過破碎海岸每日、追隨者任務、祈倫托特使任務提高聲望。原則上破碎群島探路者第一章、第二章兩個成就都解完就可以飛了。
 
 - 阿古斯怎麼飛？
 
@@ -56,19 +56,19 @@
 
 # 好用的網路資源
 
-- [Icy Veins](http://www.icy-veins.com/wow/class-guides)：不會點天賦、神兵特長可以看這
-- [Wowhead 神兵模擬器](http://www.wowhead.com/artifact-calc)
-- [Wowhead 天賦模擬器](http://www.wowhead.com/talent-calc)
-- [Wowhead 塑形模擬器](http://www.wowhead.com/dressing-room)：小心，時間會不知不覺過去XD
+- [Icy Veins](http://www.icy-veins.com/wow/class-guides)：不會點天賦或神兵特長可以看這
+- [神兵模擬器](http://www.wowhead.com/artifact-calc)
+- [天賦模擬器](http://www.wowhead.com/talent-calc)
+- [塑形模擬器](http://www.wowhead.com/dressing-room)：小心，時間會不知不覺過去XD
 - [玩家寫的英雄榜](https://hi-armory.tw/)
 
 # 好用的插件
 
-如果覺得手動更新插件很煩，請考慮 [Twitch App](https://app.twitch.tv/download)。
+如果覺得手動更新插件很煩，請考慮 [Twitch App](https://app.twitch.tv/download)。現在很好用了，公會語音也常用這個軟體。
 
 ## 副本表現相關插件
 
-- [DBM](https://wow.curseforge.com/projects/deadly-boss-mods)：機制提醒
+- [DBM](https://wow.curseforge.com/projects/deadly-boss-mods)：副本機制提醒
 - [Details!](https://wow.curseforge.com/projects/details)：看數據
 - [GTFO](https://wow.curseforge.com/projects/gtfo)：常常莫名其妙死掉請裝這個
 
@@ -100,7 +100,7 @@
 
 特例：如果出團角色一開始就在其他伺服器，然後開了分身來公會；又如果這個角色是有在經營的，第一個角色會設定為 Raider 會階。
 
-三個月未上線改設為 AFK，無會倉權限；但只要回鍋，並且告知會長即恢復權限。這單純是為了保護會倉安全，避免因盜帳號等情況損失會倉物資。
+兩個月未上線改設為 AFK，無會倉權限；但只要回鍋，告知會長即可恢復權限。這單純是為了保護會倉安全，避免因盜帳號等情況損失會倉物資。
 
 為了減少更新會階的工作量，會階不一定會立即更新，但至少每次小改版（例如 7.2.0→7.2.5）更新一次。
 
