@@ -12,9 +12,11 @@
 
 有，請看[批踢踢這篇](https://www.ptt.cc/bbs/WOW/M.1510551609.A.BD3.html)。
 
-- 好卡好卡所有東西都好卡怎麼辦？
+- 我想快速長大！聽說 7.3.5 可以快速長大！
 
-請參考 [NGA](http://bbs.nga.cn/read.php?tid=13275250&rand=870) 這一篇。如果本來沒問題請不要亂調。
+請參考[批踢踢這一篇](https://www.ptt.cc/bbs/WOW/M.1517027609.A.4E2.html)。
+
+但所有行為都有其代價，這樣會少掉很多樂趣，強烈不建議。尤其很多人都覺得 7.3.5 跑故事樂趣變多了（[1](https://www.reddit.com/r/wow/comments/7tf5i0/i_really_enjoy_the_735_leveling_experience/)、[2](https://www.reddit.com/r/wow/comments/6x1u79/with_all_the_new_quest_and_zone_content_in_73_it/)）。
 
 # 關於 7.x
 
