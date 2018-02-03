@@ -10,7 +10,7 @@
 
 - 聽說有動態等級？我練等要去哪裡？
 
-有，請看[批踢踢這篇](https://www.ptt.cc/bbs/WOW/M.1510551609.A.BD3.html)和[這一篇](https://www.ptt.cc/bbs/WOW/M.1517479672.A.1FF.html)。
+有，請看批踢踢[這篇](https://www.ptt.cc/bbs/WOW/M.1510551609.A.BD3.html)和[聽說比較好的這一篇](https://www.ptt.cc/bbs/WOW/M.1517479672.A.1FF.html)。
 
 - 我想快速長大！聽說 7.3.5 可以快速長大！
 
