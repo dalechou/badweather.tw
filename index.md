@@ -10,11 +10,11 @@
 
 - 聽說有動態等級？我練等要去哪裡？
 
-有，請看批踢踢[這篇](https://www.ptt.cc/bbs/WOW/M.1510551609.A.BD3.html)和[聽說比較好的這一篇](https://www.ptt.cc/bbs/WOW/M.1517479672.A.1FF.html)。
+有，請看批踢踢[這篇](https://www.ptt.cc/bbs/WOW/M.1510551609.A.BD3.html)。
 
 - 我想快速長大！聽說 7.3.5 可以快速長大！
 
-請參考[批踢踢這一篇](https://www.ptt.cc/bbs/WOW/M.1517027609.A.4E2.html)。
+請參考[批踢踢這一篇](https://www.ptt.cc/bbs/WOW/M.1517027609.A.4E2.html)和[聽說比較好的這一篇](https://www.ptt.cc/bbs/WOW/M.1517479672.A.1FF.html)或[這一篇](https://www.ptt.cc/bbs/WOW/M.1518020136.A.583.html)。
 
 但所有行為都有其代價，這樣會少掉很多樂趣，強烈不建議。尤其很多人都覺得 7.3.5 跑故事樂趣變多了（[1](https://www.reddit.com/r/wow/comments/7tf5i0/i_really_enjoy_the_735_leveling_experience/)、[2](https://www.reddit.com/r/wow/comments/6x1u79/with_all_the_new_quest_and_zone_content_in_73_it/)）。
 
