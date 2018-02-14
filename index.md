@@ -15,7 +15,7 @@
 - 新朋友／[老朋友](https://dalechou.github.io/wow/oldfriends.html)
 - 公會原則
 - [會階](https://dalechou.github.io/wow/ranks.html)
-- 會倉
+- [會倉](https://dalechou.github.io/wow/bank.html)
 - 出團
 - 插件和網路資源
 - 教練，我想變強
