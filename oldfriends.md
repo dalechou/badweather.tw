@@ -53,4 +53,5 @@
 請看[這一篇](http://www.wowhead.com/quest=45422/edict-of-the-god-king)。
 
 ---
-請[點此](https://dalechou.github.io/wow/)回到公會主頁。
+
+請[點此](https://dalechou.github.io/wow/)回目錄。
