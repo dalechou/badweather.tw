@@ -30,6 +30,8 @@
 
 不確定，但我很希望能加入，所以先算進來：極辣朝天椒
 
+---
+
 ## 出團紀錄
 
 出團紀錄請看 [Warcraft Logs](http://tinyurl.com/dalewarcraftlogs)。
@@ -41,6 +43,8 @@
 歷史戰績：
 - 領先群雄：基爾加丹
 - 領先群雄：古爾丹
+
+---
 
 ## 語音
 
@@ -56,6 +60,8 @@
 
 備用語音：[Battle.net App Social](https://blizzard.com/invite/MpAJNTMNA)（連結沒辦法用請喊一下）
 
+---
+
 ## 時間
 
 每週四晚 21:00 – 00:00 出團，十分鐘前開組。
@@ -70,6 +76,8 @@
 
 總之，希望大家都能好好安排這一週中的三小時，好好跟其他二十幾個人享受這個遊戲。
 
+---
+
 ## 準備工作以及責任
 
 團隊會補助大餐、大鍋。如果是聖光之願、天空之牆的團員會補助符文。如果是 [Bad Weather](https://dalechou.github.io/wow/) 公會成員會補助修裝費。
@@ -79,6 +87,8 @@
 團員需要負責身上附魔、寶石。原則上使用當前版本的東西，但像坦附魔可能 6.x 比 7.x 好除外。
 
 說明：出團的樂趣在於挑戰極限，挑戰邊際，無論是團隊的或自己的。相信有些人就算沒有附魔、寶石還是能打出亮眼的成績，但只有盡力做到最好，才知道能走多遠。
+
+---
 
 ## 分裝
 
@@ -90,6 +100,8 @@
 
 目前共識仍認為個人拾取是最公平的制度，每週開寶也滿有趣的，所以會繼續使用個人拾取制度。希望團隊也能因此更長久一點。
 
+---
+
 ## 是戰犯！你在隱藏什麼？
 
 抓戰犯請用密語──「趴了就怪那隻熊」吧。
@@ -98,13 +110,11 @@
 
 ---
 
-## 本頁變更
-
-在 GitHub 頁面更動都有[公開紀錄](https://github.com/dalechou/wow/commits/master/index.md)，有興趣的可以自己去看，就不再另外公告了。
-
 ## 聯絡
 
 - BattleTag: dale#3350
 - Line: dalechou
 
 現在手機可以裝 Battle.net App（[Android](https://play.google.com/store/apps/details?id=com.blizzard.messenger)/[iOS](https://itunes.apple.com/us/app/blizzard-battle-net/id1241040030)），滿好用的。
+
+文件變更請參考[公開紀錄](https://github.com/dalechou/wow/commits/master/index.md)，不會另外公告。
