@@ -20,6 +20,8 @@
 
 文件變更請參考[公開紀錄](https://github.com/dalechou/wow/commits/master/index.md)，不會另外公告。
 
+--- 
+
 ## 聯絡
 
 - BattleTag: dale#3350
