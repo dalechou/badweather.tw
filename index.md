@@ -6,13 +6,15 @@
 
 另外特別感謝[那些穩定出團的人](https://dalechou.github.io/wow/raid.html)。謝謝。
 
+---
+
 ## 目錄
 
 目前文件內容如下。
 
 - 新朋友／[老朋友](https://dalechou.github.io/wow/oldfriends.html)
 - 公會原則
-- 會階
+- [會階](https://dalechou.github.io/wow/ranks.html)
 - 會倉
 - 出團
 - 插件和網路資源
