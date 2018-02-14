@@ -46,7 +46,7 @@
 
 使用 [Twitch](https://app.twitch.tv/download)，房間位置：[EnNe](https://invite.twitch.tv/EnNe)
 
-![](https://dalechou.github.com/raid/Twitch.png)
+![](https://dalechou.github.com/wow/Twitch.png)
 
 語音使用方法：
 - 打開 Twitch App，然後登入
