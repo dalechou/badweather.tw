@@ -13,14 +13,10 @@
 目前文件內容如下。
 
 - 新朋友／[老朋友](https://dalechou.github.io/wow/oldfriends.html)
-- 公會原則
 - [會階](https://dalechou.github.io/wow/ranks.html)
 - [會倉](https://dalechou.github.io/wow/bank.html)
-- 出團
-- 插件和網路資源
-- 教練，我想變強
-
-文件變更請參考[公開紀錄](https://github.com/dalechou/wow/commits/master/index.md)，不會另外公告。
+- [出團](https://dalechou.github.io/wow/raiding.html)
+- [插件和網路資源](https://dalechou.github.io/wow/useful.html)
 
 --- 
 
@@ -30,3 +26,5 @@
 - Line: dalechou
 
 現在手機可以裝 Battle.net App（[Android](https://play.google.com/store/apps/details?id=com.blizzard.messenger)/[iOS](https://itunes.apple.com/us/app/blizzard-battle-net/id1241040030)），滿好用的。
+
+文件變更請參考[公開紀錄](https://github.com/dalechou/wow/commits/master/index.md)，不會另外公告。
