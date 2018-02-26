@@ -29,7 +29,7 @@
 
 出團紀錄請看 [Warcraft Logs](http://tinyurl.com/dalewarcraftlogs)。
 
-目前正在拓普通燃燒王座。
+目前剛拓過英雄燃燒王座。
 
 每一個版本的目標是英雄全通，拿到「領先群雄」成就。不會挑戰傳奇難度。
 
