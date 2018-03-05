@@ -41,7 +41,7 @@
 
 ## 語音
 
-使用 [Twitch](https://app.twitch.tv/download)，房間位置：[EnNe](https://invite.twitch.tv/EnNe)
+使用 [Twitch](https://app.twitch.tv/download)，房間位置：[RNv9fX](https://invite.twitch.tv/RNv9fX)
 
 ![](https://dalechou.github.com/wow/Twitch.png)
 
