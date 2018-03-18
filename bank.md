@@ -4,7 +4,7 @@
 
 取用時可以用 Shift + 左鍵輸入確切數量。這時應該出現下圖黃框標示的介面。
 
-![](https://dalechou.github.com/guild/guild_bank.png)
+![](https://dalechou.github.com/wow/guild_bank.png)
 
 會倉就是要給大家用的，只要拿得到物品，就表示歡迎使用。別害羞！當前版本物資會放在前三頁，出團相關物資會放在最後一頁。
 
