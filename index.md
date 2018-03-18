@@ -32,6 +32,8 @@
 
 ## 聯絡
 
+- BattleTag: 笨笨包子#3331
+- BattleTag: 開朗米基羅#4277
 - BattleTag: dale#3350
 - Line: dalechou
 
