@@ -10,7 +10,7 @@
 
 ※ 為了避免破壞遊戲體驗，等級 60 才會寄錢。
 
-另外邀請新人進公會時，請記得說明[會倉](https://dalechou.github.io/wow/bank.html)使用方法。
+邀請新人進公會時，請記得說明[會倉](https://dalechou.github.io/wow/bank.html)使用方法。
 
 ---
 
