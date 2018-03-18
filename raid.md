@@ -105,6 +105,12 @@
 
 ---
 
+## 時程
+
+![](https://dalechou.github.com/wow/map.png)
+
+---
+
 ## 聯絡
 
 - BattleTag: dale#3350
