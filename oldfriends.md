@@ -1,6 +1,6 @@
-## 老朋友
+## 嗨，老朋友
 
-嗨，歡迎回鍋。
+歡迎回鍋。官網整理的資訊很不錯，請記得[去看看](https://worldofwarcraft.com/zh-tw/game/returning-players-guide)。
 
 ---
 
