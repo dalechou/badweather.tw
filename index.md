@@ -10,11 +10,10 @@
 
 ## 「優秀表現」公會成就
 
-尚缺以下組合！
+剩下最後兩個了，都在努力中，在公會看到請多多給予協助！
 
-- 矮人法
-- 德萊尼戰
-- 熊貓人賊
+- 熊貓人賊：茴香豆花
+- 矮人牧師：塞琳老牧
 
 ---
 
@@ -22,9 +21,10 @@
 
 目前文件內容如下。
 
-- 新朋友／[老朋友](https://dalechou.github.io/wow/oldfriends.html)
+- [新手請看這頁](https://dalechou.github.io/wow/newbies.html)
+- [回鍋請看這頁](https://dalechou.github.io/wow/oldfriends.html)
+- [會倉](https://dalechou.github.io/wow/bank.html)（超重要）
 - [會階](https://dalechou.github.io/wow/ranks.html)
-- [會倉](https://dalechou.github.io/wow/bank.html)
 - [出團](https://dalechou.github.io/wow/raiding.html)
 - [插件和網路資源](https://dalechou.github.io/wow/useful.html)
 
