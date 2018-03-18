@@ -21,8 +21,8 @@
 
 目前文件內容如下。
 
-- [新手請看這頁](https://dalechou.github.io/wow/newbies.html)
-- [回鍋請看這頁](https://dalechou.github.io/wow/oldfriends.html)
+- [嗨，新朋友](https://dalechou.github.io/wow/newbies.html)
+- [嗨，老朋友](https://dalechou.github.io/wow/oldfriends.html)
 - [會倉](https://dalechou.github.io/wow/bank.html)（超重要）
 - [會階](https://dalechou.github.io/wow/ranks.html)
 - [出團](https://dalechou.github.io/wow/raiding.html)
