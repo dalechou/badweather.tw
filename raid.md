@@ -107,7 +107,7 @@
 
 ## 時程
 
-![](https://dalechou.github.com/wow/map.png)
+![](https://dalechou.github.com/wow/roadmap.png)
 
 ---
 
