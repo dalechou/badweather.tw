@@ -20,7 +20,7 @@
 - [天賦模擬器](http://www.wowhead.com/talent-calc)
 - [塑形模擬器](http://www.wowhead.com/dressing-room)：小心，時間會不知不覺過去XD
 - [玩家寫的英雄榜](https://hi-armory.tw/)
-- [kuarcis 抓的拍賣場物價](https://docs.google.com/spreadsheets/d/1B1e0dteBx4cuuduq8UwDURxSt70dZ_ukRJlAiKFzqgQ/edit#gid=408068126)[批踢踢說明](https://www.ptt.cc/bbs/WOW/M.1521465973.A.65D.html)
+- [kuarcis 抓的拍賣場物價](https://docs.google.com/spreadsheets/d/1B1e0dteBx4cuuduq8UwDURxSt70dZ_ukRJlAiKFzqgQ/edit#gid=408068126)（[批踢踢說明](https://www.ptt.cc/bbs/WOW/M.1521465973.A.65D.html)）
 
 --- 
 
