@@ -12,6 +12,8 @@
 
 邀請新人進公會時，請記得說明[會倉](https://dalechou.github.io/wow/bank.html)使用方法。
 
+包包不一定是最高級的，市場浮動很大，(物資也不容易準備)[https://www.ptt.cc/bbs/WOW/M.1497946667.A.26D.html]，這部分只能盡量做。
+
 ---
 
 請[點此](https://dalechou.github.io/wow/)回目錄。
