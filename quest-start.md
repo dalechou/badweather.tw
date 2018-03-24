@@ -1,9 +1,9 @@
-## 職業心測小遊戲
+## 心測小遊戲
 
 這是充滿魔法的美麗世界，身為勇敢的探險家，我……
 
-- 當然也擁有魔法。
-- 擁有能與魔法抗衡的力量。
+- 當然也有魔法（[選擇一](https://dalechou.github.io/wow/quest-1.html)）
+- 擁有能與魔法抗衡的力量（[選擇二]((https://dalechou.github.io/wow/quest-2.html))）
 
 --- 
 
