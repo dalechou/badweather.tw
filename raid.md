@@ -49,15 +49,15 @@
 
 使用 [Twitch](https://app.twitch.tv/download)，房間位置：[RNv9fX](https://invite.twitch.tv/RNv9fX)
 
-![](https://dalechou.github.com/wow/Twitch.png)
+![](https://dalechou.github.com/wow/twitch.png)
 
 語音使用方法：
-- 打開 Twitch App，然後登入
+- 打開 Twitch App，然後登入（這步驟一定要先做）
 - 點選上方房間連結
 - 點選上圖紅色框框按鈕
 - 找到房間後，加入最愛
 
-備用語音：[Battle.net App Social](https://blizzard.com/invite/MpAJNTMNA)（連結沒辦法用請喊一下）
+備用語音：[Battle.net App Social](https://blizzard.com/invite/MpAJNTMNA)（連結失效請說一下）
 
 ---
 
