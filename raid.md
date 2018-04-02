@@ -52,9 +52,9 @@
 - 點選上圖紅色框框按鈕
 - 找到房間後，加入最愛
 
-近期可能會換成 [Discord](https://discordapp.com/download)：[https://discord.gg/Jyn6ERe](https://discord.gg/Jyn6ERe)
-
-備用語音：[Battle.net App Social](https://blizzard.com/invite/MpAJNTMNA)（連結失效請說一下）
+另外有下列備用語音：
+- [Discord](https://discord.gg/Jyn6ERe)（評估中）
+- [Battle.net App Social](https://blizzard.com/invite/MpAJNTMNA)
 
 ---
 
