@@ -10,10 +10,9 @@
 
 ## 「優秀表現」公會成就
 
-剩下最後兩個了，都在努力中，在公會看到請多多給予協助！
+剩下最後一個了，在公會看到請多多給予協助！
 
 - 熊貓人賊：茴香豆花
-- 矮人牧師：塞琳老牧
 
 ---
 
@@ -27,6 +26,15 @@
 - [會階](https://dalechou.github.io/wow/ranks.html)
 - [出團](https://dalechou.github.io/wow/raiding.html)
 - [插件和網路資源](https://dalechou.github.io/wow/useful.html)
+
+--- 
+
+## 社群
+
+目前有 Discord 跟 Line。
+
+- [Discord](https://discord.gg/Jyn6ERe)
+- [Line](http://line.me/ti/g/lAAssEANn0)
 
 --- 
 
