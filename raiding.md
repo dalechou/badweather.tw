@@ -1,8 +1,9 @@
 ## 出團
 
-有興趣請參考[趴了就怪那隻熊](https://dalechou.github.io/wow/raid.html)專頁。
+請參考下列專頁，多多參與公會活動。
 
-另外有第二團籌備中。
+- 週四晚：[趴了就怪那隻熊](https://dalechou.github.io/wow/raid.html)
+- 週一晚：[公會成就團](https://dalechou.github.io/wow/raid2.html)
 
 --- 
 
