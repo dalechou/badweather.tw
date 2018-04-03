@@ -6,12 +6,14 @@
 
 固定參與[趴了就怪那隻熊](https://dalechou.github.io/wow/raid.html)的其他公會成員也歡迎。
 
-4/9 目標：
-- 1
-- 2
-- 3
-- 4
-- 5
+| **日期** | **副本** | **成就** | **攻略** |
+| --- | --- | --- | --- |
+| 4/9 | | | |
+| 4/9 | | | |
+| 4/9 | | | |
+| 4/9 | | | |
+| 4/9 | | | |
+| --- | --- | --- | --- |
 
 ---
 
@@ -68,7 +70,6 @@
 ## 聯絡
 
 - BattleTag: dale#3350
-- Line: dalechou
 
 現在手機可以裝 Battle.net App（[Android](https://play.google.com/store/apps/details?id=com.blizzard.messenger)/[iOS](https://itunes.apple.com/us/app/blizzard-battle-net/id1241040030)），滿好用的。
 
