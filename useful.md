@@ -20,8 +20,9 @@
 - [天賦模擬器](http://www.wowhead.com/talent-calc)
 - [塑形模擬器](http://www.wowhead.com/dressing-room)：小心，時間會不知不覺過去XD
 - [玩家寫的英雄榜](https://hi-armory.tw/)
-- [拍賣場物價](https://docs.google.com/spreadsheets/d/1B1e0dteBx4cuuduq8UwDURxSt70dZ_ukRJlAiKFzqgQ/edit#gid=408068126)（[批踢踢 kuarcis 寫的](https://www.ptt.cc/bbs/WOW/M.1521465973.A.65D.html)）
 
 --- 
 
 請[點此](https://dalechou.github.io/wow/)回目錄。
+
+文件變更請參考[公開紀錄](https://github.com/dalechou/wow/commits/master/useful.md)，不會另外公告。
