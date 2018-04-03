@@ -4,7 +4,7 @@
 
 目前會維護當前版本和上一個版本的遊戲資訊。此外也會透過這份文件說明公會制度，盡力讓規則簡潔、清楚。
 
-另外特別感謝[那些穩定出團的人](https://dalechou.github.io/wow/raid.html)。謝謝。
+另外特別感謝[那些穩定出團的人](https://dalechou.github.io/wow/raiding.html)。謝謝。
 
 ---
 
