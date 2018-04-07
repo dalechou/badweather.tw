@@ -1,28 +1,18 @@
 ## 公會成就團
 
-我們是 Bad Weather 公會成就團！
+我們是 Bad Weather 公會成就團！這個團的目標是解公會和團隊副本成就。主要以公會成員為主，如果打舊的團隊副本，有可能帶還沒滿等的公會成員。固定參與[趴了就怪那隻熊](https://dalechou.github.io/wow/raid.html)的團隊成員也歡迎。
 
-4/9 預計目的地：黑翼陷窟
+4/9 目的地：黑翼陷窟
 
 這次因為第一次玩，由 Darc 決定去哪裡。下次開始改由 /roll 前三名決定。
 
 | **成就** | **攻略** |
 | --- | --- |
-| 寄生黃昏 ||
-| 沉默是金 | |
-| 怪異行為 | |
-| 聲勢驚人的怒火 | |
+| 寄生黃昏 | https://www.ptt.cc/bbs/WOW/M.1334402821.A.53B.html |
+| 沉默是金 | https://www.ptt.cc/bbs/WOW/M.1334402821.A.53B.html |
+| 怪異行為 | https://www.ptt.cc/bbs/WOW/M.1334402821.A.53B.html |
+| 聲勢驚人的怒火 | https://www.ptt.cc/bbs/WOW/M.1334402821.A.53B.html |
 | 家族傳承 | https://www.ptt.cc/bbs/WOW/M.1430486969.A.651.html |
-
-這個團主要以公會成員為主，如果打舊的團隊副本，有可能帶還沒滿等的公會成員。
-
-固定參與[趴了就怪那隻熊](https://dalechou.github.io/wow/raid.html)的其他公會成員也歡迎。
-
----
-
-## 出團目標
-
-解公會和團隊副本成就。
 
 ---
 
