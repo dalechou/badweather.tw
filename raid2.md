@@ -50,7 +50,7 @@
 
 裝綁、塑形、坐騎、寵物等有需求請按「需」。
 
-![](https://dalechou.github.com/wow/need.jpg)
+![](https://dalechou.github.com/wow/need.png)
 
 ---
 
