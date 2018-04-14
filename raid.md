@@ -36,7 +36,7 @@
 
 歷史戰績：
 - 領先群雄：[滅界者阿古斯](aotc_argus.jpg)
-- 領先群雄：[基爾加丹](aotc_kiljaeden.jpg)（當時忘了合照，隨便傳一個）
+- 領先群雄：[基爾加丹](aotc_kiljaeden.jpg)（當時忘了合照，[隨便傳一個](aotc_kiljaeden2.jpg)）
 - 領先群雄：[古爾丹](aotc_guldan.jpg)
 
 ---
@@ -45,7 +45,7 @@
 
 使用 [Twitch](https://app.twitch.tv/download)，房間位置：[RNv9fX](https://invite.twitch.tv/RNv9fX)
 
-![](https://dalechou.github.com/wow/twitch.png)
+![](twitch.png)
 
 語音使用方法：
 - 打開 Twitch App，然後登入（這步驟一定要先做）
