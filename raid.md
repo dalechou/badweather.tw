@@ -36,7 +36,7 @@
 
 歷史戰績：
 - 領先群雄：[滅界者阿古斯](aotc_argus.jpg)
-- 領先群雄：[基爾加丹](aotc_kiljaeden.jpg)（當時忘了合照，[隨便傳一個](aotc_kiljaeden2.jpg)）
+- 領先群雄：基爾加丹（[當時忘了合照](aotc_kiljaeden.jpg)，[隨便傳一個](aotc_kiljaeden2.jpg)）
 - 領先群雄：[古爾丹](aotc_guldan.jpg)
 
 ---
