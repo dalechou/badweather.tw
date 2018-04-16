@@ -2,20 +2,15 @@
 
 我們是 Bad Weather 公會成就團！這個團的目標是解公會和團隊副本成就。主要以公會成員為主，如果打舊的團隊副本，有可能帶還沒滿等的公會成員。固定參與[趴了就怪那隻熊](https://dalechou.github.io/wow/raid.html)的團隊成員也歡迎。
 
-4/16 目的地：雷霆王座
+4/24 目的地：魔古山寶庫
 
  | **決定者** | **成就** |
 | --- | --- | --- |
-| 加五元變大薯 | 閃電過載 |
-| 加五元變大薯 | 白堊紀收集者 |
-| 加五元變大薯 | 鐵龍戰 |
-| 呆萌包子 | 溫柔的雙手 |
-| 妹妹大人 | 魔鬼剋星 |
-
-可參考攻略：
-- [https://www.ptt.cc/bbs/WOW/M.1367637564.A.371.html](https://www.ptt.cc/bbs/WOW/M.1367637564.A.371.html)
-- [https://forum.gamer.com.tw/C.php?bsn=5219&snA=645097](https://forum.gamer.com.tw/C.php?bsn=5219&snA=645097)
-- [https://www.ptt.cc/bbs/WOW/M.1367151819.A.040.html](https://www.ptt.cc/bbs/WOW/M.1367151819.A.040.html)
+| 一灰羽一 |  |
+| 一灰羽一 |  |
+| 一灰羽一 |  |
+| 妹妹大人 |  |
+| 呆萌包子 |  |
 
 ---
 
