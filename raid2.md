@@ -15,6 +15,7 @@
 可參考攻略：
 - [https://www.ptt.cc/bbs/WOW/M.1367637564.A.371.html](https://www.ptt.cc/bbs/WOW/M.1367637564.A.371.html)
 - [https://forum.gamer.com.tw/C.php?bsn=5219&snA=645097](https://forum.gamer.com.tw/C.php?bsn=5219&snA=645097)
+- [https://www.ptt.cc/bbs/WOW/M.1367151819.A.040.html](https://www.ptt.cc/bbs/WOW/M.1367151819.A.040.html)
 
 ---
 
