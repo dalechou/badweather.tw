@@ -12,7 +12,9 @@
 | 呆萌包子 | 溫柔的雙手 |
 | 妹妹大人 | 魔鬼剋星 |
 
-可參考攻略：[https://www.ptt.cc/bbs/WOW/M.1367637564.A.371.html](https://www.ptt.cc/bbs/WOW/M.1367637564.A.371.html)
+可參考攻略：
+- [https://www.ptt.cc/bbs/WOW/M.1367637564.A.371.html](https://www.ptt.cc/bbs/WOW/M.1367637564.A.371.html)
+- https://forum.gamer.com.tw/C.php?bsn=5219&snA=645097
 
 ---
 
