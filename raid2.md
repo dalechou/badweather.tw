@@ -12,6 +12,9 @@
 | 妹妹大人 |  |
 | 呆萌包子 |  |
 
+參考攻略：
+- [https://www.ptt.cc/bbs/WOW/M.1356487224.A.66F.html](https://www.ptt.cc/bbs/WOW/M.1356487224.A.66F.html)
+
 ---
 
 ## 語音
