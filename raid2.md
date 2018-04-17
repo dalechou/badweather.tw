@@ -10,7 +10,7 @@
 - [https://www.ptt.cc/bbs/WOW/M.1356487224.A.66F.html](https://www.ptt.cc/bbs/WOW/M.1356487224.A.66F.html)
 - [http://bbs.ngacn.cc/read.php?tid=5879980&rand=525](http://bbs.ngacn.cc/read.php?tid=5879980&rand=525)
 
-<sup>1</sup> **玩法簡化囉，請往下看一下！！！**
+<sup>1</sup> **玩法簡化囉，請往下看！**
 
 ---
 
