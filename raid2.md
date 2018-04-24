@@ -20,7 +20,7 @@
 
 ## 語音
 
-- [Discord](https://discord.gg/Jyn6ERe)
+解成就沒有語音實在太困難了，請先準備好 [Discord](https://discord.gg/Jyn6ERe)。
 
 ---
 
