@@ -46,7 +46,7 @@
 
     舊神兵武器已經點到 35 個神兵特長以後，可以回新達拉然找卡德加接任務。最後用[破碎海岸：調查燃燒軍團](http://www.wowhead.com/quest=46765/the-broken-shore-investigating-the-legion#comments)解開新的神兵武器天賦樹。
 
-- **我想試試看神兵挑戰，拿[很酷的外觀](http://www.wowhead.com/challenging-artifact-weapon-appearances)……**
+- **我想試試看神兵挑戰，拿[很酷的外觀](http://www.wowhead.com/challenging-artifact-weapon-appearances)！**
 
     這個真的有點難度，請看[批踢踢攻略](https://www.ptt.cc/bbs/WOW/M.1520192542.A.8F3.html)。
 
