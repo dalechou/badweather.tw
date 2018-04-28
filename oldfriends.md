@@ -48,7 +48,7 @@
 
 - **我想試試看神兵挑戰，拿[很酷的外觀](http://www.wowhead.com/challenging-artifact-weapon-appearances)！**
 
-    這個真的有點難度，請看[批踢踢攻略](https://www.ptt.cc/bbs/WOW/M.1520192542.A.8F3.html)。
+    這個真的有點難度，請看[批踢踢攻略](https://www.ptt.cc/bbs/WOW/M.1520192542.A.8F3.html)。
 
 - **永夜怎麼進，有什麼前置任務？**
 
