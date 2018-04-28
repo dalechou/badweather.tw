@@ -22,6 +22,17 @@
 - [玩家寫的英雄榜](https://hi-armory.tw/)
 - [伺服器狀態](https://worldofwarcraft.com/zh-tw/game/status)
 
+---
+
+## 插件：WeakAuras 2
+
+因為 [WeakAuras 2](https://www.curseforge.com/wow/addons/weakauras-2) 雖然很強大，但也複雜，所以特別拉出來自己一區。一般玩家可以完全忽略。對 WeakAuras 2 有興趣的話可以參考 [Wago.io](https://wago.io/weakauras) 和 [Wowhead](http://www.wowhead.com/weakauras-addon-guide) 相關資源。
+
+這裡會收集當前版本有用的 WeakAuras 2 strings。
+
+- [《軍臨天下》團隊副本框架發光](https://wago.io/Antorus_GlowingFrames)
+- [《軍臨天下》五人副本框架發光](https://wago.io/LegionDungeonDangerousSpells)
+
 --- 
 
 請[點此](https://dalechou.github.io/wow/)回目錄。
