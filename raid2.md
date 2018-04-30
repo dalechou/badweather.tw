@@ -8,13 +8,11 @@
 
 | **日期** | **決定者** | **地點** | **等級** | **成就** | 
 | --- | --- | --- | --- |
-| 4/30 | 一灰羽一、妹妹大人、呆萌包子 <sup>1</sup> | 魔古山寶庫 | lv 90+ | 「你是在找這個嗎？」以及「不管你做什麼，老子都做的比你好」 | 
+| 5/7 | 一灰羽一 | 龍魂 | lv 85+ | 小羽說不知道XD | 
 
 參考攻略：
 - [https://www.ptt.cc/bbs/WOW/M.1356487224.A.66F.html](https://www.ptt.cc/bbs/WOW/M.1356487224.A.66F.html)
 - [http://bbs.ngacn.cc/read.php?tid=5879980&rand=525](http://bbs.ngacn.cc/read.php?tid=5879980&rand=525)
-
-<sup>1</sup> **玩法簡化囉，請往下看！**
 
 ---
 
