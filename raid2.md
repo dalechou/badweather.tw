@@ -8,11 +8,10 @@
 
 | **日期** | **決定者** | **地點** | **等級** | **成就** | 
 | --- | --- | --- | --- |
-| 5/7 | 一灰羽一 | 龍魂 | lv 85+ | 小羽說不知道XD | 
+| 5/14 | 一灰羽一 | 黑石鑄造場 | lv 100+ | 小羽說不知道XD | 
 
 參考攻略：
-- [https://www.ptt.cc/bbs/WOW/M.1356487224.A.66F.html](https://www.ptt.cc/bbs/WOW/M.1356487224.A.66F.html)
-- [http://bbs.ngacn.cc/read.php?tid=5879980&rand=525](http://bbs.ngacn.cc/read.php?tid=5879980&rand=525)
+- [https://forum.gamer.com.tw/C.php?bsn=5219&snA=629055](https://forum.gamer.com.tw/C.php?bsn=5219&snA=629055)
 
 ---
 
