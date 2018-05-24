@@ -8,10 +8,10 @@
 
 | **日期** | **決定者** | **地點** | **等級** | **成就** | 
 | --- | --- | --- | --- |
-| 5/14 | 一灰羽一 | 黑石鑄造場 | lv 100+ | 小羽說不知道XD | 
+| 5/21 | 一灰羽一 | 勇氣試煉 | lv 110 | 受選者 | 
 
 參考攻略：
-- [https://forum.gamer.com.tw/C.php?bsn=5219&snA=629055](https://forum.gamer.com.tw/C.php?bsn=5219&snA=629055)
+- [https://www.ptt.cc/bbs/WOW/M.1523446790.A.E49.html](https://www.ptt.cc/bbs/WOW/M.1523446790.A.E49.html)
 
 ---
 
