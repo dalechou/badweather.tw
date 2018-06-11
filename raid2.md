@@ -14,7 +14,15 @@
 
 ## 語音
 
-解成就沒有語音實在太困難了，請先準備好 [Discord](https://discord.gg/Jyn6ERe)。
+解成就沒有語音實在太困難了。請使用 [Twitch](https://app.twitch.tv/download)，房間位置：[RtIynf](https://invite.twitch.tv/RtIynf)
+
+![](twitch.png)
+
+語音使用方法：
+- 打開 Twitch App，然後登入（這步驟一定要先做）
+- 點選上方房間連結
+- 點選上圖紅色框框按鈕
+- 找到房間後，加入最愛
 
 ---
 
