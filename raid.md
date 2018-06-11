@@ -75,7 +75,7 @@
 
 ## 語音
 
-使用 [Twitch](https://app.twitch.tv/download)，房間位置：[RNv9fX](https://invite.twitch.tv/RNv9fX)
+使用 [Twitch](https://app.twitch.tv/download)，房間位置：[RtIynf](https://invite.twitch.tv/RtIynf)
 
 ![](twitch.png)
 
@@ -86,7 +86,6 @@
 - 找到房間後，加入最愛
 
 另外有下列備用語音：
-- [Discord](https://discord.gg/Jyn6ERe)
 - [Battle.net App Social](https://blizzard.com/invite/MpAJNTMNA)
 
 如果這些邀請連結失效了，請告訴團長。
