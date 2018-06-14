@@ -33,14 +33,6 @@
 
 --- 
 
-## 社群
-
-目前遊戲外社群有 Discord 跟 Line。
-
-- [Discord](https://discord.gg/Jyn6ERe)
-
---- 
-
 ## 聯絡
 
 - BattleTag: dale#3350
