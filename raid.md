@@ -56,7 +56,7 @@
 
 ## 出團紀錄
 
-出團紀錄請看 [Warcraft Logs](http://tinyurl.com/dalewarcraftlogs)。
+出團紀錄請看 [Warcraft Logs](https://www.warcraftlogs.com/user/reports-list/302729/)。
 
 每一個版本的目標是英雄全通，拿到「領先群雄」成就。不會挑戰傳奇難度。
 
