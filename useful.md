@@ -1,6 +1,6 @@
 ## 插件：副本
 
-如果覺得手動更新插件很煩，請考慮 [Twitch App](https://app.twitch.tv/download)。現在很好用了，公會語音也常用這個軟體。
+如果覺得手動更新插件很煩，請考慮 [Twitch App](https://app.twitch.tv/download)。現在很好用了，公會語音也用這個軟體。
 
 - [DBM](https://wow.curseforge.com/projects/deadly-boss-mods)：副本機制提醒
 - [Details!](https://wow.curseforge.com/projects/details)：看數據
@@ -10,7 +10,7 @@
 
 - [Garrison Mission Manager](https://wow.curseforge.com/projects/garrison-mission-manager)：派追隨者做任務
 - [Bagnon](https://wow.curseforge.com/projects/bagnon)：把背包整合成一個大背包
-- [Postal](https://wow.curseforge.com/projects/nomicakes)：7.x 找糯米練食譜必用
+- [NomiCakes](https://wow.curseforge.com/projects/nomicakes)：7.x 找糯米練食譜必用
 - [Coordinates](https://wow.curseforge.com/projects/coordinates)：如果你在網路討論看到座標，不知道座標怎麼找，可以用這個
 
 ## 網路資源
