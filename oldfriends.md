@@ -6,7 +6,7 @@
 
 ## 關於 8.0
 
-開始做功課囉！
+開始做功課囉！先貼批踢踢 spirit761127 整理的 8.0 版內容：[https://goo.gl/CUoWop](https://goo.gl/CUoWop)
 
 ---
 
