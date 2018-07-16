@@ -33,6 +33,12 @@
 
 --- 
 
+## 會長信箱
+
+即日起試用[匿名表格](https://goo.gl/forms/rwLyIDT9gVDazd5q1)，歡迎發表意見。
+
+---
+
 ## 聯絡
 
 - BattleTag: dale#3350
