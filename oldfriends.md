@@ -6,9 +6,13 @@
 
 ## 關於 8.0
 
-開始做功課囉！
+- **聽說有艾澤拉斯之心系統？**
 
-先貼批踢踢 spirit761127 整理的 8.0 版內容：[8.0 艾澤拉斯之心系統和特質整理](https://goo.gl/CUoWop)
+    請先看批踢踢 spirit761127 整理的 8.0 版內容：[8.0 艾澤拉斯之心系統和特質整理](https://goo.gl/CUoWop)
+
+- **聽說有裝等壓縮？**
+
+    請先看看這一篇：[https://www.ptt.cc/bbs/WOW/M.1531458076.A.42F.html](https://www.ptt.cc/bbs/WOW/M.1531458076.A.42F.html)
 
 ---
 
