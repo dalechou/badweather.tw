@@ -8,9 +8,7 @@
 
 ## 插件：遊戲生活品質
 
-- [Garrison Mission Manager](https://wow.curseforge.com/projects/garrison-mission-manager)：派追隨者做任務
 - [Bagnon](https://wow.curseforge.com/projects/bagnon)：把背包整合成一個大背包
-- [NomiCakes](https://wow.curseforge.com/projects/nomicakes)：7.x 找糯米練食譜必用
 - [Coordinates](https://wow.curseforge.com/projects/coordinates)：如果你在網路討論看到座標，不知道座標怎麼找，可以用這個
 
 ## 網路資源
