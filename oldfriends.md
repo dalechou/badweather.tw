@@ -6,7 +6,7 @@
 
 ## 關於 8.0
 
-- **聽說有艾澤拉斯之心系統？**
+- **有沒有人整理過艾澤拉斯之心系統？**
 
     請先看批踢踢 spirit761127 整理的 8.0 版內容：[8.0 艾澤拉斯之心系統和特質整理](https://goo.gl/CUoWop)
 
@@ -14,31 +14,17 @@
 
     請先看看這一篇：[https://www.ptt.cc/bbs/WOW/M.1531458076.A.42F.html](https://www.ptt.cc/bbs/WOW/M.1531458076.A.42F.html)
 
----
+- **聽說有動態等級？我練等要去哪裡？**
 
-# 關於前夕
-
-- **什麼東西會絕版？**
-
-    急救、法師塔、勇士試煉受選者。可以參考[這個影片](https://youtu.be/8lSjGjGvm8w)。
+    請看批踢踢[這篇](https://www.ptt.cc/bbs/WOW/M.1510551609.A.BD3.html)。
 
 ---
 
 ## 關於 7.3.5
 
-- **神兵要怎麼升到 126（全滿）？**
+- **神兵要怎麼全滿？**
 
-    請去希利蘇斯。希利蘇斯接不到任務請先回暴風城。全滿之後記得別再派追隨者取拿神兵點數了。
-
-- **聽說有動態等級？我練等要去哪裡？**
-
-    請看批踢踢[這篇](https://www.ptt.cc/bbs/WOW/M.1510551609.A.BD3.html)。
-
-- **我想快速長大！聽說 7.3.5 可以快速長大！**
-
-    請參考[批踢踢這一篇](https://www.ptt.cc/bbs/WOW/M.1517027609.A.4E2.html)和[聽說比較好的這一篇](https://www.ptt.cc/bbs/WOW/M.1517479672.A.1FF.html)或[這一篇](https://www.ptt.cc/bbs/WOW/M.1518020136.A.583.html)。
-
-    但所有行為都有其代價，這樣會少掉很多樂趣，強烈不建議。尤其很多人都覺得 7.3.5 跑故事樂趣變多了（[1](https://www.reddit.com/r/wow/comments/7tf5i0/i_really_enjoy_the_735_leveling_experience/)、[2](https://www.reddit.com/r/wow/comments/6x1u79/with_all_the_new_quest_and_zone_content_in_73_it/)）。
+    請去希利蘇斯。希利蘇斯接不到任務請先回暴風城。
 
 ## 關於 7.x
 
@@ -54,10 +40,6 @@
 
     想辦法接到回暴風城或回艾克索達的任務串。
 
-- **要注意什麼？聽說神兵知識很重要？**
-
-    7.3.0 以後不用擔心神兵知識了，只要顧神兵特長和聖物。這個[簡介](https://www.ptt.cc/bbs/WOW/M.1504451362.A.F0B.html)不錯。
-
 - **去阿古斯後，六件 ilv 925 追隨者裝備任務做完後，怎麼接 ilv 950 追隨者裝備任務？**
 
     換去荒原的太空船看看，會收到兩個中途任務，做完才有六件 ilv 950 追隨者裝備任務，再做完才有傳家寶任務（感謝包子）。
@@ -65,14 +47,6 @@
 - **職業坐騎任務起點在哪裡？**
 
     請完成[突破古墓](http://www.wowhead.com/achievement=11546/breaching-the-tomb)成就（其實就是破碎海岸主線）。
-
-- **什麼是新神兵？**
-
-    舊神兵武器已經點到 35 個神兵特長以後，可以回新達拉然找卡德加接任務。最後用[破碎海岸：調查燃燒軍團](http://www.wowhead.com/quest=46765/the-broken-shore-investigating-the-legion#comments)解開新的神兵武器天賦樹。
-
-- **我想試試看神兵挑戰，拿[很酷的外觀](http://www.wowhead.com/challenging-artifact-weapon-appearances)！**
-
-    這個真的有點難度，請看[批踢踢攻略](https://www.ptt.cc/bbs/WOW/M.1520192542.A.8F3.html)。
 
 - **永夜怎麼進，有什麼前置任務？**
 
