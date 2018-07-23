@@ -6,6 +6,10 @@
 
 ## 關於 8.0
 
+- **8.0 怎麼升級比較好？**
+
+    目前最完善的應該是 [reddit 這一篇](https://www.reddit.com/r/wow/comments/913056/tips_and_tricks_for_leveling_in_bfa_and_a/)。如果有中文我再貼過來，或找時間自己節錄。
+
 - **有沒有人整理過艾澤拉斯之心系統？**
 
     請先看批踢踢 spirit761127 整理的 8.0 版內容：[8.0 艾澤拉斯之心系統和特質整理](https://goo.gl/CUoWop)
