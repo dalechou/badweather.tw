@@ -18,6 +18,7 @@
 - [天賦模擬器](http://www.wowhead.com/talent-calc)
 - [塑形模擬器](http://www.wowhead.com/dressing-room)：小心，時間會不知不覺過去XD
 - [玩家寫的英雄榜](https://hi-armory.tw/)
+- [玩家寫的鑰石強化表](http://ogilvy.lesca.net/_project/wow/?p=mythic)
 - [伺服器狀態](https://worldofwarcraft.com/zh-tw/game/status)
 
 ---
