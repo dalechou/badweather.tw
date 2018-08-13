@@ -11,7 +11,7 @@
 | Darc | **坎西貝拉** | 麥面米分 <sup>1</sup> | 阿魔達 |
 | **喔啊啊** | 加五元變大薯 | 一灰羽一 | Yinuo <sup>1</sup> |
 | 貝武夫 | 妹妹大人 | 星火燎原 | 貓語者 |
-| | 阿強號 | Yunxin <sup>1</sup> | |
+| | 阿強號 <sup>1</sup> | Yunxin <sup>1</sup> | |
 | | | Yoyoman | |
 
 **週五**
