@@ -10,6 +10,7 @@
 
 - [Bagnon](https://wow.curseforge.com/projects/bagnon)：把背包整合成一個大背包
 - [Coordinates](https://wow.curseforge.com/projects/coordinates)：如果你在網路討論看到座標，不知道座標怎麼找，可以用這個
+- [Master Plan](https://wow.curseforge.com/projects/master-plan)：如果你覺得派追隨者很繁瑣……
 
 ## 網路資源
 
