@@ -6,9 +6,9 @@
 - **Raider**
 - **Guildie**
 - **AFK**
-- **I <3 Sunshine**
+- **I <3 Stormsong**
 
-新人初加入公會的會階是 **I <3 Sunshine**，比較認識後即可晉升為正式會員，成為 **Guildie**。
+新人初加入公會的會階是 **I <3 Stormsong**，比較認識後即可晉升為正式會員，成為 **Guildie**。
 
 穩定參與[趴了就怪那隻熊](https://dalechou.github.io/wow/raid.html)團隊活動可晉升為 **Raider**。這個會階認定的是角色，不是帳號或人，會提供物資補助出團活動。想知道自己算不算穩定可以參考出團名單。
 
