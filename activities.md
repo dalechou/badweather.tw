@@ -1,9 +1,9 @@
-## 出團
+## 公會活動
 
 請參考下列專頁，多多參與公會活動。
 
-- [趴了就怪那隻熊](https://dalechou.github.io/wow/raid.html)（週四晚上）
-- [上線一起玩](https://dalechou.github.io/wow/raid2.html)（週一晚上）
+- [趴了就怪那隻熊](https://dalechou.github.io/wow/raid.html)（週四晚上、週五晚上）
+- [上線一起玩](https://dalechou.github.io/wow/mon.html)（週一晚上）
 
 --- 
 
