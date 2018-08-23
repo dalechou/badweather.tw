@@ -28,7 +28,7 @@
 - [嗨，老朋友](https://dalechou.github.io/wow/oldfriends.html)（回鍋看這個）
 - [會倉](https://dalechou.github.io/wow/bank.html)（**超重要**）
 - [會階](https://dalechou.github.io/wow/ranks.html)
-- [出團](https://dalechou.github.io/wow/raiding.html)
+- [公會活動](https://dalechou.github.io/wow/activities.html)
 - [插件和網路資源](https://dalechou.github.io/wow/useful.html)
 
 --- 
