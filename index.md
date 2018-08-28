@@ -39,6 +39,4 @@
 
 也可以多利用遊戲內信件，或在遊戲中找任何一位 [Bankruiter](https://dalechou.github.io/wow/ranks.html)。
 
-現在手機可以裝 Battle.net App（[Android](https://play.google.com/store/apps/details?id=com.blizzard.messenger)/[iOS](https://itunes.apple.com/us/app/blizzard-battle-net/id1241040030)），滿好用的。
-
 文件變更請參考[公開紀錄](https://github.com/dalechou/wow/commits/master/index.md)，不會另外公告。
