@@ -66,7 +66,7 @@
 
 ## 聯絡
 
-可以多利用遊戲內信件，或在遊戲中找任何一位 [Bankruiter](https://dalechou.github.io/wow/ranks.html)。
+可以用遊戲內信件，或找在線上的 [Bankruiters](https://dalechou.github.io/wow/ranks.html)。
 
 請[點此](https://dalechou.github.io/wow/)回目錄。
 
