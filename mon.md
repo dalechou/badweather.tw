@@ -4,7 +4,7 @@
 
 人夠多就去團隊副本，人不夠多就去五人地城。可以解一些單人無法完成的公會或副本成就。如果打舊的團隊副本有可能帶還沒滿等的公會成員。
 
-固定參與[趴了就怪那隻熊](https://badbadweather.github.io/wow/raid.html)的團隊成員也歡迎。
+固定參與[趴了就怪那隻熊](https://badbadweather.github.io/raid.html)的團隊成員也歡迎。
 
 ---
 
@@ -52,7 +52,7 @@
 
 裝綁、塑形、坐騎、寵物等有需求請按「需」。
 
-![](https://badbadweather.github.com/wow/need.png)
+![](https://badbadweather.github.com/need.png)
 
 ---
 
@@ -66,8 +66,8 @@
 
 ## 聯絡
 
-可以用遊戲內信件，或找在線上的 [Bankruiters](https://badbadweather.github.io/wow/ranks.html)。
+可以用遊戲內信件，或找在線上的 [Bankruiters](https://badbadweather.github.io/ranks.html)。
 
-請[點此](https://badbadweather.github.io/wow/)回目錄。
+請[點此](https://badbadweather.github.io/)回目錄。
 
-文件變更請參考[公開紀錄](https://github.com/badbadweather/wow/commits/master/mon.md)，不會另外公告。
+文件變更請參考[公開紀錄](https://github.com/badbadweather/badbadweather.github.io/commits/master/mon.md)，不會另外公告。
