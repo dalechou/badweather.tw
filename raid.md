@@ -136,8 +136,6 @@
 - 週四：Darc
 - 週五：貝武夫
 
-現在手機可以裝 Battle.net App（[Android](https://play.google.com/store/apps/details?id=com.blizzard.messenger)/[iOS](https://itunes.apple.com/us/app/blizzard-battle-net/id1241040030)），滿好用的。
-
 請[點此](https://dalechou.github.io/wow/)回目錄。
 
 文件變更請參考[公開紀錄](https://github.com/dalechou/wow/commits/master/raid.md)，不會另外公告。
