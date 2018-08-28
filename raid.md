@@ -82,7 +82,7 @@
 
 ## 準備工作以及責任
 
-團隊會補助大餐、大鍋；聖光之願和天空之牆的團員會補助符文；[Bad Weather](https://dalechou.github.io/wow/) 公會成員會補助修裝費。
+團隊會補助大餐、大鍋；聖光之願和天空之牆的團員會補助符文；[Bad Weather](https://badbadweather.github.io/wow/) 公會成員會補助修裝費。
 
 通常有大鍋吃，但每 CD 請準備自用精煉三瓶；通常有大餐可以吃，但每 CD 請準備自用食物一組。公會成員可以直接拿會倉的。
 
@@ -112,7 +112,7 @@
 
 以下是在正常資料片中分身更替的時機。
 
-![](https://dalechou.github.com/wow/roadmap.png)
+![](https://badbadweather.github.com/wow/roadmap.png)
 
 也就是說有三次機會可以換分身：版本初、王較少的團隊副本之後那個團隊副本、最後一個團隊副本（記不起來沒關係，團長會提醒）。請盡量利用這些機會尋找適合自己的專精。換分身仍需要跟團長討論。除此以外的時間如果想換分身，也可以跟團長討論。
 
@@ -136,6 +136,6 @@
 - 週四：Darc
 - 週五：貝武夫
 
-請[點此](https://dalechou.github.io/wow/)回目錄。
+請[點此](https://badbadweather.github.io/wow/)回目錄。
 
-文件變更請參考[公開紀錄](https://github.com/dalechou/wow/commits/master/raid.md)，不會另外公告。
+文件變更請參考[公開紀錄](https://github.com/badbadweather/wow/commits/master/raid.md)，不會另外公告。
