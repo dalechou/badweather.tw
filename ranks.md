@@ -10,7 +10,7 @@
 
 新人初加入公會的會階是 **I <3 Stormsong**，比較認識後即可晉升為正式會員，成為 **Guildie**。
 
-穩定參與[趴了就怪那隻熊](https://dalechou.github.io/wow/raid.html)團隊活動可晉升為 **Raider**。這個會階認定的是角色，不是帳號或人，會提供物資補助出團活動。想知道自己算不算穩定可以參考出團名單。
+穩定參與[趴了就怪那隻熊](https://badbadweather.github.io/wow/raid.html)團隊活動可晉升為 **Raider**。這個會階認定的是角色，不是帳號或人，會提供物資補助出團活動。想知道自己算不算穩定可以參考出團名單。
 
 特例：如果出團角色一開始在其他伺服器，然後開了分身來公會；又如果這個角色是有在經營的，第一個角色會設定為 **Raider** 會階。
 
@@ -35,6 +35,6 @@
 
 --- 
 
-請[點此](https://dalechou.github.io/wow/)回目錄。
+請[點此](https://badbadweather.github.io/wow/)回目錄。
 
-文件變更請參考[公開紀錄](https://github.com/dalechou/wow/commits/master/ranks.md)，不會另外公告。
+文件變更請參考[公開紀錄](https://github.com/badbadweather/wow/commits/master/ranks.md)，不會另外公告。
