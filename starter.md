@@ -2,7 +2,7 @@
 
 公會為新進成員準備了下列成長包，祝大家冒險順利。
 
-邀請新人進公會時，請記得說明[會倉](https://dalechou.github.io/wow/bank.html)使用方法。
+邀請新人進公會時，請記得說明[會倉](https://badbadweather.github.io/wow/bank.html)使用方法。
 
 | **玩家狀態** | **釣竿** | **幽紋布包** | **金幣** | **愛與友誼** |
 | --- | --- | --- | --- | --- |
@@ -16,6 +16,6 @@
 
 ---
 
-請[點此](https://dalechou.github.io/wow/)回目錄。
+請[點此](https://badbadweather.github.io/wow/)回目錄。
 
-文件變更請參考[公開紀錄](https://github.com/dalechou/wow/commits/master/starter.md)，不會另外公告。
+文件變更請參考[公開紀錄](https://github.com/badbadweather/wow/commits/master/starter.md)，不會另外公告。
