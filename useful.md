@@ -33,6 +33,6 @@
 
 --- 
 
-請[點此](https://badbadweather.github.io/wow/)回目錄。
+請[點此](https://badbadweather.github.io/)回目錄。
 
-文件變更請參考[公開紀錄](https://github.com/badbadweather/wow/commits/master/useful.md)，不會另外公告。
+文件變更請參考[公開紀錄](https://github.com/badbadweather/badbadweather.github.io/commits/master/useful.md)，不會另外公告。
