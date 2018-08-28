@@ -37,6 +37,6 @@
 
 即日起試用[匿名會長信箱](https://goo.gl/forms/rwLyIDT9gVDazd5q1)，歡迎發表意見。
 
-也可以多利用遊戲內信件，或在遊戲中找任何一位 [Bankruiter](https://dalechou.github.io/wow/ranks.html)。
+也可以用遊戲內信件，或找在線上的 [Bankruiters](https://dalechou.github.io/wow/ranks.html)。
 
 文件變更請參考[公開紀錄](https://github.com/dalechou/wow/commits/master/index.md)，不會另外公告。
