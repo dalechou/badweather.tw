@@ -44,10 +44,10 @@
 
 這個遊戲如此龐大、美麗，請珍惜初心。
 
-另外公會為新進成員準備了下列[成長包](https://badbadweather.github.io/wow/starter.html)，祝大家冒險順利。
+另外公會為新進成員準備了下列[成長包](https://badbadweather.github.io/starter.html)，祝大家冒險順利。
 
 ---
 
-請[點此](https://badbadweather.github.io/wow/)回目錄。
+請[點此](https://badbadweather.github.io/)回目錄。
 
-文件變更請參考[公開紀錄](https://github.com/badbadweather/wow/commits/master/newbies.md)，不會另外公告。
+文件變更請參考[公開紀錄](https://github.com/badbadweather/badbadweather.github.io/commits/master/newbies.md)，不會另外公告。
