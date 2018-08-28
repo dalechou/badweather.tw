@@ -66,9 +66,7 @@
 
 ## 聯絡
 
-- BattleTag: dale#3350
-
-現在手機可以裝 Battle.net App（[Android](https://play.google.com/store/apps/details?id=com.blizzard.messenger)/[iOS](https://itunes.apple.com/us/app/blizzard-battle-net/id1241040030)），滿好用的。
+可以多利用遊戲內信件，或在遊戲中找任何一位 [Bankruiter](https://dalechou.github.io/wow/ranks.html)。
 
 請[點此](https://dalechou.github.io/wow/)回目錄。
 
