@@ -4,7 +4,7 @@
 
 可以用 Shift + 左鍵取用確切數量。這時應該出現下圖黃框標示的介面。
 
-![](https://dalechou.github.com/wow/guild_bank.png)
+![](https://badbadweather.github.com/wow/guild_bank.png)
 
 會倉就是要給大家用的，只要拿得到物品，就表示歡迎使用。別害羞！
 
@@ -20,11 +20,11 @@
 | 第四頁 | 當前版本物資可以無腦右鍵丟進來。舊版本物資請放到其他地方。 | 
 | 第五頁 | 食物可以無腦右鍵丟進來。盡量以當前版本食物為主。 | 
 | 第六頁 | 舊版本布、皮、草、礦、附魔材料可以無腦右鍵丟進來。 | 
-| 第七頁 | [Raiders](https://dalechou.github.io/wow/ranks.html) 專用。 | 
-| 第八頁 | [Bankruiters](https://dalechou.github.io/wow/ranks.html) 專用。 | 
+| 第七頁 | [Raiders](https://badbadweather.github.io/wow/ranks.html) 專用。 | 
+| 第八頁 | [Bankruiters](https://badbadweather.github.io/wow/ranks.html) 專用。 | 
 
 --- 
 
-請[點此](https://dalechou.github.io/wow/)回目錄。
+請[點此](https://badbadweather.github.io/wow/)回目錄。
 
-文件變更請參考[公開紀錄](https://github.com/dalechou/wow/commits/master/bank.md)，不會另外公告。
+文件變更請參考[公開紀錄](https://github.com/badbadweather/wow/commits/master/bank.md)，不會另外公告。
