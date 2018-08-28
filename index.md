@@ -1,4 +1,4 @@
-![](https://dalechou.github.com/wow/badweather.png)
+![](https://badbadweather.github.com/wow/badweather.png)
 
 ## Bad Weather
 
@@ -8,13 +8,13 @@
 
 目前會維護當前版本和上一個版本的遊戲資訊。也會用簡潔、清楚的方式說明公會和團隊制度。
 
-另外特別感謝[那些穩定出團的人](https://dalechou.github.io/wow/raiding.html)。謝謝。
+另外特別感謝[那些穩定出團的人](https://badbadweather.github.io/wow/raiding.html)。謝謝。
 
 ---
 
 ## 「優秀表現」公會成就
 
-![](https://dalechou.github.com/wow/stayclassy.jpg)
+![](https://badbadweather.github.com/wow/stayclassy.jpg)
 
 我們辦到了！
 
@@ -24,12 +24,12 @@
 
 目前文件內容如下。
 
-- [嗨，新朋友](https://dalechou.github.io/wow/newbies.html)（新手看這個）
-- [嗨，老朋友](https://dalechou.github.io/wow/oldfriends.html)（回鍋看這個）
-- [會倉](https://dalechou.github.io/wow/bank.html)（**超重要**）
-- [會階](https://dalechou.github.io/wow/ranks.html)
-- [公會活動](https://dalechou.github.io/wow/activities.html)
-- [插件和網路資源](https://dalechou.github.io/wow/useful.html)
+- [嗨，新朋友](https://badbadweather.github.io/wow/newbies.html)（新手看這個）
+- [嗨，老朋友](https://badbadweather.github.io/wow/oldfriends.html)（回鍋看這個）
+- [會倉](https://badbadweather.github.io/wow/bank.html)（**超重要**）
+- [會階](https://badbadweather.github.io/wow/ranks.html)
+- [公會活動](https://badbadweather.github.io/wow/activities.html)
+- [插件和網路資源](https://badbadweather.github.io/wow/useful.html)
 
 --- 
 
@@ -37,6 +37,6 @@
 
 即日起試用[匿名會長信箱](https://goo.gl/forms/rwLyIDT9gVDazd5q1)，歡迎發表意見。
 
-也可以用遊戲內信件，或找在線上的 [Bankruiters](https://dalechou.github.io/wow/ranks.html)。
+也可以用遊戲內信件，或找在線上的 [Bankruiters](https://badbadweather.github.io/wow/ranks.html)。
 
-文件變更請參考[公開紀錄](https://github.com/dalechou/wow/commits/master/index.md)，不會另外公告。
+文件變更請參考[公開紀錄](https://github.com/badbadweather/wow/commits/master/index.md)，不會另外公告。
