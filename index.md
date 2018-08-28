@@ -33,15 +33,11 @@
 
 --- 
 
-## 會長信箱
-
-即日起試用[匿名表格](https://goo.gl/forms/rwLyIDT9gVDazd5q1)，歡迎發表意見。
-
----
-
 ## 聯絡
 
-- BattleTag: dale#3350
+即日起試用[匿名會長信箱](https://goo.gl/forms/rwLyIDT9gVDazd5q1)，歡迎發表意見。
+
+也可以多利用遊戲內信件，或在遊戲中找任何一位 [Bankruiter](https://dalechou.github.io/wow/ranks.html)。
 
 現在手機可以裝 Battle.net App（[Android](https://play.google.com/store/apps/details?id=com.blizzard.messenger)/[iOS](https://itunes.apple.com/us/app/blizzard-battle-net/id1241040030)），滿好用的。
 
