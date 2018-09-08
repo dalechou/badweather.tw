@@ -6,6 +6,10 @@
 
 ## 關於 8.0
 
+- **好不容易滿等了，我該怎麼做，才能快點變強？**
+
+    依序：兩個世界王、島嶼遠征、故事主線、Mythic+，聲望優先把艾澤拉斯勇士跟第七軍團衝到崇敬。
+
 - **8.0 怎麼升級比較有效率？**
 
     目前最完善的應該是 [reddit 這一篇](https://www.reddit.com/r/wow/comments/913056/tips_and_tricks_for_leveling_in_bfa_and_a/)，或是[這個表](https://docs.google.com/spreadsheets/d/1T-SUnOeK4E_i70PaLhSQ4XBiprgksL71yKiNxagB0l0/edit#gid=458074727)。節錄如下。
