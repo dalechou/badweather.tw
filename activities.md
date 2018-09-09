@@ -3,7 +3,7 @@
 請參考下列專頁，多多參與公會活動。
 
 - [趴了就怪那隻熊](https://badbadweather.github.io/raid.html)（週四、五晚上）
-- 開戰爭模式解 WQ（試開，每晚 21:00）
+- 開戰爭模式解世界任務（試開，每晚 21:00）
 - [上線一起玩](https://badbadweather.github.io/mon.html)（休，10/1 重新開張）
 
 --- 
