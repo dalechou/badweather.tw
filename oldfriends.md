@@ -12,6 +12,10 @@
     
     此外，需要完成六個地圖任務主線；聲望優先把艾澤拉斯勇士跟第七軍團衝到崇敬，再把其他聲望也衝到崇敬。
 
+- **黑鐵矮人的條件是什麼？**
+
+    第七軍團聲望崇拜，並且完成敵方大陸三張地圖主線（跳[ Ready for War](https://www.wowhead.com/achievement=12510/ready-for-war) 成就）。
+
 - **8.0 怎麼升級比較有效率？**
 
     目前最完善的應該是 [reddit 這一篇](https://www.reddit.com/r/wow/comments/913056/tips_and_tricks_for_leveling_in_bfa_and_a/)，或是[這個表](https://docs.google.com/spreadsheets/d/1T-SUnOeK4E_i70PaLhSQ4XBiprgksL71yKiNxagB0l0/edit#gid=458074727)。節錄如下。
