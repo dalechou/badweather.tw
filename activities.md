@@ -8,6 +8,12 @@
 
 --- 
 
+週四、五晚上出團的位子都滿了，但公會還有不少人有興趣出團，人數好像也夠加開一天，所以會開始籌辦。
+
+請有意願擔任 RL 的公會成員勇敢站出來，公會會盡力支持的，謝謝！
+
+--- 
+
 請[點此](https://badbadweather.github.io/)回目錄。
 
 文件變更請參考[公開紀錄](https://github.com/badbadweather/badbadweather.github.io/commits/master/activities.md)，不會另外公告。
