@@ -35,7 +35,7 @@
 
 ---
 
-Container.
+如果會階變成 **Container** 請盡快聯絡會長或 **Bankruiter**。
 
 --- 
 
