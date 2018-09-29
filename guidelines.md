@@ -1,6 +1,6 @@
 ## 會規
 
-- 使用會倉前，請先閱讀[使用規則](https://badbadweather.github.io/bank.html)
+- 使用會倉前，請閱讀[使用原則](https://badbadweather.github.io/bank.html)
 - 請把 Memo 頻道加入聊天框
 - 註記請交由公會管理，不要自行更動
 
