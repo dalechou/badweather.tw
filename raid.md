@@ -68,7 +68,7 @@
 - 點選上圖紅色框框按鈕
 - 找到房間後，加入最愛
 
-另外使用 [Battle.net App Social](https://blizzard.com/invite/MpAJNTMNA) 當備用語音。如果這些邀請碼失效，請告訴團長。
+另外使用 [Battle.net App Social](https://blizzard.com/invite/MpAJNTMNA) 當備用語音。建議把社群頻道加入聊天框。如果邀請碼失效，請告訴團長。
 
 ---
 
