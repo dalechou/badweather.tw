@@ -14,12 +14,12 @@
 
 ## 網路資源
 
-- [Icy Veins](http://www.icy-veins.com/wow/class-guides)：不會點天賦或神兵特長可以看這
+- [Icy Veins](http://www.icy-veins.com/wow/class-guides)：不會玩可以看這裡
 - [天賦模擬器](http://www.wowhead.com/talent-calc)
 - [角色進度查詢](https://www.wowhead.com/attunement)
-- [塑形模擬器](http://www.wowhead.com/dressing-room)：小心，時間會不知不覺過去XD
 - [玩家寫的英雄榜](https://hi-armory.tw/)
 - [玩家寫的鑰石強化表](http://ogilvy.lesca.net/_project/wow/?p=mythic)
+- [塑形模擬器](http://www.wowhead.com/dressing-room)：小心，時間會不知不覺過去XD
 - [伺服器狀態](https://worldofwarcraft.com/zh-tw/game/status)
 
 ---
