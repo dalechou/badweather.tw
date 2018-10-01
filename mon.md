@@ -8,6 +8,10 @@
 
 ---
 
+本週目的地：打無敵！
+
+---
+
 ## 語音
 
 解成就沒有語音實在太困難了。請使用 [Twitch App](https://app.twitch.tv/download)，房間邀請碼：[Pfw9Gh](https://invite.twitch.tv/Pfw9Gh)
