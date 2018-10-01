@@ -10,13 +10,14 @@
 
 ## 語音
 
-解成就沒有語音實在太困難了。請使用 [Twitch](https://app.twitch.tv/download)，房間位置：[RtIynf](https://invite.twitch.tv/RtIynf)
+解成就沒有語音實在太困難了。請使用 [Twitch App](https://app.twitch.tv/download)，房間邀請碼：[Pfw9Gh](https://invite.twitch.tv/Pfw9Gh)
 
 ![](twitch.png)
 
-語音使用方法：
-- 打開 Twitch App，然後登入（這步驟一定要先做）
-- 點選上方房間連結
+語音使用方法（請照順序做）：
+- 下載 Twitch App
+- 先打開 Twitch App，並且登入
+- 點選上方房間邀請碼
 - 點選上圖紅色框框按鈕
 - 找到房間後，加入最愛
 
@@ -28,23 +29,21 @@
 
 **不用請假，可以早退。**
 
-因為設計了抵償機制，所以可以早退，但請盡量準時開打。玩法如下。
+如果晚到自己跑。玩法如下。
 
 ---
 
 ## 玩法
 
-每週選一個團隊副本，嘗試一個成就。
+開團前提出想去的團隊副本。
 
-目標成就達成或失敗後，在場的人 /roll。
+如果超過一個，開團後 /roll 決定目的地。
 
-骰最高者可以選下週要去的團隊副本以及該副本一個成就；如果沒有想法，就依次遞補。盡量當場決定。
+如果只有一個，甚至沒有，則直接公布目的地。
 
 目標成就達成或失敗後視同活動結束。如果有人想留下來多打之類的隨意，總之活動結束了！
 
 不會只做目標成就，沿途好解的成就會順便解掉。會針對目標成就做功課，必要時滅團重打。
-
-如果遇到接龍斷了由團長決定團隊副本。每週目標會在這個頁面公告。
 
 ---
 
@@ -66,8 +65,8 @@
 
 ## 聯絡
 
-可以用遊戲內信件，或找在線上的 [Bankruiters](https://badbadweather.github.io/ranks.html)。
+- 週一：Darc
 
 請[點此](https://badbadweather.github.io/)回目錄。
 
-文件變更請參考[公開紀錄](https://github.com/badbadweather/badbadweather.github.io/commits/master/mon.md)，不會另外公告。
+文件變更請參考[公開紀錄](https://github.com/badbadweather/badbadweather.github.io/commits/master/bank.md)，不會另外公告。
