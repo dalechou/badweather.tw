@@ -4,10 +4,10 @@
 
 參與公會活動前建議先設定好[語音](https://badbadweather.github.io/voicechat.html)。
 
-| 一 | 二 | 三 | 四 | 五 | 六 | 日 |
-| --- | --- | --- | --- | --- | --- | --- |
-| [上線一起玩](https://badbadweather.github.io/mon.html) | [趴了就怪那隻熊](https://badbadweather.github.io/raid.html) | | [趴了就怪那隻熊](https://badbadweather.github.io/raid.html) | [趴了就怪那隻熊](https://badbadweather.github.io/raid.html) | | |
-| 21:50 | 20:50 | | 20:50 | 20:50 | | |
+| 一 | 二 | 四 | 五 |
+| --- | --- | --- | --- |
+| [上線一起玩](https://badbadweather.github.io/mon.html) | [趴了就怪那隻熊](https://badbadweather.github.io/raid.html) | [趴了就怪那隻熊](https://badbadweather.github.io/raid.html) | [趴了就怪那隻熊](https://badbadweather.github.io/raid.html) |
+| 21:50 | 20:50 | 20:50 | 20:50 |
 
 當然，隨時歡迎大家提出新想法，試辦新活動，帶頭舉辦公會活動。
 
