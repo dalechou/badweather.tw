@@ -1,15 +1,15 @@
 ## 公會活動
 
-請參考下列專頁，多多參與公會活動。
+請參考下列活動專頁。
 
-參與公會活動前建議先設定好[語音](https://badbadweather.github.io/voicechat.html)。
+參與活動前請先設定好[語音](https://badbadweather.github.io/voicechat.html)。
 
 | 一 | 二 | 四 | 五 |
 | --- | --- | --- | --- |
 | [上線一起玩](https://badbadweather.github.io/mon.html) | [趴了就怪那隻熊](https://badbadweather.github.io/raid.html) | [趴了就怪那隻熊](https://badbadweather.github.io/raid.html) | [趴了就怪那隻熊](https://badbadweather.github.io/raid.html) |
 | 21:50 | 20:50 | 20:50 | 20:50 |
 
-當然，隨時歡迎大家提出新想法，試辦新活動，帶頭舉辦公會活動。
+隨時歡迎大家提出改善活動的方法，甚至試辦新活動。
 
 --- 
 
