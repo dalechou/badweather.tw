@@ -2,6 +2,8 @@
 
 請參考下列專頁，多多參與公會活動。
 
+參與公會活動前建議先設定好[語音](https://badbadweather.github.io/voicechat.html)。
+
 | 一 | 二 | 三 | 四 | 五 | 六 | 日 |
 | --- | --- | --- | --- | --- | --- | --- |
 | [上線一起玩](https://badbadweather.github.io/mon.html) | [趴了就怪那隻熊](https://badbadweather.github.io/raid.html) | | [趴了就怪那隻熊](https://badbadweather.github.io/raid.html) | [趴了就怪那隻熊](https://badbadweather.github.io/raid.html) | | |
