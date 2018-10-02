@@ -1,6 +1,6 @@
 ## 公會活動
 
-參與活動前請先設定好[語音](https://badbadweather.github.io/voicechat.html)。
+參與活動前，請先設定好[語音](https://badbadweather.github.io/voicechat.html)。
 
 | 一 | 二 | 四 | 五 |
 | --- | --- | --- | --- |
