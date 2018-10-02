@@ -56,11 +56,15 @@
 
 ---
 
-## 語音
+## 語音與社交群組
 
-請參考[公會語音](https://badbadweather.github.io/voicechat.html)頁面完成設定，確定語音可以用。
+請在出團前參考[公會語音](https://badbadweather.github.io/voicechat.html)頁面完成設定，確定語音可以用。
 
-另外使用 [Battle.net App Social](https://blizzard.com/invite/MpAJNTMNA) 當備用語音。建議把社群頻道加入聊天框。如果邀請碼失效，請告訴團長。
+我們用[社交群組](https://blizzard.com/invite/MpAJNTMNA)當備用語音。
+
+請把社交群組加入遊戲內聊天框頻道，避免錯過重要訊息。
+
+如果邀請碼失效，請告訴團長。
 
 ---
 
