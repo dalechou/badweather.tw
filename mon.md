@@ -16,16 +16,7 @@
 
 ## 語音
 
-解成就沒有語音實在太困難了。請使用 [Twitch App](https://app.twitch.tv/download)，房間邀請碼：[Pfw9Gh](https://invite.twitch.tv/Pfw9Gh)
-
-![](twitch.png)
-
-語音使用方法（請照順序做）：
-- 下載 Twitch App
-- 先打開 Twitch App，並且登入
-- 點選上方房間邀請碼
-- 點選上圖紅色框框按鈕
-- 找到房間後，加入最愛
+解成就沒有語音實在太困難了。請參考[公會語音](https://badbadweather.github.io/voicechat.html)頁面完成設定，確定語音可以用。
 
 ---
 
