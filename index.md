@@ -30,6 +30,7 @@
 - [會倉](https://badbadweather.github.io/bank.html)（**超重要**）
 - [會階](https://badbadweather.github.io/ranks.html)
 - [公會活動](https://badbadweather.github.io/activities.html)
+- [公會語音](https://badbadweather.github.io/voicechat.html)
 - [插件和網路資源](https://badbadweather.github.io/useful.html)
 
 --- 
