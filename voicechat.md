@@ -1,0 +1,20 @@
+## 公會語音
+
+很多[公會活動](https://badbadweather.github.io/activities.html)都會用到語音，可以先準備好，比較好參與活動。
+
+我們使用 [Twitch App](https://app.twitch.tv/download)，房間邀請碼：[Pfw9Gh](https://invite.twitch.tv/Pfw9Gh)
+
+![](twitch.png)
+
+語音使用方法（請照順序做）：
+- 下載 Twitch App
+- 先打開 Twitch App，並且登入
+- 點選上方房間邀請碼
+- 點選上圖紅色框框按鈕
+- 找到房間後，加入最愛
+
+---
+
+請[點此](https://badbadweather.github.io/)回目錄。
+
+文件變更請參考[公開紀錄](https://github.com/badbadweather/badbadweather.github.io/commits/master/voicechat.md)，不會另外公告。
