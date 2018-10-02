@@ -1,7 +1,5 @@
 ## 公會活動
 
-請參考下列活動專頁。
-
 參與活動前請先設定好[語音](https://badbadweather.github.io/voicechat.html)。
 
 | 一 | 二 | 四 | 五 |
