@@ -3,7 +3,7 @@
 這裡列出的事項都是因應事情而定。換句話說，原則才是重要的，原因才是重要的。
 
 - 註記請交由公會管理，不要自行更動
-- 使用會倉前，請閱讀[使用原則](https://badbadweather.github.io/bank.html)
+- 使用會倉前，請先學會[怎麼用](https://badbadweather.github.io/bank.html)
 - 請把公會 Memo 頻道加入遊戲內聊天框，避免錯過重要訊息
 
 如果跟你想做的事情牴觸，可以隨時提出來討論。
