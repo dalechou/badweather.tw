@@ -1,8 +1,8 @@
 ## 公會語音
 
-很多[公會活動](https://badbadweather.github.io/activities.html)都會用到語音，可以先準備好，比較好參與活動。
+很多[公會活動](https://badbadweather.github.io/activities.html)都會用到語音，可以先準備好，比較方便。
 
-我們使用 [Twitch App](https://app.twitch.tv/download)，房間邀請碼：[Pfw9Gh](https://invite.twitch.tv/Pfw9Gh)
+我們用 [Twitch App](https://app.twitch.tv/download)，房間邀請碼：[Pfw9Gh](https://invite.twitch.tv/Pfw9Gh)
 
 ![](twitch.png)
 
