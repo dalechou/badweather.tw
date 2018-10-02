@@ -26,7 +26,7 @@
 
 - [嗨，新朋友](https://badbadweather.github.io/newbies.html)（新手看這個）
 - [嗨，老朋友](https://badbadweather.github.io/oldfriends.html)（回鍋看這個）
-- [壞天氣預報](https://badbadweather.github.io/guidelines.html)
+- [公會須知](https://badbadweather.github.io/guidelines.html)
 - [會倉](https://badbadweather.github.io/bank.html)（**超重要**）
 - [會階](https://badbadweather.github.io/ranks.html)
 - [公會活動](https://badbadweather.github.io/activities.html)
