@@ -16,7 +16,9 @@
 
 ## 語音
 
-解成就沒有語音實在太困難了。請參考[公會語音](https://badbadweather.github.io/voicechat.html)頁面完成設定，確定語音可以用。
+解成就沒有語音實在太困難了。
+
+請在參與活動前，參考[公會語音](https://badbadweather.github.io/voicechat.html)頁面完成設定，確定語音可以用。
 
 ---
 
