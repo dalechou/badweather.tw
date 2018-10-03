@@ -6,7 +6,7 @@
 - **Raider**
 - **Guildie**
 - **AFK**
-- **Stormsong**
+- **Stormsong!**
 
 新人初入公會的會階是 **Stormsong!**，比較認識後即晉升為正式會員，成為 **Guildie**。
 
