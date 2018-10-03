@@ -4,7 +4,7 @@
 
 | 一 | 二 | 四 | 五 |
 | --- | --- | --- | --- |
-| [成就團](https://badbadweather.github.io/mon.html) | [出團](https://badbadweather.github.io/raid.html) | [出團](https://badbadweather.github.io/raid.html) | [出團](https://badbadweather.github.io/raid.html) |
+| [上線一起玩](https://badbadweather.github.io/mon.html) | [出團](https://badbadweather.github.io/raid.html) | [出團](https://badbadweather.github.io/raid.html) | [出團](https://badbadweather.github.io/raid.html) |
 | 21:50 | 20:50 | 20:50 | 20:50 |
 
 隨時歡迎大家提出改善活動的方法，甚至試辦新活動。
