@@ -6,9 +6,9 @@
 - **Raider**
 - **Guildie**
 - **AFK**
-- **I <3 Stormsong**
+- **Stormsong**
 
-新人初入公會的會階是 **I <3 Stormsong**，比較認識後即晉升為正式會員，成為 **Guildie**。
+新人初入公會的會階是 **Stormsong!**，比較認識後即晉升為正式會員，成為 **Guildie**。
 
 如果看到帶有愛心的 **Guildie <3** 會階，代表是新手，請大家耐心教學，多多照顧，盡量邀請他們一起玩。不可以 /lick 太多次喔！
 
