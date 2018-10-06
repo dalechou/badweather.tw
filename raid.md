@@ -46,7 +46,7 @@
 
 出團紀錄：[週四](https://www.warcraftlogs.com/user/reports-list/302729/)、[週五](https://www.warcraftlogs.com/user/reports-list/256518/)、[週二](https://www.warcraftlogs.com/user/reports-list/822965/)
 
-每一個團隊副本的目標是英雄全通，拿到「領先群雄」成就。我們不挑戰傳奇難度。
+每一個團隊副本的目標是英雄全通，拿到「領先群雄」成就。
 
 歷史戰績：
 - 領先群雄：[滅界者阿古斯](aotc_argus.jpg)
