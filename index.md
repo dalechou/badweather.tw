@@ -8,7 +8,7 @@
 
 目前會維護當前版本和上一個版本的遊戲資訊。也會用簡潔、清楚的方式說明公會和團隊制度。
 
-另外特別感謝[那些穩定出團的人](https://badbadweather.github.io/raiding.html)。謝謝。
+另外特別感謝[那些穩定出團的人](https://badbadweather.github.io/raid.html)。謝謝。
 
 ---
 
