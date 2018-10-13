@@ -9,6 +9,22 @@
 
 隨時歡迎大家提出改善活動的方法，甚至試辦新活動。
 
+---
+
+## 2018 偉大的諾姆瑞根路跑
+
+![](https://badbadweather.github.com/greatgnomereganrun.jpg)
+
+跑跑跑，向對抗乳癌的勇士致敬！
+
+---
+
+## 「優秀表現」公會成就
+
+![](https://badbadweather.github.com/stayclassy.jpg)
+
+我們辦到了！
+
 --- 
 
 請[點此](https://badbadweather.github.io/)回目錄。
