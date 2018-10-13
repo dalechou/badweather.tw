@@ -12,22 +12,6 @@
 
 ---
 
-## 2018 偉大的諾姆瑞根路跑
-
-![](https://badbadweather.github.com/greatgnomereganrun.jpg)
-
-跑跑跑，向對抗乳癌的勇士致敬！
-
----
-
-## 「優秀表現」公會成就
-
-![](https://badbadweather.github.com/stayclassy.jpg)
-
-我們辦到了！
-
----
-
 ## 目錄
 
 目前文件內容如下。
