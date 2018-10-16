@@ -14,7 +14,7 @@
 
 目前文件內容如下。
 
-- [嗨，可口的新朋友](https://badbadweather.github.io/newbies.html)
+- [嗨，可口的新手](https://badbadweather.github.io/newbies.html)
 - [嗨，回鍋的老朋友](https://badbadweather.github.io/oldfriends.html)
 - [公會須知](https://badbadweather.github.io/guidelines.html)
 - [會倉](https://badbadweather.github.io/bank.html)（**超重要**）
