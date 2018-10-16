@@ -4,11 +4,9 @@
 
 **聖光之願、天空之牆聯盟公會**
 
-我們是小公會，不一定隨時有人在線上，但仍希望會員在艾澤拉斯需要幫助時，能找到答案。這個網站正是為了這樣的原因誕生的，希望隨著時間能讓答案更豐富完善。
+我們原本是人很少的小公會。為了會員在艾澤拉斯旅行需要幫助時，能快速找到遊戲資訊，才做了這個網站。
 
-目前會維護當前版本和上一個版本的遊戲資訊。也會用簡潔、清楚的方式說明公會和團隊制度。
-
-另外特別感謝[那些穩定出團的人](https://badbadweather.github.io/raid.html)。謝謝。
+現在公會漸漸茁壯，除了分享遊戲資訊，也開始用這個網站說明公會和團隊制度。
 
 ---
 
@@ -16,11 +14,12 @@
 
 目前文件內容如下。
 
-- [嗨，新朋友](https://badbadweather.github.io/newbies.html)（新手看這個）
-- [嗨，老朋友](https://badbadweather.github.io/oldfriends.html)（回鍋看這個）
+- [嗨，可口的新朋友](https://badbadweather.github.io/newbies.html)
+- [嗨，回鍋的老朋友](https://badbadweather.github.io/oldfriends.html)
 - [公會須知](https://badbadweather.github.io/guidelines.html)
 - [會倉](https://badbadweather.github.io/bank.html)（**超重要**）
 - [會階](https://badbadweather.github.io/ranks.html)
+- [公會團](https://badbadweather.github.io/raid.html)
 - [公會活動](https://badbadweather.github.io/activities.html)
 - [公會語音](https://badbadweather.github.io/voicechat.html)
 - [插件和網路資源](https://badbadweather.github.io/useful.html)
