@@ -1,4 +1,4 @@
-## 嗨，可口的新朋友
+## 嗨，可口的新手
 
 歡迎你來艾澤拉斯冒險。官網整理的資訊很不錯，請記得[去看看](https://worldofwarcraft.com/zh-tw/game/new-players-guide)。
 
