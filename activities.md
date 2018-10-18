@@ -7,6 +7,8 @@
 | [團隊活動](https://badbadweather.github.io/raid.html) | [團隊活動](https://badbadweather.github.io/raid.html) | [團隊活動](https://badbadweather.github.io/raid.html) |
 | 20:50 | 20:50 | 20:50 |
 
+團隊活動以外的公會活動會用遊戲內行事曆廣告。
+
 隨時歡迎大家提出改善活動的方法，甚至試辦新活動。
 
 ---
