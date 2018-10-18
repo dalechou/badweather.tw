@@ -4,7 +4,7 @@
 
 | 二 | 四 | 五 |
 | --- | --- | --- |
-| [出團](https://badbadweather.github.io/raid.html) | [出團](https://badbadweather.github.io/raid.html) | [出團](https://badbadweather.github.io/raid.html) |
+| [團隊活動](https://badbadweather.github.io/raid.html) | [團隊活動](https://badbadweather.github.io/raid.html) | [團隊活動](https://badbadweather.github.io/raid.html) |
 | 20:50 | 20:50 | 20:50 |
 
 隨時歡迎大家提出改善活動的方法，甚至試辦新活動。
@@ -15,7 +15,7 @@
 
 ![](https://badbadweather.github.com/greatgnomereganrun.jpg)
 
-跑跑跑，向對抗乳癌的勇士致敬！
+跑跑跑，向勇敢的抗癌勇士致敬！
 
 ---
 
