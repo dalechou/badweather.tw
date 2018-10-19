@@ -62,7 +62,7 @@
 
 請在出團前參考[公會語音](https://badbadweather.github.io/voicechat.html)頁面完成設定，確定語音可以用。
 
-我們用[社交群組](https://blizzard.com/invite/MpAJNTMNA)當備用語音。
+我們用[社交群組](https://blizzard.com/invite/9EVogsdqA)當備用語音。
 
 請把社交群組加入遊戲內聊天框，避免錯過重要訊息。
 
