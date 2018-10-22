@@ -64,7 +64,7 @@
 
 ## 出團紀錄
 
-出團紀錄：[週二](https://www.warcraftlogs.com/user/reports-list/822965/)、[週四](https://www.warcraftlogs.com/user/reports-list/302729/)、[週五](https://www.warcraftlogs.com/user/reports-list/256518/)
+出團紀錄：[週二](https://www.warcraftlogs.com/user/reports-list/822965/)、[週四](https://www.warcraftlogs.com/user/reports-list/302729/)、[週五](https://www.warcraftlogs.com/user/reports-list/256518/)、[週日](https://www.warcraftlogs.com/user/reports-list/256518/)
 
 每一個團隊副本的目標是英雄全通，拿到「領先群雄」成就。
 
