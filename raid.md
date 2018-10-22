@@ -70,9 +70,9 @@
 
 歷史戰績：
 - 領先群雄：古翰（[週日](aotc_ghuun.jpg)）
-- 領先群雄：滅界者阿古斯[週四](aotc_argus.jpg)
+- 領先群雄：滅界者阿古斯（[週四](aotc_argus.jpg)）
 - 領先群雄：基爾加丹（[當時忘了合照](aotc_kiljaeden.jpg)，[隨便傳一個](aotc_kiljaeden2.jpg)）
-- 領先群雄：古爾丹[週四](aotc_guldan.jpg)
+- 領先群雄：古爾丹（[週四](aotc_guldan.jpg)）
 
 ---
 
