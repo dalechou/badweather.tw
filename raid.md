@@ -66,7 +66,7 @@
 
 出團紀錄：[週二](https://www.warcraftlogs.com/user/reports-list/822965/)、[週四](https://www.warcraftlogs.com/user/reports-list/302729/)、[週五](https://www.warcraftlogs.com/user/reports-list/256518/)、[週日](https://www.warcraftlogs.com/user/reports-list/256518/)
 
-每一個團隊副本的目標是英雄全通，拿到「領先群雄」成就。
+週二、四、五團隊目標是英雄全通，拿到「領先群雄」成就；週日團由團長另外訂定適合的傳奇難度目標。
 
 歷史戰績：
 - 領先群雄：古翰（[週日](aotc_ghuun.jpg)）
@@ -90,7 +90,7 @@
 
 ## 時間
 
-週二、週四、週五。晚上 20:50 開組，21:00 開打，00:00 結束。
+晚上 20:50 開組，21:00 開打，00:00 結束。
 
 請在出團前修好裝備，記得攜帶出團期間會用到的東西。開組後請不要離隊解任務；進組後請不要早退。
 
