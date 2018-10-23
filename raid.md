@@ -106,7 +106,7 @@
 
 ## 準備工作以及責任
 
-團隊會補助大餐、大鍋；聖光之願和天空之牆的團員會補助符文；[Bad Weather](https://badbadweather.github.io/) 公會成員會補助修裝費。
+團隊會補助大餐、大鍋，視情況補助符文；[Bad Weather](https://badbadweather.github.io/) 公會成員會補助修裝費。
 
 通常有大鍋吃，但每 CD 請準備自用精煉三瓶；通常有大餐可以吃，但每 CD 請準備自用食物一組。公會成員可以直接拿會倉的。
 
