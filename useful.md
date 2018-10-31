@@ -12,6 +12,12 @@
 - [Coordinates](https://wow.curseforge.com/projects/coordinates)：如果你在網路討論看到座標，不知道座標怎麼找，可以用這個
 - [ChampionCommander](https://www.curseforge.com/wow/addons/championcommander)：如果你覺得派追隨者很繁瑣……
 
+## 插件：WeakAuras 2
+
+因為 [WeakAuras 2](https://www.curseforge.com/wow/addons/weakauras-2) 雖然強大，但也複雜，所以特別切出來自己一區。**一般玩家可以完全忽略。**
+
+對 WeakAuras 2 有興趣可以參考 [Wago.io](https://wago.io/weakauras) 和 [Wowhead](http://www.wowhead.com/weakauras-addon-guide) 相關資源。
+
 ## 網路資源
 
 - [Icy Veins](http://www.icy-veins.com/wow/class-guides)：不會玩可以看這裡
@@ -22,13 +28,9 @@
 - [塑形模擬器](http://www.wowhead.com/dressing-room)：小心，時間會不知不覺過去XD
 - [伺服器狀態](https://worldofwarcraft.com/zh-tw/game/status)
 
----
+## 教學影片
 
-## 插件：WeakAuras 2
-
-因為 [WeakAuras 2](https://www.curseforge.com/wow/addons/weakauras-2) 雖然強大，但也複雜，所以特別切出來自己一區。**一般玩家可以完全忽略。**
-
-對 WeakAuras 2 有興趣可以參考 [Wago.io](https://wago.io/weakauras) 和 [Wowhead](http://www.wowhead.com/weakauras-addon-guide) 相關資源。
+- [魔獸世界新手入門《影像選項》](https://youtu.be/o_DKrpgU0v0)
 
 --- 
 
