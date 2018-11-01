@@ -18,6 +18,8 @@
 
 對 WeakAuras 2 有興趣可以參考 [Wago.io](https://wago.io/weakauras) 和 [Wowhead](http://www.wowhead.com/weakauras-addon-guide) 相關資源。
 
+- [Raidframes Glow effect](https://wago.io/SyI_CqH_X)：讓團隊框架在出團時亮晶晶
+
 ## 網路資源
 
 - [Icy Veins](http://www.icy-veins.com/wow/class-guides)：不會玩可以看這裡
