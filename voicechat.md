@@ -2,7 +2,7 @@
 
 很多[公會活動](https://badbadweather.github.io/activities.html)都會用到語音，可以先準備好，比較方便。
 
-我們用 [Twitch App](https://app.twitch.tv/download)，房間邀請碼：[lVqFwL](https://invite.twitch.tv/lVqFwL)
+我們用 [Twitch App](https://app.twitch.tv/download)，房間邀請碼：[EnNe](https://invite.twitch.tv/EnNe)
 
 ![](twitch.png)
 
