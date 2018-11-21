@@ -8,7 +8,9 @@
 - **AFK**
 - **Stormsong!**
 
-新人初入公會的會階是 **Stormsong!**，比較認識後即晉升為正式會員，成為 **Guildie**。
+新人初入公會的會階是 **Stormsong!**，瞭解[公會須知](https://badbadweather.github.io/guidelines.html)，學會[如何使用會倉後](https://badbadweather.github.io/bank.html)轉為 **Initiate**。
+
+比較認識後即晉升為正式會員，成為 **Guildie**。
 
 如果看到帶有愛心的 **Guildie <3** 會階，代表是真新手，請大家耐心教學，多多照顧，盡量邀請他們一起玩。（不可以 /lick 太多次喔！）
 
