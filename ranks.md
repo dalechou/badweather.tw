@@ -2,12 +2,12 @@
 
 會階這邊的理念是讓組織盡量扁平，實用為主，不設置無用的會階。
 
-會階主要有五種：
-- **Raider**
-- **Guildie**
-- **AFK**
-- **Initiate**
-- **Stormsong**
+| **常見會階** | **功能型會階** |
+| --- | --- | --- |
+| **Raider** | **Bankruiter** |
+| **Guildie** | **AFK** | 
+| **Initiate** | **Contact me** |
+| **Stormsong** | |
 
 新人初入公會的會階是 **Stormsong**，瞭解[公會須知](https://badbadweather.github.io/guidelines.html)，學會[如何使用會倉後](https://badbadweather.github.io/bank.html)轉為 **Initiate**。
 
