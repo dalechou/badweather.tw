@@ -7,9 +7,9 @@
 - **Guildie**
 - **AFK**
 - **Initiate**
-- **Stormsong!**
+- **Stormsong**
 
-新人初入公會的會階是 **Stormsong!**，瞭解[公會須知](https://badbadweather.github.io/guidelines.html)，學會[如何使用會倉後](https://badbadweather.github.io/bank.html)轉為 **Initiate**。
+新人初入公會的會階是 **Stormsong**，瞭解[公會須知](https://badbadweather.github.io/guidelines.html)，學會[如何使用會倉後](https://badbadweather.github.io/bank.html)轉為 **Initiate**。
 
 比較認識後即晉升為正式會員，成為 **Guildie**。
 
