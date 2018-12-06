@@ -5,7 +5,6 @@
 - 12/6（四）請假：阿魔達、伊蝶伊蝶、喔啊啊、吉吉哈蒂；晚到：星火燎原、快來踩我
 - 12/13（四）請假：阿魔達、吉吉哈蒂
 - 12/20（四）請假：阿魔達、吉吉哈蒂
-- 12/23（日）請假：Darc
 - 12/27（四）請假：吉吉哈蒂；晚到：龍蝦三爭霸
 - 1/3（四）請假：龍蝦三爭霸
 
@@ -41,38 +40,17 @@
 | | | 取名真是難 | Vodkalemon |
 | | | 熒熒小朋友 | |
 | 22 / 25 | | | |
-| | | | |
-| 格斯亞 | 太天才了 | 麥面米分 | 一塊錢的功德 |
-| **Darc** | 佛羅倫斯丸子 | Yoyoman | **Oddiin** |
-| **貝武夫** <sup>週日團長</sup> | 水色天淨 | Westphalen | 銅礦 |
-| | 瑤熙 | 知天易逆天難 | 歐巴馬是誰啊 |
-| | 阿強號 | **光合** | Vodkalemon |
-| | **吼嘿吼嘿** | 傷心蜜豆奶 | 點子大人 |
-| | | 取名真是難 | Pasttime |
-| | | | 先發 |
-| | | | Yinuo |
-| 26 / 27 | | | 塞爾希亞 |
-
-## 週日團特別說明
-
-**週日團成員必須是週二、四、五團穩定成員。**
-
-1. 行事曆會於出團前一週建立，請各位在出團日當天中午12:00以前填寫行事曆以便統計、規劃人員。若確認人數低於20人，則當日流團。
-1. 由於人數較多，勢必得有人坐板凳，請所有人員(含板凳)當天21:00前上線，若先發人員遲到則由板凳人員遞補。
-1. 本團使用評分系統做為安排人員的依據，確認 +3，拒絕/考慮中/告知晚到 +1，遲到早退 +0，未填寫行事曆 -3。此評分僅為參考，仍需視出團當日角色定位安排為最優先。
-1. 為了可以方便連絡團長，請視需求在可行範圍內請安裝手機 Battle.net APP。
-1. 以上資訊發佈後生效。
 
 ---
 
 ## 出團紀錄
 
-出團紀錄：[週二](https://www.warcraftlogs.com/user/reports-list/822965/)、[週四](https://www.warcraftlogs.com/user/reports-list/302729/)、[週五](https://www.warcraftlogs.com/user/reports-list/256518/)、[週日](https://www.warcraftlogs.com/user/reports-list/256518/)
+出團紀錄：[週二](https://www.warcraftlogs.com/user/reports-list/822965/)、[週四](https://www.warcraftlogs.com/user/reports-list/302729/)、[週五](https://www.warcraftlogs.com/user/reports-list/256518/)
 
-週二、四、五團隊目標是英雄全通，拿到「領先群雄」成就；週日團由團長另外訂定適合的傳奇難度目標。
+週二、四、五團隊目標是英雄全通，拿到「領先群雄」成就。
 
 歷史戰績：
-- 領先群雄：古翰（[週日](aotc_ghuun_sun.jpg)、[週五隔週補照](aotc_ghuun_fri.jpg)、[週四](aotc_ghuun_thu.jpg)、[週二](aotc_ghuun_tue.jpg)）
+- 領先群雄：古翰（[週五隔週補照](aotc_ghuun_fri.jpg)、[週四](aotc_ghuun_thu.jpg)、[週二](aotc_ghuun_tue.jpg)）
 - 領先群雄：滅界者阿古斯（[週四](aotc_argus.jpg)）
 - 領先群雄：基爾加丹（[週四忘了合照](aotc_kiljaeden.jpg)，[隨便傳一個](aotc_kiljaeden2.jpg)）
 - 領先群雄：古爾丹（[週四](aotc_guldan.jpg)）
@@ -165,7 +143,6 @@
 - 週二：歐巴馬是誰啊
 - 週四：Darc
 - 週五：貝武夫
-- 週日：貝武夫
 
 請[點此](https://badbadweather.github.io/)回目錄。
 
