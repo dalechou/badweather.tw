@@ -13,6 +13,12 @@
 
 ---
 
+## 版本內完成「奧迪爾團隊高手的榮耀」，拿到血饜克洛格
+
+![](https://badbadweather.github.com/bloodgorgedcrawg.jpg)
+
+---
+
 ## 波拉勒斯烤肉
 
 ![](https://badbadweather.github.com/bbq.jpg)
