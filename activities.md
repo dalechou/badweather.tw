@@ -17,6 +17,8 @@
 
 ![](https://badbadweather.github.com/bloodgorgedcrawg.jpg)
 
+小鋤鋤大軍！
+
 ---
 
 ## 波拉勒斯烤肉
