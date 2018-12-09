@@ -15,6 +15,8 @@
 
 如果邀請碼失效，請告訴會長。
 
+公會語音設定跟遊戲中的會階連動，只要在 Twitch 中設定好 Battle.net 帳號，即可獲得正確的權限。
+
 ---
 
 請[點此](https://badbadweather.github.io/)回目錄。
