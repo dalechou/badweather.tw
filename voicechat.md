@@ -4,8 +4,6 @@
 
 我們用 [Twitch App](https://app.twitch.tv/download)，房間邀請碼：[EnNe](https://invite.twitch.tv/EnNe)
 
-![](twitch.png)
-
 語音使用方法（請照順序做）：
 - 下載 Twitch App
 - 先打開 Twitch App，並且登入
