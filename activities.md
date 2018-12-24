@@ -2,7 +2,7 @@
 
 參與活動前，請先設定好[語音](https://badbadweather.github.io/voicechat.html)。
 
-| 二 | 四 | 五 |  
+| 一 | 二 | 四 |  
 | --- | --- | --- |
 | [團隊活動](https://badbadweather.github.io/raid.html) | [團隊活動](https://badbadweather.github.io/raid.html) | [團隊活動](https://badbadweather.github.io/raid.html) |
 | 20:50 | 20:50 | 20:50 |
