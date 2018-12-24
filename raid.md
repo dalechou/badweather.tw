@@ -16,6 +16,15 @@
 
 | **坦克** | **補師** | **遠程** | **近戰** |
 | --- | --- | --- | --- |
+| **貝武夫** <sup>**週一團長**</sup> | **坎西貝拉** | 光合 | Sio |
+| 格斯亞 | 佛羅倫斯丸子 | Seraphen <sup>水色天淨</sup> | 塞爾希亞 |
+| | **吼嘿吼嘿** | 知天易逆天難 | 銅礦 |
+| | **超級大美人** | Westphalen | Oddiin |
+| | | 麥面米分 | Pasttime |
+| | | 死人十個 | 可洛瑜 |
+| | | 取名真是難 | Vodkalemon |
+| 22 / 25 | | 熒熒小朋友 | |
+| | | | |
 | 姐姐大人 <sup>點子大人</sup> | 絕緋 | 璃法 <sup>格斯亞</sup> | 歐巴馬是誰啊 <sup>**週二團長**</sup> |
 | 三包麥面 <sup>麥面米分</sup> | 筱晰 <sup>暗影眾</sup> | 闇之咒術師 | 戴德洛特 |
 | | **莉雅大人** | 綠鈴 | 阿爾比雷歐 |
@@ -32,29 +41,12 @@
 | | | **貓語者** | 開朗黑法老 <sup>**週四拍賣師**</sup> |
 | | | 我不玩秘法 <sup>吼嘿吼嘿</sup> | 勇者尼克 |
 | 26 / 25 | | 哈沃斯 <sup>貝武夫</sup> | |
-| | | | |
-| **貝武夫** <sup>**週五團長**</sup> | **坎西貝拉** | 光合 | Sio |
-| 格斯亞 | 佛羅倫斯丸子 | Seraphen <sup>水色天淨</sup> | 塞爾希亞 |
-| | **吼嘿吼嘿** | 知天易逆天難 | 銅礦 |
-| | **超級大美人** | Westphalen | Oddiin |
-| | | 麥面米分 | Pasttime |
-| | | 死人十個 | 可洛瑜 |
-| | | 取名真是難 | Vodkalemon |
-| 22 / 25 | | 熒熒小朋友 | |
 
 ---
 
 ## 出團紀錄
 
-出團紀錄：[週二](https://www.warcraftlogs.com/user/reports-list/822965/)、[週四](https://www.warcraftlogs.com/user/reports-list/302729/)、[週五](https://www.warcraftlogs.com/user/reports-list/256518/)
-
-週二、四、五團隊目標是英雄全通，拿到「領先群雄」成就。
-
-歷史戰績：
-- 領先群雄：古翰（[已經掰掰的週日](aotc_ghuun_sun.jpg)、[週五隔週補照](aotc_ghuun_fri.jpg)、[週四](aotc_ghuun_thu.jpg)、[週二](aotc_ghuun_tue.png)）
-- 領先群雄：滅界者阿古斯（[週四](aotc_argus.jpg)）
-- 領先群雄：基爾加丹（[週四忘了合照](aotc_kiljaeden.jpg)，[隨便傳一個](aotc_kiljaeden2.jpg)）
-- 領先群雄：古爾丹（[週四](aotc_guldan.jpg)）
+出團紀錄：[週一](https://www.warcraftlogs.com/user/reports-list/256518/)、[週二](https://www.warcraftlogs.com/user/reports-list/822965/)、[週四](https://www.warcraftlogs.com/user/reports-list/302729/)
 
 ---
 
@@ -65,8 +57,6 @@
 我們用[社交群組](https://blizzard.com/invite/9EVogsdqA)當備用語音。
 
 請把社交群組加入遊戲內聊天框，避免錯過重要訊息。
-
-如果邀請碼失效，請告訴團長。
 
 ---
 
@@ -137,13 +127,24 @@
 
 ---
 
+## 歷史戰績
+
+團隊目標是英雄全通，拿到「領先群雄」成就。
+
+- 領先群雄：古翰（[已經掰掰的週日](aotc_ghuun_sun.jpg)、[週五隔週補照](aotc_ghuun_fri.jpg)、[週四](aotc_ghuun_thu.jpg)、[週二](aotc_ghuun_tue.png)）
+- 領先群雄：滅界者阿古斯（[週四](aotc_argus.jpg)）
+- 領先群雄：基爾加丹（[週四忘了合照](aotc_kiljaeden.jpg)，[隨便傳一個](aotc_kiljaeden2.jpg)）
+- 領先群雄：古爾丹（[週四](aotc_guldan.jpg)）
+
+---
+
 ## 聯絡
 
 有事請先找自己的團長。
 
+- 週一：貝武夫
 - 週二：歐巴馬是誰啊
 - 週四：Darc
-- 週五：貝武夫
 
 請[點此](https://badbadweather.github.io/)回目錄。
 
