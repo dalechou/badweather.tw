@@ -16,7 +16,7 @@
 
 | **坦克** | **補師** | **遠程** | **近戰** |
 | --- | --- | --- | --- |
-| **貝武夫** <sup>**週一團長**</sup> | **坎西貝拉** | 光合 | Sio |
+| **貝武夫** <sup>**週？團長**</sup> | **坎西貝拉** | 光合 | Sio |
 | 格斯亞 | 佛羅倫斯丸子 | Seraphen <sup>水色天淨</sup> | 塞爾希亞 |
 | | **吼嘿吼嘿** | 知天易逆天難 | 銅礦 |
 | | **超級大美人** | Westphalen | Oddiin |
@@ -46,7 +46,7 @@
 
 ## 出團紀錄
 
-出團紀錄：[週一](https://www.warcraftlogs.com/user/reports-list/256518/)、[週二](https://www.warcraftlogs.com/user/reports-list/822965/)、[週四](https://www.warcraftlogs.com/user/reports-list/302729/)
+出團紀錄：[週？](https://www.warcraftlogs.com/user/reports-list/256518/)、[週二](https://www.warcraftlogs.com/user/reports-list/822965/)、[週四](https://www.warcraftlogs.com/user/reports-list/302729/)
 
 ---
 
