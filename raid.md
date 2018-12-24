@@ -129,6 +129,7 @@
 
 團隊目標是英雄全通，拿到「領先群雄」成就。
 
+- 領先群雄：珍娜‧普勞德摩爾女士
 - 領先群雄：古翰（[已經掰掰的週日](aotc_ghuun_sun.jpg)、[週五隔週補照](aotc_ghuun_fri.jpg)、[週四](aotc_ghuun_thu.jpg)、[週二](aotc_ghuun_tue.png)）
 - 領先群雄：滅界者阿古斯（[週四](aotc_argus.jpg)）
 - 領先群雄：基爾加丹（[週四忘了合照](aotc_kiljaeden.jpg)，[隨便傳一個](aotc_kiljaeden2.jpg)）
