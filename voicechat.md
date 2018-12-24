@@ -1,17 +1,12 @@
 ## 公會語音
 
-很多[公會活動](https://badbadweather.github.io/activities.html)都會用到語音，可以先準備好，比較方便。
+很多[公會活動](https://badbadweather.github.io/activities.html)都會用到語音，可以先準備好，比較方便。歷經多次轉變後（RC、Twitch、Discord）我們決定使用**《魔獸世界》內建語音**。
 
-我們用 [Twitch App](https://app.twitch.tv/download)，房間邀請碼：[EnNe](https://invite.twitch.tv/EnNe)
+內建語音預設快捷鍵是 **t**，按下去後會看到頻道，頻道旁有耳機圖示。
 
-語音使用方法（請照順序做）：
-- 下載 Twitch App
-- 先打開 Twitch App，並且登入
-- 點選上方房間邀請碼
-- 點選上圖紅色框框按鈕
-- 找到房間後，加入最愛
+![](https://badbadweather.github.com/voicechat.png)
 
-公會語音設定跟遊戲中會階連動，只要在 Twitch 設定好 Battle.net 帳號，即可在公會語音獲得正確權限。
+點下去後，原本灰色耳機圖示會變成綠色的開啟狀態。再點一次可以變回灰色的關閉狀態。
 
 ---
 
