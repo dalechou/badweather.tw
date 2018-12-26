@@ -49,7 +49,7 @@
 
 ## 出團紀錄
 
-出團紀錄：[週？](https://www.warcraftlogs.com/user/reports-list/256518/)、[週二](https://www.warcraftlogs.com/user/reports-list/822965/)、[週四](https://www.warcraftlogs.com/user/reports-list/302729/)
+出團紀錄：[週一](https://www.warcraftlogs.com/user/reports-list/256518/)、[週二](https://www.warcraftlogs.com/user/reports-list/822965/)、[週四](https://www.warcraftlogs.com/user/reports-list/302729/)
 
 ---
 
