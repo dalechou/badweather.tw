@@ -18,11 +18,11 @@
 
 | **坦克** | **補師** | **遠程** | **近戰** |
 | --- | --- | --- | --- |
-| **貝武夫** <sup>**週一團長**</sup> | **伊萳娜** | Westphalen | Pasttime |
+| **貝武夫** <sup>**週一團長**</sup> | Eluneann <sup>Elunean</sup> | Westphalen | Pasttime |
 | 格斯亞 | **超級大美人** | 光合 | **Oddiin** |
 | **塞爾希亞** | 吼嘿吼嘿 | 熒熒小朋友 | 煤礦 |
 | | 石宛麥面 | Seraphen <sup>水色天淨</sup> | 克洛茵 |
-| 16 / 20 | Eluneann <sup>Elunean</sup> | | |
+| 16 / 20 | | 伊萳娜 | |
 | | | | |
 | 姐姐大人 <sup>妹妹大人</sup> | 絕緋 | 璃法 <sup>格斯亞</sup> | 歐巴馬是誰啊 <sup>**週二團長**</sup> |
 | 三包麥面 <sup>麥面米分</sup> | 筱晰 <sup>暗影眾</sup> | 闇之咒術師 | 戴德洛特 |
