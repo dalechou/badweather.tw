@@ -2,7 +2,7 @@
 
 公會為新進成員準備了下列成長包，祝大家冒險順利。
 
-邀請新人進公會時，請記得說明[會倉](https://badbadweather.github.io/bank.html)使用方法。
+邀請新人進公會時，請記得說明[公會須知](https://badbadweather.github.io/guidelines.html)，並介紹[專門幫助新手的親善大使](https://badbadweather.github.io/ranks.html)。
 
 | **玩家狀態** | **釣竿** | **幽紋布包** | **金幣** | **愛與友誼** |
 | --- | --- | --- | --- | --- |
