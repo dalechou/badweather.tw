@@ -44,7 +44,7 @@
 
 這個遊戲如此龐大、美麗，請珍惜初心。
 
-另外公會為新進成員準備了下列[成長包](https://badbadweather.github.io/starter.html)，祝大家冒險順利。
+另外公會為新進成員準備了[成長包](https://badbadweather.github.io/starter.html)，並有[專人幫助新手](https://badbadweather.github.io/ranks.html)。祝大家冒險順利。
 
 ---
 
