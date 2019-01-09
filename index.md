@@ -8,7 +8,7 @@
 
 現在公會漸漸茁壯，除了分享遊戲資訊，也開始用這個網站說明公會和團隊制度。
 
-別忘了現在公會有[專門幫助新手的親善大使](https://badbadweather.github.io/ranks.html)喔！
+此外，別忘了公會現在有[專門幫助新手的親善大使](https://badbadweather.github.io/ranks.html)，請多多利用！
 
 ---
 
