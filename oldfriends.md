@@ -14,8 +14,6 @@
     
         /腳本 local t,n,l,x;t=time()/3600-4;n=t/19%6;l=t%19;x=l<7 and 1 or 2;t=({7-l,19-l})[x];l=t%1*60;print(({'正在入侵：','下次入侵：'})[x]..({"祖達薩","海灣","納茲米爾","斯陀頌恩","沃魯敦","佐司瓦","祖達薩"})[n-n%1+x].."("..(t-t%1).."小時"..(l-l%1).."分鐘)")
 
-## 關於 8.0
-
 - **好不容易滿等了，接下來每個 CD 要做什麼，才能快點變強？**
 
     依序：世界王、週任、島嶼遠征打滿、Mythic+、戰爭前線或戰爭前線任務
@@ -26,7 +24,7 @@
 
     第七軍團聲望崇拜，並且完成敵方大陸三張地圖主線（跳 [Ready for War](https://www.wowhead.com/achievement=12510/ready-for-war) 成就）。
 
-- **8.0 怎麼升級比較有效率？**
+- **8.x 怎麼升級比較有效率？**
 
     目前最完善的應該是 [reddit 這一篇](https://www.reddit.com/r/wow/comments/913056/tips_and_tricks_for_leveling_in_bfa_and_a/)，或是[這個表](https://docs.google.com/spreadsheets/d/1T-SUnOeK4E_i70PaLhSQ4XBiprgksL71yKiNxagB0l0/edit#gid=458074727)。節錄如下。
 
