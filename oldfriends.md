@@ -4,6 +4,16 @@
 
 ---
 
+## 關於 8.x
+
+- **有沒有什麼辦法可以知道下一次入侵時間？**
+
+    有兩位批踢踢板友分別寫了網站（[wayne2002323](https://wayne2002323.github.io/WOWIncursionCountdown/index.html)、[jatestrella](https://jatestrella.github.io/WebSite/invasion.html)）。
+    
+    此外，會用巨集的可以使用這個腳本（請確定只有一行）：
+    
+        /腳本 local t,n,l,x;t=time()/3600-4;n=t/19%6;l=t%19;x=l<7 and 1 or 2;t=({7-l,19-l})[x];l=t%1*60;print(({'正在入侵：','下次入侵：'})[x]..({"祖達薩","海灣","納茲米爾","斯陀頌恩","沃魯敦","佐司瓦","祖達薩"})[n-n%1+x].."("..(t-t%1).."小時"..(l-l%1).."分鐘)")
+
 ## 關於 8.0
 
 - **好不容易滿等了，接下來每個 CD 要做什麼，才能快點變強？**
@@ -14,7 +24,7 @@
 
 - **黑鐵矮人的條件是什麼？**
 
-    第七軍團聲望崇拜，並且完成敵方大陸三張地圖主線（跳[ Ready for War](https://www.wowhead.com/achievement=12510/ready-for-war) 成就）。
+    第七軍團聲望崇拜，並且完成敵方大陸三張地圖主線（跳 [Ready for War](https://www.wowhead.com/achievement=12510/ready-for-war) 成就）。
 
 - **8.0 怎麼升級比較有效率？**
 
