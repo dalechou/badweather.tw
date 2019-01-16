@@ -19,7 +19,7 @@
 
 小鋤鋤大軍！
 
-![](https://badbadweather.github.com/bloodgorgedcrawg2.jpg)
+![](https://badbadweather.github.com/bloodgorgedcrawg.png)
 
 更多小鋤鋤！
 
