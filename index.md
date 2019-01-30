@@ -31,7 +31,7 @@
 
 ## 聯絡
 
-即日起試用[匿名會長信箱](https://goo.gl/forms/rwLyIDT9gVDazd5q1)，歡迎發表意見。
+請隨時用[匿名會長信箱](https://goo.gl/forms/rwLyIDT9gVDazd5q1)發表意見。
 
 也可以用遊戲內信件，或找在線上的 [Bankruiters](https://badbadweather.github.io/ranks.html)。
 
