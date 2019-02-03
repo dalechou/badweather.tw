@@ -6,6 +6,10 @@
 
 ## 關於 8.x
 
+- **哪裡拿五環裝？**
+
+    特使、入侵、團隊副本、黑海岸世界王、週任、M0（裝等低，但有）。
+
 - **有沒有什麼辦法可以知道下一次入侵時間？**
 
     有兩位批踢踢板友分別寫了網站（[wayne2002323](https://wayne2002323.github.io/WOWIncursionCountdown/index.html)、[jatestrella](https://jatestrella.github.io/WebSite/invasion.html)）。
