@@ -18,7 +18,7 @@
 
 對 WeakAuras 2 有興趣可以參考 [Wago.io](https://wago.io/weakauras) 和 [Wowhead](http://www.wowhead.com/weakauras-addon-guide) 相關資源。
 
-- [Raidframes Glow effect](https://wago.io/SyI_CqH_X)：讓團隊框架在出團時亮晶晶
+- [T23達薩亞洛之戰全BOSS(TA修改繁中板)](https://wago.io/7DQX0QQHL)
 
 ## 網路資源
 
