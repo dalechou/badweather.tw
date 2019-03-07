@@ -31,9 +31,10 @@
 - [塑形模擬器](http://www.wowhead.com/dressing-room)：小心，時間會不知不覺過去XD
 - [伺服器狀態](https://worldofwarcraft.com/zh-tw/game/status)
 
-## 教學影片
+## 教學
 
 - [魔獸世界新手入門《影像選項》](https://youtu.be/o_DKrpgU0v0)
+- [談顯示設定優化](https://forum.gamer.com.tw/Co.php?bsn=05219&sn=5266501)
 
 --- 
 
