@@ -41,7 +41,7 @@
 
 ## 出團紀錄
 
-出團紀錄：[週一](https://www.warcraftlogs.com/user/reports-list/256518/)、[週二](https://www.warcraftlogs.com/user/reports-list/822965/)、[週四](https://www.warcraftlogs.com/user/reports-list/302729/)
+出團紀錄：[週一](https://www.warcraftlogs.com/user/reports-list/256518/)、[週四](https://www.warcraftlogs.com/user/reports-list/302729/)
 
 --- 
 
@@ -125,7 +125,6 @@
 有事請先找自己的團長。
 
 - 週一：貝武夫
-- 週二：歐巴馬是誰啊
 - 週四：Darc
 
 請[點此](https://badbadweather.github.io/)回目錄。
