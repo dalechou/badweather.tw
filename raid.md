@@ -40,7 +40,7 @@
 ## 出團紀錄
 
 - 週二 [WCL](https://www.warcraftlogs.com/user/reports-list/256518/)、實況
-- 週四 [WCL](https://www.warcraftlogs.com/user/reports-list/302729/)、實況
+- 週四 [WCL](https://www.warcraftlogs.com/user/reports-list/302729/)、[實況](https://www.twitch.tv/xdorz87/videos)
 
 --- 
 
