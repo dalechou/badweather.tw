@@ -39,7 +39,8 @@
 
 ## 出團紀錄
 
-出團紀錄：[週二](https://www.warcraftlogs.com/user/reports-list/256518/)、[週四](https://www.warcraftlogs.com/user/reports-list/302729/)
+- 週二 [WCL](https://www.warcraftlogs.com/user/reports-list/256518/)、實況
+- 週四 [WCL](https://www.warcraftlogs.com/user/reports-list/302729/)、實況
 
 --- 
 
