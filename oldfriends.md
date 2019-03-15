@@ -70,7 +70,7 @@
 
 - **聽說 7.x 每個職業都有很多豐富的故事，但…我沒時間練 12 隻啦！直接跟我說發生什麼事情好不好？**
 
-    好啊，請看一篇：[https://www.ptt.cc/bbs/WOW/M.1532745299.A.C5B.html](https://www.ptt.cc/bbs/WOW/M.1532745299.A.C5B.html)    
+    好啊，請看這裡：[https://www.ptt.cc/bbs/WOW/M.1532745299.A.C5B.html](https://www.ptt.cc/bbs/WOW/M.1532745299.A.C5B.html)    
 
 - **教練，我想飛。**
 
