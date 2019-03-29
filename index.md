@@ -1,4 +1,4 @@
-![](https://badbadweather.github.com/badweather.png)
+![](https://badbadweather.github.com/img_badweather.png)
 
 ## Bad Weather
 
