@@ -16,11 +16,11 @@
 
 1.  確認註記填寫的是完整的主要角色名稱（不是目前角色的名稱）。
 1.  確認幹部註記填寫的是當初主要角色的邀請人（不是目前角色的邀請人）。
-1.  依[成長包](https://badbadweather.github.io/starter.html)提供物資。物資是一次性的，僅提供第一個角色。物資請由會倉提取。
+1.  依[成長包](starter.html)提供物資。物資是一次性的，僅提供第一個角色。物資請由會倉提取。
 1.  在幹部頻道說明已經提供物資。
 1.  分享公會網站：[https://badbadweather.github.io/](https://badbadweather.github.io/)
-1.  說明網站上這兩個頁面很重要：[公會須知](https://badbadweather.github.io/guidelines.html)、[會倉](https://badbadweather.github.io/ranks.html)
-1.  視情況說明：如果有興趣參與公會活動，可以先設定好[公會語音](https://badbadweather.github.io/voicechat.html)（但不需要教學）
+1.  說明網站上這兩個頁面很重要：[公會須知](guidelines.html)、[會倉](bank.html)
+1.  視情況說明：如果有興趣參與公會活動，可以先設定好[公會語音](voicechat.html)（但不需要教學）
 1.  以上步驟確實完成後，提升會階為 **Initiate**。
 
 ## **Guildie** 會階
@@ -35,6 +35,6 @@
 
 --- 
 
-請[點此](https://badbadweather.github.io/)回目錄。
+請[點此](index.html)回目錄。
 
 文件變更請參考[公開紀錄](https://github.com/badbadweather/badbadweather.github.io/commits/master/sop.md)，不會另外公告。
