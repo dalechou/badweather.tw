@@ -4,7 +4,7 @@
 
 可以用 Shift + 左鍵取用確切數量。這時應該出現下圖黃框標示的介面。
 
-![](https://badbadweather.github.com/guild_bank.png)
+![](https://badbadweather.github.com/img_guild_bank.png)
 
 會倉就是要給大家用的，只要拿得到物品，就表示歡迎使用。別害羞！
 
