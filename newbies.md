@@ -44,10 +44,10 @@
 
 這個遊戲如此龐大、美麗，請珍惜初心。
 
-公會為新進成員準備了[成長包](https://badbadweather.github.io/starter.html)，並有專門幫助新手的[初心者小幫手](https://badbadweather.github.io/ranks.html)。祝大家冒險順利。
+公會為新進成員準備了[成長包](starter.html)，並有專門幫助新手的[初心者小幫手](ranks.html)。祝大家冒險順利。
 
 ---
 
-請[點此](https://badbadweather.github.io/)回目錄。
+請[點此](index.html)回目錄。
 
 文件變更請參考[公開紀錄](https://github.com/badbadweather/badbadweather.github.io/commits/master/newbies.md)，不會另外公告。
