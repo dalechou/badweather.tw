@@ -15,7 +15,7 @@
 
 ## 歐巴馬是誰啊團長帶（原）週二團打完珍娜後爐邊自拍
 
-![](https://badbadweather.github.com/img_gnomeselfie.jpg)
+![](img_gnomeselfie.jpg)
 
 地精視角！
 
@@ -23,11 +23,11 @@
 
 ## 版本內完成「奧迪爾團隊高手的榮耀」，拿到血饜克洛格
 
-![](https://badbadweather.github.com/img_bloodgorgedcrawg.jpg)
+![](img_bloodgorgedcrawg.jpg)
 
 小鋤鋤大軍！
 
-![](https://badbadweather.github.com/img_bloodgorgedcrawg.png)
+![](img_bloodgorgedcrawg.png)
 
 更多小鋤鋤！
 
@@ -35,7 +35,7 @@
 
 ## 波拉勒斯烤肉
 
-![](https://badbadweather.github.com/img_bbq.jpg)
+![](img_bbq.jpg)
 
 深夜互相傷害的夥伴。
 
@@ -43,7 +43,7 @@
 
 ## 2018 偉大的諾姆瑞根路跑
 
-![](https://badbadweather.github.com/img_greatgnomereganrun.jpg)
+![](img_greatgnomereganrun.jpg)
 
 跑跑跑，向勇敢的抗癌勇士致敬！
 
@@ -51,7 +51,7 @@
 
 ## 「優秀表現」公會成就
 
-![](https://badbadweather.github.com/img_stayclassy.jpg)
+![](img_stayclassy.jpg)
 
 我們辦到了！
 
