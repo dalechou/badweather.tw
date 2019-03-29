@@ -19,11 +19,11 @@
 - [公會須知](guidelines.html)
 - [會倉](bank.html)（**超重要**）
 - [會階](ranks.html)
+- [收人規則](recruitment.html)
 - [團隊活動](raid.html)
 - [公會活動](activities.html)
 - [公會語音](voicechat.html)
 - [插件和網路資源](useful.html)
-- [關於公會的某段對話](guild.html)
 
 --- 
 
