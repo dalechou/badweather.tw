@@ -4,7 +4,7 @@
 
 可以用 Shift + 左鍵取用確切數量。這時應該出現下圖黃框標示的介面。
 
-![](https://badbadweather.github.com/img_guild_bank.png)
+![](img_guild_bank.png)
 
 會倉就是要給大家用的，只要拿得到物品，就表示歡迎使用。別害羞！
 
@@ -19,8 +19,8 @@
 | 第三、四頁 | 當前版本物資可以無腦右鍵丟進來。舊版本物資請放到其他地方。 | 
 | 第五頁 | 食物可以無腦右鍵丟進來。盡量以當前版本食物為主。 | 
 | 第六頁 | 舊版本布、皮、草、礦、附魔材料可以無腦右鍵丟進來。 | 
-| 第七頁 | [Raiders](https://badbadweather.github.io/ranks.html) 專用。 | 
-| 第八頁 | [Bankruiters](https://badbadweather.github.io/ranks.html) 專用。 | 
+| 第七頁 | [Raiders](ranks.html) 專用。 | 
+| 第八頁 | [Bankruiters](ranks.html) 專用。 | 
 
 --- 
 
