@@ -1,10 +1,10 @@
 ## 公會活動
 
-參與活動前，請先設定好[語音](https://badbadweather.github.io/voicechat.html)。
+參與活動前，請先設定好[語音](voicechat.html)。
 
 | 二 | 四 |  
 | --- | --- |
-| [團隊活動](https://badbadweather.github.io/raid.html) | [團隊活動](https://badbadweather.github.io/raid.html) |
+| [團隊活動](raid.html) | [團隊活動](raid.html) |
 | 20:50 | 20:50 | 20:50 |
 
 團隊活動以外的公會活動會用遊戲內行事曆廣告。
