@@ -45,7 +45,7 @@
 
 ## 語音與社交群組
 
-請在出團前參考[公會語音](https://badbadweather.github.io/voicechat.html)頁面完成設定，確定語音可以用。
+請在出團前參考[公會語音](voicechat.html)頁面完成設定，確定語音可以用。
 
 請把[社交群組](https://blizzard.com/invite/9EVogsdqA)加入遊戲內聊天框，避免錯過重要訊息。
 
@@ -59,7 +59,7 @@
 
 通常有大鍋吃，但每 CD 請準備自用精煉三瓶；通常有大餐可以吃，但每 CD 請準備自用食物一組。公會成員可以直接拿會倉的。
 
-團隊會補助大餐、大鍋，視情況補助符文；[Bad Weather](https://badbadweather.github.io/) 公會成員會補助修裝費。
+團隊會補助大餐、大鍋，視情況補助符文；[Bad Weather](index.html) 公會成員會補助修裝費。
 
 說明：出團的樂趣在於挑戰極限，挑戰邊際，無論是團隊或自己的。只有盡力做到最好，才知道能走多遠。
 
@@ -125,6 +125,6 @@
 - 週二：貝武夫
 - 週四：Darc
 
-請[點此](https://badbadweather.github.io/)回目錄。
+請[點此](index.html)回目錄。
 
 文件變更請參考[公開紀錄](https://github.com/badbadweather/badbadweather.github.io/commits/master/raid.md)，不會另外公告。
