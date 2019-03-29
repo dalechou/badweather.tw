@@ -21,6 +21,10 @@
 - [T23達薩亞洛之戰全BOSS(TA修改繁中板)](https://wago.io/7DQX0QQHL)
 - [大工匠梅卡托克WA - 中文優化修改](https://www.ptt.cc/bbs/WOW/M.1548761298.A.525.html)
 
+## 巨集
+
+- [大工匠巨集](https://pastebin.com/4s0NdK3m)
+
 ## 網路資源
 
 - [Icy Veins](http://www.icy-veins.com/wow/class-guides)：不會玩可以看這裡
