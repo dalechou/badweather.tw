@@ -9,13 +9,13 @@
 - **Initiate**
 - **Stormsong**
 
-新人初入公會的會階是 **Stormsong**，瞭解[公會須知](https://badbadweather.github.io/guidelines.html)，學會[如何使用會倉後](https://badbadweather.github.io/bank.html)轉為 **Initiate**。
+新人初入公會的會階是 **Stormsong**，瞭解[公會須知](guidelines.html)，學會[如何使用會倉後](bank.html)轉為 **Initiate**。
 
 比較認識後即晉升為正式會員，成為 **Guildie**。
 
 如果看到帶有愛心的 **Guildie <3** 會階，代表是真新手，請大家耐心教學，多多照顧，盡量邀請他們一起玩。（不可以 /lick 太多次喔！）
 
-穩定參與[團隊活動](https://badbadweather.github.io/raid.html)可晉升為 **Raider**。這個會階認定的是角色，不是帳號或人，會提供物資補助出團活動。
+穩定參與[團隊活動](raid.html)可晉升為 **Raider**。這個會階認定的是角色，不是帳號或人，會提供物資補助出團活動。
 
 六個月未上線改設為 **AFK**，無會倉權限；但只要回鍋，告知會長或幹部，即可恢復權限。這單純是為了保護會倉安全，避免因盜帳號等情況損失會倉物資。
 
@@ -44,6 +44,6 @@
 
 --- 
 
-請[點此](https://badbadweather.github.io/)回目錄。
+請[點此](index.html)回目錄。
 
 文件變更請參考[公開紀錄](https://github.com/badbadweather/badbadweather.github.io/commits/master/ranks.md)，不會另外公告。
