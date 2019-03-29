@@ -18,7 +18,7 @@
 
 ## 收人流程
 
-1.  使用 /ginvite 邀請對方。
+1.  使用 /ginvite 指令邀請對方。
 1.  填寫註記。註記請填寫對方主要角色名稱，不要額外加其他敘述。範例：沙發破一個洞
 1.  分享公會網站 [https://badbadweather.github.io/](https://badbadweather.github.io/)，並說明這兩個頁面很重要：[公會須知](guidelines.html)、[會倉](bank.html)
 1.  如果是真‧新手，說明可以找 **Helper** 會階的人尋求幫助，這些人是專門幫助新手的初心者小幫手。
