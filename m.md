@@ -24,15 +24,18 @@
 
 ## 出團紀錄
 
-- [WCL](https://www.warcraftlogs.com/)、[實況](https://www.twitch.tv/)
+- 貝武夫[WCL](https://www.warcraftlogs.com/user/reports-list/256518/)
+
+## 實況
+
+- Oddiin (DK) [實況](https://www.twitch.tv/edwinlee13)
+- 布萊克史東 (聖騎) [實況](https://www.youtube.com/user/jimmy01021991)
 
 --- 
 
 ## 語音與社交群組
 
-請在出團前參考[公會語音](voicechat.html)頁面完成設定，確定語音可以用。
-
-請把[社交群組](https://blizzard.com/invite/9EVogsdqA)加入遊戲內聊天框，避免錯過重要訊息。
+請在出團前完成設定，確定語音可以用。
 
 ---
 
