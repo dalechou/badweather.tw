@@ -1,6 +1,6 @@
 ## 插件：副本
 
-如果覺得手動更新插件很煩，請考慮 [Twitch App](https://app.twitch.tv/download)。現在很好用了，公會語音也用這個軟體。
+如果覺得手動更新插件很煩，請考慮 [Twitch App](https://app.twitch.tv/download)，現在很好用了。
 
 - [GTFO](https://wow.curseforge.com/projects/gtfo)：常常莫名其妙死掉請裝這個
 - [DBM](https://wow.curseforge.com/projects/deadly-boss-mods)：副本機制提醒
