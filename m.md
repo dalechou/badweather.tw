@@ -40,6 +40,7 @@
 
 - Oddiin (DK) [實況](https://www.twitch.tv/edwinlee13)
 - 布萊克史東 (聖騎) [實況](https://www.youtube.com/user/jimmy01021991)
+- 朗叔叔 (薩滿) [實況](https://www.youtube.com/channel/UC5lM8vC4AgRpSJgGyTdzwZA)
 
 --- 
 
