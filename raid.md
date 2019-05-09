@@ -2,7 +2,6 @@
 
 我們是台灣《魔獸世界》聯盟團。出席報告如下。ʕᵔᴥᵔʔ
 
-- 5/7（二）請假：布萊克史東、熒熒小朋友
 - 5/9（四）請假：香茅千層蛋糕、伊蘇露
 - 5/14（二）請假：煤礦
 
@@ -113,7 +112,7 @@
 
 團隊目標是英雄全通，拿到「領先群雄」成就。
 
-- 領先群雄：『虛無使者』烏納特
+- 領先群雄：『虛無使者』烏納特（[週二](img_aotc_uunat_tue.jpg)）
 - 領先群雄：珍娜‧普勞德摩爾女士（[改了兩次時間的週二](img_aotc_jaina_tue.jpg)、[週四](img_aotc_jaina_thu.jpg)、[週四 GIF](img_aotc_jaina_thu.gif)）
 - 領先群雄：古翰（[已經掰掰的週日](img_aotc_ghuun_sun.jpg)、[週五隔週補照](img_aotc_ghuun_fri.jpg)、[週四](img_aotc_ghuun_thu.jpg)、[原週二](img_aotc_ghuun_tue.png)）
 - 領先群雄：滅界者阿古斯（[週四](img_aotc_argus.jpg)）
