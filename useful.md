@@ -29,6 +29,7 @@
 
 ## 網路資源
 
+- [官網公會頁面](https://worldofwarcraft.com/zh-tw/guild/tw/lights-hope/bad-weather)
 - [Icy Veins](http://www.icy-veins.com/wow/class-guides)：不會玩可以看這裡
 - [天賦模擬器](http://www.wowhead.com/talent-calc)
 - [角色進度查詢](https://www.wowhead.com/attunement)
