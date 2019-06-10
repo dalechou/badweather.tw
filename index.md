@@ -26,6 +26,7 @@
 - [公會活動](activities.html)
 - [公會語音](voicechat.html)
 - [插件和網路資源](useful.html)
+- [其他遊戲](othergames.html)
 
 --- 
 
