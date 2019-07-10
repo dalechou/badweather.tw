@@ -20,6 +20,7 @@
 
 - [副本時間軸](https://wago.io/B1pfxTOtb)
 - [滑鼠位置](https://wago.io/HkjSU79zz)
+- [T25 The Eternal Palace Auras (8/8 Bosses, all difficulties)](https://wago.io/bfaraid4)
 - [T24 Crucible of Storms](https://wago.io/ZNwzevTcj)
 - [T23達薩亞洛之戰全BOSS(TA修改繁中板)](https://wago.io/7DQX0QQHL)
 
