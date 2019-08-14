@@ -1,6 +1,6 @@
 ## 經典版
 
-聯絡人請見[其他遊戲](othergames.html)。
+[資訊先看這裡。](othergames.html)
 
 --- 
 
