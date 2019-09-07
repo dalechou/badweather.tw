@@ -1,6 +1,6 @@
 ## 嗨，回鍋的老朋友
 
-歡迎回鍋。官網整理的資訊很不錯，請記得[去看看](https://worldofwarcraft.com/zh-tw/game/returning-players-guide)。
+歡迎回鍋。官網整理的資訊很不錯，請記得[去看看](https://worldofwarcraft.com/zh-tw/game/returning-players-guide)。以下都是現行版的資訊。
 
 ---
 
