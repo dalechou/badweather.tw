@@ -24,20 +24,16 @@
 - [T24 Crucible of Storms](https://wago.io/ZNwzevTcj)
 - [T23達薩亞洛之戰全BOSS(TA修改繁中板)](https://wago.io/7DQX0QQHL)
 
-## 巨集
-
-- [大工匠巨集](https://pastebin.com/4s0NdK3m)
-
 ## 網路資源
 
 - [官網公會頁面](https://worldofwarcraft.com/zh-tw/guild/tw/lights-hope/bad-weather)
-- [Icy Veins](http://www.icy-veins.com/wow/class-guides)：不會玩可以看這裡
-- [天賦模擬器](http://www.wowhead.com/talent-calc)
-- [角色進度查詢](https://www.wowhead.com/attunement)
-- [玩家寫的英雄榜](https://hi-armory.tw/)
-- [選裝備](https://bloodmallet.com/)
-- [塑形模擬器](http://www.wowhead.com/dressing-room)：小心，時間會不知不覺過去XD
 - [伺服器狀態](https://worldofwarcraft.com/zh-tw/game/status)
+- [Icy Veins](http://www.icy-veins.com/wow/class-guides)：不會玩可以看這裡
+- [Bloodmallet](https://bloodmallet.com/)：選裝備
+- [Wowhead 天賦模擬器](http://www.wowhead.com/talent-calc)
+- [Wowhead 角色進度查詢](https://www.wowhead.com/attunement)
+- [Wowhead 塑形模擬器](http://www.wowhead.com/dressing-room)：小心，時間會不知不覺過去XD
+- [玩家寫的英雄榜](https://hi-armory.tw/)
 
 ## 教學
 
