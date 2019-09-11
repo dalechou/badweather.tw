@@ -26,16 +26,14 @@
 
 ## 收人流程
 
-1.  使用 /ginvite 指令邀請對方。
+1.  使用 /ginvite 指令邀請對方，例如：/ginvite Darc-聖光之願
 1.  填寫註記。註記請填寫對方主要角色名稱，不要額外加其他敘述。範例：沙發破一個洞
-1.  分享公會網站 [https://badbadweather.github.io/](https://badbadweather.github.io/)，並說明這兩個頁面很重要：[公會須知](guidelines.html)、[會倉](bank.html)
 1.  如果是真‧新手，說明平時可以找 **Helper** 會階的人尋求幫助，這些人是專門幫助新手的[初心者小幫手](ranks.html)。
 
 ## 提升權限流程（由幹部完成）
 
 1.  確認註記，然後填寫幹部註記。幹部註記填寫的是當初主要角色的邀請人，不是目前角色的邀請人。
-1.  確認讀過公會網站。
-1.  依[成長包](starter.html)提供物資。物資是一次性的，僅提供第一個角色。物資請由會倉提取。
+1.  分享公會網站 [https://badbadweather.github.io/](https://badbadweather.github.io/)，並說明這兩個頁面很重要：[公會須知](guidelines.html)、[會倉](bank.html)
 1.  提升權限至 **Guildie**。
 
 ---
