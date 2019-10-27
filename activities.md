@@ -15,11 +15,13 @@
 
 ## 永恆團隊高手的榮耀
 
-![](img_eternalraider.jpg)
+![](img_eternalraider_tue.jpg)
+
+![](img_eternalraider_thu.jpg)
 
 大家一起完成的成就，捕獲艾薩拉膨魟數隻。
 
-有路人入鏡！另外同團的[香茅蒙布朗](img_eternalraider2.jpg)開了戰爭模式，也在同時間、同地點照相。
+有路人入鏡！另外同團的[香茅蒙布朗](img_eternalraider_thu2.jpg)開了戰爭模式，也在同時間、同地點照相。
 
 --- 
 
