@@ -17,7 +17,7 @@
 
 ![](img_eternalraider.jpg)
 
-同團的[香茅蒙布朗](img_eternalraider2.jpg)開戰爭模式在同時間、同地點照相。
+有路人跑來。同團的[香茅蒙布朗](img_eternalraider2.jpg)開戰爭模式在同時間、同地點照相。
 
 --- 
 
