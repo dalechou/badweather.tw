@@ -111,6 +111,7 @@
 
 團隊目標是英雄全通，拿到「領先群雄」成就。
 
+- 領先群雄：『腐化者』恩若司
 - 領先群雄：艾薩拉女王（[週二榮耀瞬間](img_aotc_azshara_tue.jpg)、[週二好好照相](img_aotc_azshara_tue2.jpg)、[週四榮耀瞬間](img_aotc_azshara_thu.jpg)、[週四好好照相](img_aotc_azshara_thu2.jpg)）
 - 領先群雄：『虛無使者』烏納特（[週二](img_aotc_uunat_tue.jpg)、[週四](img_aotc_uunat_thu.jpg)、[週四之魚頭](img_aotc_uunat_thu2.jpg)）
 - 領先群雄：珍娜‧普勞德摩爾女士（[改了兩次時間的週二](img_aotc_jaina_tue.jpg)、[週四](img_aotc_jaina_thu.jpg)、[週四 GIF](img_aotc_jaina_thu.gif)）
