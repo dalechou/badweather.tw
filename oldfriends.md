@@ -8,7 +8,7 @@
 
 - **這版好多新機制，有沒有說明文件？**
 
-    官網整理得不錯，[請參考](https://worldofwarcraft.com/zh-tw/news/23227147)。
+    官網整理得不錯，[請參考](https://worldofwarcraft.com/zh-tw/news/23227147)。巴哈姆特[也有一篇](https://forum.gamer.com.tw/C.php?bsn=5219&snA=661370)不錯。
 
 - **小幻象、大幻象那些怎麼安排？**
 
