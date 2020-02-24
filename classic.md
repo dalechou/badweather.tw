@@ -23,11 +23,7 @@
 
 請隨時用[匿名會長信箱](https://goo.gl/forms/rwLyIDT9gVDazd5q1)發表意見。
 
-也可以用遊戲內信件，或找在線上的 [Bankruiters](ranks.html)（公會幹部）。
-
-經典版比較容易找到的幹部名單：
-
-- ㄚㄚ
+也可以用遊戲內信件，或找 [Bankruiters](ranks.html)（公會幹部）。
 
 --- 
 
