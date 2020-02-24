@@ -59,6 +59,6 @@
 
 請隨時用[匿名會長信箱](https://goo.gl/forms/rwLyIDT9gVDazd5q1)發表意見。
 
-也可以用遊戲內信件，或找在線上的 [Bankruiters](ranks.html)（公會幹部）。
+也可以用遊戲內信件，或找 [Bankruiters](ranks.html)（公會幹部）。
 
 文件變更請參考[公開紀錄](https://github.com/badbadweather/badbadweather.github.io/commits/master/index.md)，不會另外公告。
