@@ -12,7 +12,7 @@
 
 ## 目錄
 
-目前文件內容如下。
+公會網站內容如下。
 
 - [嗨，可口的新手](newbies.html)
 - [嗨，回鍋的老朋友](oldfriends.html)
@@ -20,12 +20,12 @@
 - [會倉](bank.html)（**超重要**）
 - [會階](ranks.html)
 - [收人規則](recruitment.html)
-- [家族](houses.html)
 - [團隊活動：英雄難度](raid.html)
 - [團隊活動：傳奇難度](m.html)
 - [公會活動](activities.html)
 - [公會語音](voicechat.html)
 - [插件和網路資源](useful.html)
+- [家族](houses.html)
 - [經典版](classic.html)
 - [其他遊戲](othergames.html)
 
