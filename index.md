@@ -33,7 +33,7 @@
 
 ## 聯絡
 
-請隨時用[匿名會長信箱](https://goo.gl/forms/rwLyIDT9gVDazd5q1)發表意見。這個信箱只有會長會收到，而且除非自己說，不會知道寄件人是誰。
+請隨時用[匿名會長信箱](https://goo.gl/forms/rwLyIDT9gVDazd5q1)發表意見。這個信箱只有會長看得到，而且不會知道寄件人是誰（除非自己說）。
 
 也可以用遊戲內信件，或找 [Bankruiters](ranks.html)（公會幹部）。
 
