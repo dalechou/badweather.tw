@@ -14,10 +14,10 @@
 
 公會網站內容如下。
 
+- [公會須知](guidelines.html)（**必讀**）
+- [會倉](bank.html)（**必讀**）
 - [嗨，可口的新手](newbies.html)
 - [嗨，回鍋的老朋友](oldfriends.html)
-- [公會須知](guidelines.html)
-- [會倉](bank.html)（**超重要**）
 - [會階](ranks.html)
 - [收人規則](recruitment.html)
 - [團隊活動：英雄難度](raid.html)
