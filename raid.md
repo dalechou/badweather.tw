@@ -29,7 +29,9 @@
 |                              |                | 悠然天光      | 欸桑                            |
 |                              |                | **伊潔琳**   | Blacksoul                       |
 |                              |                | **石宛麥面** | Kyubirog                        |
-| 27                           |                | Timeslug     | 開朗共和國 <sup>**拍賣師**</sup> |
+|                              |                | Timeslug     | 開朗共和國 <sup>**拍賣師**</sup> |
+| 28                           |                | Timeslug     | Jessiewnca                      |
+
 
 ---
 
