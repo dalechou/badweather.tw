@@ -29,10 +29,10 @@
 |                              |                | 貓語者        | 喔啊啊布德爾                    |
 |                              |                | 悠然天光      | 欸桑                            |
 |                              |                | **伊潔琳**   | Blacksoul                       |
-|                              |                | **石宛麥面** | Kyubirog                        |
-|                              |                | Timeslug     | 開朗共和國 <sup>**拍賣師**</sup> |
-| 28                           |                | Timeslug     | Jessiewnca                      |
-
+|                              |                | Timeslug     | Kyubirog                        |
+|                              |                |              | 開朗共和國 <sup>**拍賣師**</sup> |
+|                              |                |              | Jessiewnca                      |
+| 28                           |                |              | **石宛麥面**                    |
 
 ---
 
