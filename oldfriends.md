@@ -12,6 +12,10 @@
 
 ## 關於 8.3
 
+- **母親大人賣的腐化多久更新一次？**
+
+    三天半，跟小突襲一樣。
+
 - **這版好多新機制，有沒有說明文件？**
 
     官網整理得不錯，[請參考這篇](https://worldofwarcraft.com/zh-tw/news/23227147)或[這篇](https://worldofwarcraft.com/zh-tw/news/23355423)。巴哈姆特[也有一篇](https://forum.gamer.com.tw/C.php?bsn=5219&snA=661370)不錯。
