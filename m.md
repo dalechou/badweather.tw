@@ -58,7 +58,7 @@
 
 ## 聯絡
 
-有事請先找M團聯絡人：Ivokerk
+有事請先找聯絡人：Ivokerk
 
 請[點此](index.html)回目錄。
 
