@@ -2,8 +2,8 @@
 
 我們是喜歡出團的公會！以下是目前仍活躍的團隊。
 
-- [趴熊團］(bear.html)（團長：Darc）
-- [Ivokerk 團］(ivokerk.html)（團長：Ivokerk）
+- [趴熊團](bear.html)（團長：Darc）
+- [Ivokerk 團](ivokerk.html)（團長：Ivokerk）
 
 開團時間及規則請見各團專頁。
 
