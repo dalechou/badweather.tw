@@ -27,7 +27,8 @@
 
 ## 出團紀錄
 
-- [WCL](https://www.warcraftlogs.com/user/reports-list/302729/)、[實況](https://www.twitch.tv/dalechou/videos)
+- [WCL](https://www.warcraftlogs.com/user/reports-list/302729/)
+- [實況](https://www.twitch.tv/dalechou/videos)
 
 --- 
 
