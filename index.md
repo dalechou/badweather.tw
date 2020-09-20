@@ -18,8 +18,7 @@
 - [嗨，回鍋的老朋友](oldfriends.html)
 - [會階](ranks.html)
 - [收人規則](recruitment.html)
-- [團隊活動：英雄難度](raid.html)
-- [團隊活動：傳奇難度](m.html)
+- [團隊活動](raid.html)（[趴熊團](bear.html)、[Ivokerk 團](ivokerk.html)）
 - [公會活動](activities.html)
 - [公會語音](voicechat.html)
 - [插件和網路資源](useful.html)
