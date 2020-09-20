@@ -100,11 +100,11 @@
 
 團隊目標是英雄全通，拿到「領先群雄」成就。
 
-- 領先群雄：『腐化者』恩若司（[週二榮耀瞬間](img_aotc_nzoth_tue.jpg)、[週二好難照啊](img_aotc_nzoth_tue2.jpg)、[週四好好照相](img_aotc_nzoth_thu.jpg)、[週四永不放棄](https://www.twitch.tv/videos/587773572)）
-- 領先群雄：艾薩拉女王（[週二榮耀瞬間](img_aotc_azshara_tue.jpg)、[週二好好照相](img_aotc_azshara_tue2.jpg)、[週四榮耀瞬間](img_aotc_azshara_thu.jpg)、[週四好好照相](img_aotc_azshara_thu2.jpg)）
-- 領先群雄：『虛無使者』烏納特（[週二](img_aotc_uunat_tue.jpg)、[週四](img_aotc_uunat_thu.jpg)、[週四之魚頭](img_aotc_uunat_thu2.jpg)）
-- 領先群雄：珍娜‧普勞德摩爾女士（[改了兩次時間的週二](img_aotc_jaina_tue.jpg)、[週四](img_aotc_jaina_thu.jpg)、[週四 GIF](img_aotc_jaina_thu.gif)）
-- 領先群雄：古翰（[已經掰掰的週日](img_aotc_ghuun_sun.jpg)、[週五隔週補照](img_aotc_ghuun_fri.jpg)、[週四](img_aotc_ghuun_thu.jpg)、[原週二](img_aotc_ghuun_tue.png)）
+- 領先群雄：『腐化者』恩若司（[週四好好照相](img_aotc_nzoth_thu.jpg)、[週四永不放棄](https://www.twitch.tv/videos/587773572)）
+- 領先群雄：艾薩拉女王（[週四榮耀瞬間](img_aotc_azshara_thu.jpg)、[週四好好照相](img_aotc_azshara_thu2.jpg)）
+- 領先群雄：『虛無使者』烏納特（[週四](img_aotc_uunat_thu.jpg)、[週四之魚頭](img_aotc_uunat_thu2.jpg)）
+- 領先群雄：珍娜‧普勞德摩爾女士（[週四](img_aotc_jaina_thu.jpg)、[週四 GIF](img_aotc_jaina_thu.gif)）
+- 領先群雄：古翰（[週四](img_aotc_ghuun_thu.jpg)）
 - 領先群雄：滅界者阿古斯（[週四](img_aotc_argus.jpg)）
 - 領先群雄：基爾加丹（[週四忘了合照](img_aotc_kiljaeden.jpg)，[隨便傳一個](img_aotc_kiljaeden2.jpg)）
 - 領先群雄：古爾丹（[週四](img_aotc_guldan.jpg)）
