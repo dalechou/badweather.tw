@@ -6,6 +6,10 @@
 
 ## 關於 9.x
 
+- **我想瞭解等級、物品與數值調整等新改變！**
+
+    請看這個[這個官網頁面](https://worldofwarcraft.com/zh-tw/news/23523206/)。
+
 - **我想瞭解誓盟技能！**
 
     請看這個[影片](https://www.youtube.com/watch?v=u1GI2Ja9UL4)（感謝貓語者提供）。
