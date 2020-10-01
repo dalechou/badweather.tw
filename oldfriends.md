@@ -12,7 +12,7 @@
 
 - **我想瞭解誓盟技能！**
 
-    請看這個[影片](https://www.youtube.com/watch?v=u1GI2Ja9UL4)（感謝貓語者提供）。
+    請看這個[影片](https://www.youtube.com/watch?v=u1GI2Ja9UL4)。
 
 ---
 
