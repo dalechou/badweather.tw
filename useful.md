@@ -1,6 +1,8 @@
 ## 插件：副本
 
-如果覺得手動更新插件很煩，請考慮 [Twitch App](https://app.twitch.tv/download)，現在很好用了。以下如果沒特別說，都是現行版用的，不是經典版。
+如果覺得手動更新插件很煩，可以考慮使用 [WowUp.io](https://wowup.io/) 或 [Ajour](https://www.getajour.com/) 幫忙管理插件。
+
+以下插件如果沒特別說，都是現行版用的，不是經典版。
 
 - [GTFO](https://wow.curseforge.com/projects/gtfo)：常常莫名其妙死掉請裝這個
 - [DBM](https://wow.curseforge.com/projects/deadly-boss-mods)：副本機制提醒
