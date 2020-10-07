@@ -14,6 +14,10 @@
 
     請看這個[這個官網頁面](https://worldofwarcraft.com/zh-tw/news/23523206/)。
 
+- **快前夕啦！怎麼辦怎麼辦！**
+
+    請看[《暗影之境》版本前夕生存指南](https://www.youtube.com/watch?v=OYFuKAVRASE)。
+
 - **我想瞭解誓盟技能！**
 
     請看這個[影片](https://www.youtube.com/watch?v=u1GI2Ja9UL4)。
