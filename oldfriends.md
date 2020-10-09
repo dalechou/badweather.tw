@@ -12,9 +12,9 @@
 
 - **聽說練等變快了？我想瞭解等級、物品與數值調整等新改變！**
 
-    請看這個[這個官網頁面](https://worldofwarcraft.com/zh-tw/news/23523206/)。
+    [官網頁面](https://worldofwarcraft.com/zh-tw/news/23523206/)的說明可以參考。
     
-    根據 [Wowhead](https://www.wowhead.com/news=318397/leveling-fast-in-shadowlands-which-expansion-is-right-for-you) 情報，以下是各版練等所需時間：
+    另外，根據 [Wowhead](https://www.wowhead.com/news=318397/leveling-fast-in-shadowlands-which-expansion-is-right-for-you) 情報，以下是各版練等所需時間：
     
     | 版本           | 時間    |
     | -------------- | ------ |
