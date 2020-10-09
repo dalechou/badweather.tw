@@ -16,6 +16,7 @@
     
     根據 [Wowhead](https://www.wowhead.com/news=318397/leveling-fast-in-shadowlands-which-expansion-is-right-for-you) 情報，以下是各版練等所需時間：
     
+    | 版本           | 時間    |
     | -------------- | ------ |
     | 《德拉諾之霸》  | 12 小時 |
     | 《軍臨天下》    | 14 小時 |
