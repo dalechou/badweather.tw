@@ -92,11 +92,15 @@
 
 ---
 
-## 2018 偉大的諾姆瑞根路跑
+## 偉大的諾姆瑞根路跑
 
-![](img_greatgnomereganrun.jpg)
+![](img_greatgnomereganrun_2020-10-10.jpg)
 
-跑跑跑，向勇敢的抗癌勇士致敬！
+2020 跑跑跑，感謝 Yinuo、瑤熙來保護大家！
+
+![](img_greatgnomereganrun_2018-10-10.jpg)
+
+2018 跑跑跑，向勇敢的抗癌勇士致敬！
 
 ---
 
