@@ -96,7 +96,7 @@
 
 ![](img_greatgnomereganrun_2020.jpg)
 
-2020 跑跑跑，感謝 Yinuo、瑤熙來保護大家！
+這是 2020 路跑，版本末參加的人變少了，感謝 Yinuo、瑤熙來保護大家！
 
 ![](img_greatgnomereganrun_2018.jpg)
 
