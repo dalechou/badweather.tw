@@ -1,6 +1,8 @@
 ## 嗨，回鍋的老朋友
 
-歡迎回鍋！以下是官方最新資訊（整理得很不錯），所有資訊以現行版為主。
+歡迎回鍋！
+
+以下是官方最新資訊，整理得很不錯。所有資訊以現行版為主。
 
 - [回歸用戶指南](https://worldofwarcraft.com/zh-tw/game/returning-players-guide)
 - [《暗影之境》版本前夕更新檔說明](https://worldofwarcraft.com/zh-tw/news/23529209/%E6%9A%97%E5%BD%B1%E4%B9%8B%E5%A2%83%E7%89%88%E6%9C%AC%E5%89%8D%E5%A4%95%E6%9B%B4%E6%96%B0%E6%AA%94%E8%AA%AA%E6%98%8E)
