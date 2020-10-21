@@ -12,8 +12,7 @@
 
 公會網站內容如下。
 
-- [公會須知](guidelines.html)（**必讀**）
-- [會倉](bank.html)（**必讀**）
+- [公會須知](readme.html)（**必讀**，會倉使用規則也在這裡）
 - [嗨，可口的新手](newbies.html)
 - [嗨，回鍋的老朋友](oldfriends.html)
 - [會階](ranks.html)
