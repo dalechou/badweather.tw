@@ -26,7 +26,7 @@
 ## 網路資源
 
 - [官網公會頁面](https://worldofwarcraft.com/zh-tw/guild/tw/lights-hope/bad-weather)
-- [伺服器狀態](https://worldofwarcraft.com/zh-tw/game/status)]
+- [伺服器狀態](https://worldofwarcraft.com/zh-tw/game/status)
 - [官方 YouTube 頻道](https://www.youtube.com/channel/UCgNBSxvqQMhVYBo-XSnmbqg)
 - [Icy Veins](http://www.icy-veins.com/wow/class-guides)：不會玩可以看這裡
 - [Bloodmallet](https://bloodmallet.com/)：選裝備
