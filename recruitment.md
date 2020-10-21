@@ -33,11 +33,11 @@
 ## 確認註記，分享公會須知（由幹部完成）
 
 1.  確認註記，然後填寫幹部註記。幹部註記填寫的是當初主要角色的邀請人，不是目前角色的邀請人。
-1.  分享公會網站 [https://badbadweather.github.io/](https://badbadweather.github.io/)，並說明這個頁面很重要：[公會須知](readme.html)
+1.  分享公會網站 [https://badbadweather.github.io/](https://badbadweather.github.io/)，並說明這個頁面很重要：[公會須知](guidelines.html)
 
 ## 提升會階（由新人完成）
 
-1.  新人熟悉[公會須知](readme.html)後，可依頁面說明提升權限，獲得完整的會員權利。
+1.  新人熟悉[公會須知](guidelines.html)後，可依頁面說明提升權限，獲得完整的會員權利。
 
 ---
 
