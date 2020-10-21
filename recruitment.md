@@ -33,8 +33,8 @@
 ## 提升權限流程（由幹部完成）
 
 1.  確認註記，然後填寫幹部註記。幹部註記填寫的是當初主要角色的邀請人，不是目前角色的邀請人。
-1.  分享公會網站 [https://badbadweather.github.io/](https://badbadweather.github.io/)，並說明這兩個頁面很重要：[公會須知](guidelines.html)、[會倉](bank.html)
-1.  提升權限至 **Guildie**。
+1.  分享公會網站 [https://badbadweather.github.io/](https://badbadweather.github.io/)，並說明這個頁面很重要：[公會須知](readme.html)
+1.  新人熟悉公會須知後，找幹部提升權限至 **Guildie**。
 
 ---
 
