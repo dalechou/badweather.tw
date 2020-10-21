@@ -59,4 +59,4 @@
 
 請[點此](index.html)回目錄。
 
-文件變更請參考[公開紀錄](https://github.com/badbadweather/badbadweather.github.io/commits/master/readme.md)，不會另外公告。
+文件變更請參考[公開紀錄](https://github.com/badbadweather/badbadweather.github.io/commits/master/guidelines.md)，不會另外公告。
