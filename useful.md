@@ -30,10 +30,10 @@
 - [官方 YouTube 頻道](https://www.youtube.com/channel/UCgNBSxvqQMhVYBo-XSnmbqg)
 - [Icy Veins](http://www.icy-veins.com/wow/class-guides)：不會玩可以看這裡
 - [Bloodmallet](https://bloodmallet.com/)：選裝備
+- [Raidbots](https://www.raidbots.com/simbot)：跑模擬
 - [Wowhead 天賦模擬器](http://www.wowhead.com/talent-calc)
 - [Wowhead 角色進度查詢](https://www.wowhead.com/attunement)
 - [Wowhead 塑形模擬器](http://www.wowhead.com/dressing-room)：小心，時間會不知不覺過去XD
-- [玩家寫的英雄榜](https://hi-armory.tw/)
 
 ## 教學
 
