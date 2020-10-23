@@ -1,6 +1,6 @@
 ## 插件：副本
 
-如果覺得手動更新插件很煩，可以考慮使用 [WowUp.io](https://wowup.io/) 或 [Ajour](https://www.getajour.com/) 幫忙管理插件。
+如果覺得手動更新插件很煩，可以考慮用 [WowUp.io](https://wowup.io/) 幫忙管理插件。
 
 以下插件如果沒特別說，都是現行版用的，不是經典版。
 
