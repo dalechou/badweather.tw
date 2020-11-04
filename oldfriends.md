@@ -39,7 +39,7 @@
 
 - **我想瞭解誓盟技能！**
 
-    請看這個[影片](https://www.youtube.com/watch?v=u1GI2Ja9UL4)。
+    請看這個[影片](https://www.youtube.com/watch?v=u1GI2Ja9UL4)（誓盟大量改動，這份資訊已經過期）。
 
 ---
 
