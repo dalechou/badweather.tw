@@ -39,7 +39,7 @@
 
 - **我想瞭解誓盟技能！**
 
-    請看這個[影片](https://www.youtube.com/watch?v=u1GI2Ja9UL4)（誓盟大量改動，這份資訊已經過期；[Wowhead](https://www.wowhead.com/guides/best-covenant-all-shadowlands-dps-tank-healer-classes-raids-mythic-plus) 上每週會整理討論，評析也很重要，不建議直接用結論）。
+    請看這個[影片](https://www.youtube.com/watch?v=u1GI2Ja9UL4)或這個[影片](https://youtu.be/zzZw01N6kCI)（誓盟大量改動，這份資訊已經過期；[Wowhead](https://www.wowhead.com/guides/best-covenant-all-shadowlands-dps-tank-healer-classes-raids-mythic-plus) 上每週會整理討論，評析也很重要，不建議直接用結論）。
 
 ---
 
