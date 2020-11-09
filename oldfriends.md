@@ -13,6 +13,10 @@
 
 ## 關於 9.x
 
+- **PvP 的解控場技能呢？**
+
+    應該會搬回未來的 PvP 飾品。
+
 - **小國王呢？小國王去哪啦？**
 
     請看新劇情[黑暗挾持](https://www.youtube.com/watch?v=Iy1TGek-EYc)！
