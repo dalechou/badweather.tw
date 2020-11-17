@@ -55,6 +55,10 @@
 
     請看批踢踢整理的[這一篇](https://www.ptt.cc/bbs/WOW/M.1601913850.A.48F.html)。
 
+- **微軟新版的新注音好像會卡到東西（不能飛、不能開地圖、Shift 卡住等），怎麼辦？**
+
+    換成舊版的新注音通常會比較穩，方法請參考[這一篇](https://www.techbang.com/posts/80881-how-to-switch-to-old-version-of-windows-input)。
+
 ---
 
 ## 關於 8.x
