@@ -5,6 +5,7 @@
 以下是官方最新資訊，整理得很不錯。所有資訊以現行版為主。
 
 - [回歸用戶指南](https://worldofwarcraft.com/zh-tw/game/returning-players-guide)
+- [《暗影之境》生存指南](https://youtu.be/UGYTr_V7Hpk)
 - [《暗影之境》版本前夕生存指南](https://www.youtube.com/watch?v=OYFuKAVRASE)
 - [《暗影之境》版本前夕更新檔說明](https://worldofwarcraft.com/zh-tw/news/23529209/%E6%9A%97%E5%BD%B1%E4%B9%8B%E5%A2%83%E7%89%88%E6%9C%AC%E5%89%8D%E5%A4%95%E6%9B%B4%E6%96%B0%E6%AA%94%E8%AA%AA%E6%98%8E)
 - [《逝後之生》劇情](https://worldofwarcraft.com/zh-tw/news/23507728/%E8%A7%80%E8%B3%9E%E6%9A%97%E5%BD%B1%E4%B9%8B%E5%A2%83%E9%80%9D%E5%BE%8C%E4%B9%8B%E7%94%9F%E7%91%9E%E6%96%87%E5%B4%94%E6%96%AF)（四部短片）
