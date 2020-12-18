@@ -20,7 +20,7 @@
 
 對 WeakAuras 2 有興趣可以參考 [Wago.io](https://wago.io/weakauras) 和 [Wowhead](http://www.wowhead.com/weakauras-addon-guide) 相關資源。另外[批踢踢](https://www.ptt.cc/bbs/WOW/M.1488827820.A.769.html)、[巴哈姆特](https://forum.gamer.com.tw/Co.php?bsn=05219&sn=5351696)、[NGA](https://bbs.nga.cn/read.php?tid=4655386&rand=613) 也有教學。
 
-- [副本時間軸](https://wago.io/B1pfxTOtb)
+- [副本時間軸](https://wago.io/W2P_0qN6I)
 - [滑鼠位置](https://wago.io/HkjSU79zz)
 
 ## 網路資源
