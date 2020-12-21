@@ -12,7 +12,6 @@
 
 - [Bagnon](https://wow.curseforge.com/projects/bagnon)：把背包整合成一個大背包
 - [TomTom](https://wow.curseforge.com/projects/tomtom)：在網路討論看到座標，不知道座標怎麼找，可以用這個
-- [ChampionCommander](https://www.curseforge.com/wow/addons/championcommander)：如果你覺得派追隨者很繁瑣……
 
 ## 插件：WeakAuras 2
 
