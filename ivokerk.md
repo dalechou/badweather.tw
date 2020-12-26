@@ -27,7 +27,7 @@
 
 
 AFK/卡位玩家：
-Unravel
+Unravel、果汁
 
 ---
 
