@@ -1,4 +1,4 @@
-![](https://badbadweather.github.com/img_badweather.png)
+![](img_badweather.png)
 
 ## Bad Weather 聯盟公會
 
@@ -36,4 +36,4 @@
 
 也可以用遊戲內信件或密語找任何一位 [Bankruiters](ranks.html)（公會幹部）分享想法，讓這個公會變得更好。
 
-文件變更請參考[公開紀錄](https://github.com/badbadweather/badbadweather.github.io/commits/master/index.md)，不會另外公告。
+文件變更請參考[公開紀錄](https://github.com/dalechou/badweather.tw/commits/master/index.md)，不會另外公告。
