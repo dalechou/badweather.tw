@@ -23,4 +23,4 @@ _在月黑風高的夜晚，三位名字有「緋」的牧師悄悄聚集。等�
 
 請[點此](index.html)回目錄。
 
-文件變更請參考[公開紀錄](https://github.com/badbadweather/badbadweather.github.io/commits/master/houses.md)，不會另外公告。
+文件變更請參考[公開紀錄](https://github.com/dalechou/badweather.tw/commits/master/houses.md)，不會另外公告。
