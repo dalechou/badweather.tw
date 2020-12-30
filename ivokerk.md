@@ -27,7 +27,7 @@
 
 
 AFK/卡位玩家：
-Unravel、果汁
+Unravel、果汁、美國短毛貓
 
 ---
 
