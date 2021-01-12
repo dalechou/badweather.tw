@@ -6,7 +6,7 @@
 
 - [GTFO](https://wow.curseforge.com/projects/gtfo)：常常莫名其妙死掉請裝這個
 - [DBM](https://wow.curseforge.com/projects/deadly-boss-mods)：副本機制提醒
-- [Details!](https://wow.curseforge.com/projects/details)：看數據
+- [Details!](https://wow.curseforge.com/projects/details) 或 [Skada](https://www.curseforge.com/wow/addons/skada)：看數據
 
 ## 插件：遊戲生活品質
 
