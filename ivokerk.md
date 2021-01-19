@@ -62,7 +62,7 @@ Unravel、果汁、美國短毛貓
 
 ## 聯絡
 
-有事請找聯絡人：Ivokerk
+有事請找聯絡人：Avidar
 
 請[點此](index.html)回目錄。
 
