@@ -14,7 +14,7 @@
 
 | **坦克**            | **補師**            | **遠程**            | **近戰**            |
 | ------------------- | ------------------- | ------------------ | ------------------- |
-|  **瑤熙**           |     **Ivokerk**     |      **Icyvolk**      |   **Oddiin**          |
+|  **瑤熙**           |     **Avidar**     |      **Icyvolk**      |   **Oddiin**          |
 |  章魚丸子           |    **凌雪熙**       |   Riio      |  Laintx       |
 |                    |  **朗言朗語**         |  膝蓋殺手           | **Yasha**           |
 |                    |   **伊萳娜**          |  知天易逆天難   |     Yinuo      |
@@ -33,7 +33,7 @@ Unravel、果汁、美國短毛貓
 
 ## 出團紀錄
 
-- Ivokerk [WCL](https://www.warcraftlogs.com/user/reports-list/256518/)
+- Avidar [WCL](https://www.warcraftlogs.com/user/reports-list/256518/)
 
 --- 
 
@@ -63,8 +63,8 @@ Unravel、果汁、美國短毛貓
 
 ## 聯絡
 
-有事請找聯絡人：Ivokerk
+有事請找聯絡人：Avidar
 
 請[點此](index.html)回目錄。
 
-文件變更請參考[公開紀錄](https://github.com/dalechou/badweather.tw/commits/master/ivokerk.md)，不會另外公告。
+文件變更請參考[公開紀錄](https://github.com/dalechou/badweather.tw/commits/master/avidar.md)，不會另外公告。
