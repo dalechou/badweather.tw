@@ -38,6 +38,7 @@
 
 - [魔獸世界新手入門《影像選項》](https://youtu.be/o_DKrpgU0v0)
 - [談顯示設定優化](https://forum.gamer.com.tw/Co.php?bsn=05219&sn=5266501)
+- [簡易內建 UI 設定教學](https://youtu.be/O0WYoHJ4HMk)
 
 --- 
 
