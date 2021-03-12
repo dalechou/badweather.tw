@@ -106,7 +106,7 @@
 
 團隊目標是英雄全通，拿到「領先群雄」成就。
 
-- 領先群雄：戴納瑟斯王（[榮耀瞬間](img_aotc_denathrius_bear.jpg)、[合照](img_aotc_denathrius_bear2.jpg)）
+- 領先群雄：戴納瑟斯王（[領先群雄](img_aotc_denathrius_bear.jpg)、[合照](img_aotc_denathrius_bear2.jpg)、[下班了](https://www.twitch.tv/videos/945865869)）
 - 領先群雄：『腐化者』恩若司（[好好照相](img_aotc_nzoth_thu.jpg)、[永不放棄](https://www.twitch.tv/videos/587773572)）
 - 領先群雄：艾薩拉女王（[榮耀瞬間](img_aotc_azshara_thu.jpg)、[合照](img_aotc_azshara_thu2.jpg)）
 - 領先群雄：『虛無使者』烏納特（[合照](img_aotc_uunat_thu.jpg)、[魚頭](img_aotc_uunat_thu2.jpg)）
