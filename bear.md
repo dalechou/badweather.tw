@@ -2,7 +2,7 @@
 
 我們是台灣《魔獸世界》聯盟團。出席報告如下。ʕᵔᴥᵔʔ
 
-- 3/18 請假：Kyubihun、闇之遊俠
+- 3/25 請假：N/A
 - 請假一陣子：火少麥面（2/26）、開朗學（4/1）
 
 ---
@@ -27,7 +27,7 @@
 
 ## 招募
 
-目前不招募，戴納瑟斯王打過後再透過公會 Memo 頻道招募。
+招募 DPS 1-2 位，要對角色有愛的，需試打，有意願請在看完本頁後聯絡團長（dale#3350）。
 
 --- 
 
@@ -57,6 +57,10 @@
 ## 插件
 
 請安裝 [DBM](https://www.curseforge.com/wow/addons/deadly-boss-mods)。
+
+請依個人喜好安裝 [WA](https://www.curseforge.com/wow/addons/weakauras-2) 或 [TMW](https://www.curseforge.com/wow/addons/tellmewhen)（可擇一）。
+
+這些工具可以幫助團員面對困難的機制，請花時間好好設定、好好利用。
 
 ---
 
