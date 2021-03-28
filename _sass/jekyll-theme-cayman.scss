@@ -2,7 +2,7 @@
 @import "rouge-github";
 @import "variables";
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+TC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC&family=Noto+Serif+TC&display=swap');
 
 @mixin large {
   @media screen and (min-width: #{$large-breakpoint}) {
@@ -29,9 +29,9 @@
 body {
   padding: 0;
   margin: 0;
-  font-family: "Noto Serif TC", serif;
+  font-family: 'Noto Sans TC', sans-serif;
   font-size: 16px;
-  line-height: 1.5;
+  line-height: 1.8;
   color: $body-text-color;
 }
 
