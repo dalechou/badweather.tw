@@ -25,7 +25,6 @@
 其他內容：
 
 - [家族](houses.html)
-- [經典版](classic.html)
 - [其他遊戲](othergames.html)
 
 --- 
