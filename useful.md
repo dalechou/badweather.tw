@@ -11,7 +11,8 @@
 ## 插件：遊戲生活品質
 
 - [Bagnon](https://wow.curseforge.com/projects/bagnon)：把背包整合成一個大背包
-- [TomTom](https://wow.curseforge.com/projects/tomtom)：在網路討論看到座標，不知道座標怎麼找，可以用這個
+- [Venture Plan](https://www.townlong-yak.com/addons/venture-plan)：九版指揮桌
+- [TomTom](https://wow.curseforge.com/projects/tomtom)：在網路討論看到座標，不知道座標怎麼找，可以用這個（不過這個插件似乎會造成 [taint](https://forum.gamer.com.tw/Co.php?bsn=05219&sn=2498142)，請自行評估要不要裝）
 
 ## 插件：WeakAuras 2
 
