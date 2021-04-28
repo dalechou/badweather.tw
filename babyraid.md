@@ -8,7 +8,7 @@
 
 ## 出席人員
 
-好的團隊各方面都會要求紀律，但這是新手教學團，許多老人習慣的紀律，新手一開始不一定能理解或習慣。
+好團隊各方面都要求紀律，但這是新手教學團，許多老人習慣的紀律，新手一開始不一定能理解或習慣。
 
 因此本團刻意降低出團時間（兩小時），不維護固定的出團名單。初期會開放給不在公會的角色參加。如果想出團，只要在正確的開組時間上線、進組即可。
 
@@ -34,9 +34,7 @@
 
 ## 插件
 
-請安裝 [DBM](https://www.curseforge.com/wow/addons/deadly-boss-mods)。
-
-另外建議開始研究 [WA](https://www.curseforge.com/wow/addons/weakauras-2)。
+請安裝 [DBM](https://www.curseforge.com/wow/addons/deadly-boss-mods)，另外建議開始研究 [WA](https://www.curseforge.com/wow/addons/weakauras-2)。
 
 這些工具可以在面對困難的機制時，以視覺的方式提醒團員。拓荒時也常會分享有用的設定或字串。請花時間熟悉這些工具。
 
