@@ -2,7 +2,10 @@
 
 我們是台灣《魔獸世界》聯盟團。出席報告如下。ʕᵔᴥᵔʔ
 
-- 本團目前休息，9.1.0 再開打！
+- 7/8（第一個 CD）開打！
+- 7/22 請假：開朗學
+
+請假：一灰羽一
 
 ---
 
@@ -12,23 +15,22 @@
 
 | **坦克**                 | **補師** | **遠程**         | **近戰**                     |
 | ------------------------ | -------- | ----------------- | ---------------------------- |
-| 素盞鳴尊                 | 緋月淮星 | 一灰羽一          | Yinuo                        |
-| Darc <sup>**團熊**</sup> | 挽淚     | Yoyoman           | 欸桑                         |
-|                          | 香然     | 闇之遊俠          | 開朗學 <sup>**拍賣師**</sup> |
-|                          | 珂摩耶   | 絕緋              | 高爾宣                       |
+| 百里夜涵                 | 緋月淮星 | 一灰羽一          | Yinuo                        |
+| Darc <sup>**團熊**</sup> | 香然     | Yoyoman           | 欸桑                         |
+|                          | 珂摩耶   | 闇之遊俠          | 開朗學 <sup>**拍賣師**</sup> |
+|                          |          | 絕緋              | 高爾宣                       |
 |                          |          | 貓語者            | 尹月狼                       |
 |                          |          | 悠然天光          | 毛茸茸小貓咪                 |
 |                          |          | 回馬箭不見        | 先發                         |
-|                          |          | Kyubihun          |                              |
 |                          |          | **沙發破一個洞** |                              |
 |                          |          | 島田半藏          |                              |
 |                          |          | 神聖慕夏          |                              |
 
-人數：24
+人數：22
 
 ## 招募
 
-位子差不多滿了，但還是可以找團長聊聊～
+滿！但如果真的有興趣，可以找團長聊聊。
 
 --- 
 
@@ -41,7 +43,7 @@
 
 ## 準備工作以及責任
 
-裝等要求：200
+裝等要求：215，橘裝、名望準備好
 
 團員需要對自己的角色狀況負責。請自行準備**附魔**、**寶石**、**藥水**、**精煉**、**食物**等物品。
 
@@ -59,7 +61,7 @@
 
 請安裝 [DBM](https://www.curseforge.com/wow/addons/deadly-boss-mods)。
 
-請依個人喜好安裝 [WA](https://www.curseforge.com/wow/addons/weakauras-2) 或 [TMW](https://www.curseforge.com/wow/addons/tellmewhen)（可擇一）。
+請依個人喜好安裝 [WA](https://www.curseforge.com/wow/addons/weakauras-2) 或 [TMW](https://www.curseforge.com/wow/addons/tellmewhen)（可擇一）。這個版本的可以用 [Causese](https://wago.io/slraid2) 做的 WA（記得更新）。
 
 這些工具可以在面對困難的機制時，以視覺的方式提醒團員。拓荒時也常會分享有用的設定或字串。請花時間熟悉這些工具。
 
@@ -111,6 +113,7 @@
 
 團隊目標是英雄全通，拿到「領先群雄」成就。
 
+- 領先群雄：希瓦娜斯‧風行者
 - 領先群雄：戴納瑟斯王（[榮耀瞬間](img_aotc_denathrius_bear.jpg)、[合照](img_aotc_denathrius_bear2.jpg)、[下班了](https://www.twitch.tv/videos/945865869)）──63 次
 - 領先群雄：『腐化者』恩若司（[好好照相](img_aotc_nzoth_thu.jpg)、[永不放棄](https://www.twitch.tv/videos/587773572)）──12 次
 - 領先群雄：艾薩拉女王（[榮耀瞬間](img_aotc_azshara_thu.jpg)、[合照](img_aotc_azshara_thu2.jpg)）──37 次
