@@ -4,6 +4,7 @@
 
 以下是官方最新資訊，整理得很不錯。所有資訊以現行版為主。
 
+- [《統御之鏈》生存指南](https://youtu.be/8h2tlw9z2Hc)
 - [《統御之鏈》更新](https://worldofwarcraft.com/zh-tw/news/23686104/%E6%9A%97%E5%BD%B1%E4%B9%8B%E5%A2%83%E7%B5%B1%E5%BE%A1%E4%B9%8B%E9%8F%88%E5%85%A7%E5%AE%B9%E6%9B%B4%E6%96%B0%E5%B0%87%E6%96%BC-7-%E6%9C%88-1-%E6%97%A5%E6%8E%A8%E5%87%BA%EF%BC%81)
 - [《逝後之生》劇情](https://worldofwarcraft.com/zh-tw/news/23507728/%E8%A7%80%E8%B3%9E%E6%9A%97%E5%BD%B1%E4%B9%8B%E5%A2%83%E9%80%9D%E5%BE%8C%E4%B9%8B%E7%94%9F%E7%91%9E%E6%96%87%E5%B4%94%E6%96%AF)（四部短片）
 - [回歸用戶指南](https://worldofwarcraft.com/zh-tw/game/returning-players-guide)
