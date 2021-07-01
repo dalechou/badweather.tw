@@ -64,4 +64,4 @@
 
 請[點此](index.html)回目錄。
 
-文件變更請參考[公開紀錄](https://github.com/dalechou/badweather.tw/commits/master/avidar.md)，不會另外公告。
+文件變更請參考[公開紀錄](https://github.com/dalechou/badweather.tw/commits/master/vadimblack.md)，不會另外公告。
