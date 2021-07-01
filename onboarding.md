@@ -77,6 +77,10 @@
 
 管理資訊流通，例如公會網站、語音
 
+## 好用的工具
+
+Guild search (good tool, but it causes taint)
+
 ---
 
 請[點此](index.html)回目錄。
