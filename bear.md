@@ -35,8 +35,8 @@
 
 ## 紀錄
 
-- [WCL](https://www.warcraftlogs.com/user/reports-list/302729/)
-- [實況](https://www.twitch.tv/dalechou/videos)
+- WCL：[公會](https://www.warcraftlogs.com/guild/reports-list/269517)（近期）、[團長](https://www.warcraftlogs.com/user/reports-list/302729/)（過時）
+- 實況：[Twitch](https://www.twitch.tv/dalechou/videos)
 
 --- 
 
