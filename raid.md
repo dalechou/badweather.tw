@@ -12,13 +12,17 @@
 
 ## 紀錄
 
-我們在 [WCL](https://www.warcraftlogs.com/guild/reports-list/269517) 設定了公會，但實際上是否使用，請以專頁為準。公會 [Raider](ranks.html) 會階以上成員都有權限上傳紀錄。
+我們在 [WCL](https://www.warcraftlogs.com/guild/reports-list/269517) 設定了公會，但實際上是否使用，請以專頁為準。
+
+[Raider](ranks.html) 會階以上成員都有權限上傳紀錄。
 
 ---
 
 ## 歷史戰績
 
 以下是已經解散的團隊所完成的歷史戰績，各位的英勇事蹟將長存人心（喂）。
+
+（現存團隊的戰績，請見各團隊專頁。）
 
 - 領先群雄：『腐化者』恩若司（[週二榮耀瞬間](img_aotc_nzoth_tue.jpg)、[週二好難照啊](img_aotc_nzoth_tue2.jpg)）
 - 領先群雄：艾薩拉女王（[週二榮耀瞬間](img_aotc_azshara_tue.jpg)、[週二好好照相](img_aotc_azshara_tue2.jpg)）
