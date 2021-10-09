@@ -94,6 +94,10 @@
 
 ## 偉大的諾姆瑞根路跑
 
+![](img_greatgnomereganrun_2021.jpg)
+
+2021 路跑，感謝 Yinuo、傻大哥、Fanudihoul、暴怒爵士還有 TENET 公會的影千魔來保護大家，感謝尹月狼在終點為我們加油。感謝 Fanudihoul 為路跑準備禮物「渦輪飛行器」！
+
 ![](img_greatgnomereganrun_2020.jpg)
 
 這是 2020 路跑，版本末參加的人變少了，感謝 Yinuo、瑤熙來保護大家！
