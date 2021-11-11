@@ -24,6 +24,7 @@
 
 其他內容：
 
+- [歷任幹部](alumni.html)
 - [家族](houses.html)
 - [其他遊戲](othergames.html)
 
