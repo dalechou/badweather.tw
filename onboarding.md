@@ -81,6 +81,10 @@
 
 Guild search (good tool, but it causes taint)
 
+--- 
+
+## 卸任
+
 ---
 
 請[點此](index.html)回目錄。
