@@ -1,6 +1,8 @@
 ## 嗨，可口的新手
 
-歡迎你來艾澤拉斯冒險。官網整理的資訊很不錯，請記得[去看看](https://worldofwarcraft.com/zh-tw/game/new-players-guide)。
+歡迎你來艾澤拉斯冒險。官網整理的資訊很不錯，請記得[去看看](https://worldofwarcraft.com/zh-tw/start)。
+
+也可以看看老布整理的[這個職業做什魔](https://www.youtube.com/watch?v=5DvOgT2Y-P8&list=PLFdmEzD9h-PMRyebLLK4lbTurrKIIapso)系列影片。
 
 ---
 

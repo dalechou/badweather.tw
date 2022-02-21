@@ -14,11 +14,11 @@
 - [CovenantMissionHelper](https://www.curseforge.com/wow/addons/covenantmissionhelper)：九版指揮桌
 - [TomTom](https://www.curseforge.com/wow/addons/tomtom)：在網路討論看到座標，不知道座標怎麼找，可以用這個（不過這個插件似乎會造成 [taint](https://forum.gamer.com.tw/Co.php?bsn=05219&sn=2498142)，請自行評估要不要裝）
 
-## 插件：WeakAuras 2
+## 插件：WeakAuras
 
 因為 [WeakAuras](https://www.curseforge.com/wow/addons/weakauras-2) 雖然強大，但也複雜，所以特別切出來自己一區。**一般玩家可以完全忽略。**
 
-對 WeakAuras 2 有興趣可以參考 [Wago.io](https://wago.io/weakauras) 和 [Wowhead](http://www.wowhead.com/weakauras-addon-guide) 相關資源。另外[批踢踢](https://www.ptt.cc/bbs/WOW/M.1488827820.A.769.html)、[巴哈姆特](https://forum.gamer.com.tw/Co.php?bsn=05219&sn=5351696)、[NGA](https://bbs.nga.cn/read.php?tid=4655386&rand=613) 也有教學。
+對 WeakAuras 有興趣可以參考 [Wago.io](https://wago.io/weakauras) 和 [Wowhead](http://www.wowhead.com/weakauras-addon-guide) 相關資源。另外[批踢踢](https://www.ptt.cc/bbs/WOW/M.1488827820.A.769.html)、[巴哈姆特](https://forum.gamer.com.tw/Co.php?bsn=05219&sn=5351696)、[NGA](https://bbs.nga.cn/read.php?tid=4655386&rand=613) 也有教學。
 
 - [副本時間軸](https://wago.io/RaidAbilityTimeline)
 - [滑鼠位置](https://wago.io/HkjSU79zz)
@@ -37,9 +37,12 @@
 
 ## 教學
 
-- [魔獸世界新手入門《影像選項》](https://youtu.be/o_DKrpgU0v0)
 - [談顯示設定優化](https://forum.gamer.com.tw/Co.php?bsn=05219&sn=5266501)
-- [簡易內建 UI 設定教學](https://youtu.be/O0WYoHJ4HMk)
+- [內建 UI 設定](https://youtu.be/O0WYoHJ4HMk)
+
+## 很專心做教學內容的實況主
+
+- [老布](https://www.youtube.com/channel/UC10y77XO8L__flCLV2sfCvw)
 
 --- 
 
