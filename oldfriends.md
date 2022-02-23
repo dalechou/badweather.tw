@@ -4,6 +4,7 @@
 
 以下是官方最新資訊，整理得很不錯。所有資訊以現行版為主。
 
+- [《永恆之盡》更新](https://worldofwarcraft.com/zh-tw/news/23770462/2-%E6%9C%88-23-%E6%97%A5%E6%9B%B4%E6%96%B0%E6%9A%97%E5%BD%B1%E4%B9%8B%E5%A2%83%E6%B0%B8%E6%81%86%E4%B9%8B%E7%9B%A1%E5%85%A7%E5%AE%B9%E6%9B%B4%E6%96%B0%E8%AA%AA%E6%98%8E)
 - [回歸用戶指南](https://worldofwarcraft.com/zh-tw/return)
 - [開發預覽：跨陣營副本](https://news.blizzard.com/zh-tw/world-of-warcraft/23761709/%E9%96%8B%E7%99%BC%E9%A0%90%E8%A6%BD%EF%BC%9A%E8%B7%A8%E9%99%A3%E7%87%9F%E5%89%AF%E6%9C%AC)
 - [《永恆之盡》生存指南](https://youtu.be/_d0InFyR0YA)
