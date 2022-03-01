@@ -79,7 +79,8 @@ AFK <3 & Dreamer 說明
 
 ## 好用的工具
 
-Guild search (good tool, but it causes taint)
+- [Guild Search](https://www.curseforge.com/wow/addons/guild-search) (good tool, but it causes taint)
+- [魔獸分身查詢](https://pricer0606.com/)
 
 --- 
 
