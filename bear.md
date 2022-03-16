@@ -58,9 +58,7 @@
 
 ## 插件
 
-請安裝 [DBM](https://www.curseforge.com/wow/addons/deadly-boss-mods)。
-
-請依個人喜好安裝 [WA](https://www.curseforge.com/wow/addons/weakauras-2) 或 [TMW](https://www.curseforge.com/wow/addons/tellmewhen)（可擇一）。這個版本的可以用 [Causese](https://wago.io/slraid2) 做的 WA（記得更新）。
+請安裝 [DBM](https://www.curseforge.com/wow/addons/deadly-boss-mods) 和 [WA](https://www.curseforge.com/wow/addons/weakauras-2)。
 
 這些工具可以在面對困難的機制時，以視覺的方式提醒團員。拓荒時也常會分享有用的設定或字串。請花時間熟悉這些工具。
 
