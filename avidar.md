@@ -29,7 +29,7 @@
 
 ## 出團紀錄
 
-- Xaoc [WCL](https://www.warcraftlogs.com/user/reports-list/256518/)
+- Avidar [WCL](https://www.warcraftlogs.com/user/reports-list/256518/)
 
 --- 
 
@@ -59,8 +59,8 @@
 
 ## 聯絡
 
-有事請找聯絡人：Xaoc
+有事請找聯絡人：Avidar
 
 請[點此](index.html)回目錄。
 
-文件變更請參考[公開紀錄](https://github.com/dalechou/badweather.tw/commits/master/xaoc.md)，不會另外公告。
+文件變更請參考[公開紀錄](https://github.com/dalechou/badweather.tw/commits/master/avidar.md)，不會另外公告。
