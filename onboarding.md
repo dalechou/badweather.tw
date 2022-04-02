@@ -18,7 +18,6 @@
 
 如果帶團，會加設下列權限：
 
-- 「趴了就怪那隻熊」社群 Moderator 權限
 - 公會網站 [Contributor](https://github.com/dalechou/badweather.tw/graphs/contributors)  權限
 
 ## 會倉和金幣
