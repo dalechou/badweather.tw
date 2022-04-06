@@ -16,9 +16,7 @@
 - "Bad Weather" Discord 伺服器橘色權限
 - "Bad Weather" Line 幹部討論群組
 
-如果帶團，會加設下列權限：
-
-- 公會網站 [Contributor](https://github.com/dalechou/badweather.tw/graphs/contributors)  權限
+如果帶團，會加設公會網站 [Contributor](https://github.com/dalechou/badweather.tw/graphs/contributors)  權限。
 
 ## 會倉和金幣
 
@@ -68,22 +66,28 @@
 
 會倉和物資的管理則是為了支援「一起玩」的各種活動。無論是管理人或物，最終目的都是為了讓公會的人凝聚起來「一起玩」。
 
-幹部註記方法
+幹部註記方法在[收人規則](recruitment.html)中已經有說明，主要需要確認註記填寫的是主要角色的名稱，幹部註記填寫的是當初主要角色的邀請人，不是當前角色的邀請人，邀請人也要填寫主要角色的名稱。
 
-AFK <3 & Dreamer 說明
+另外，**Dreamer** 會階會保留已經過世的會員的主要角色。**AFK <3** 會階會保留歷任幹部的主要角色，以及特殊原因不能刪除的角色。這兩個會階的角色請保留，不適用[一般角色管理辦法](ranks.html)。
 
 ## 資訊流通平台
 
-管理資訊流通，例如公會網站、語音
+網路世界一直在變化，公會用來分享資訊，互相交流的平台也一直在變。我們也有過「只用暴雪的平台，反正遊戲有內建語音」那種堅持，但最終還是領悟到有些東西更重要。
+
+資訊流通平台必須是方便的、安全的，最重要的是，必須是公會的人願意用的。公會幹部有責任時時檢視時下玩家常用的平台，同時盡量凝聚公會成員，不使用過多的平台，對大家造成負擔。這裡的決定每隔幾年就應該重新檢視、確認。
 
 ## 好用的工具
 
-- [Guild Search](https://www.curseforge.com/wow/addons/guild-search) (good tool, but it causes taint)
-- [魔獸分身查詢](https://pricer0606.com/)
+- [Guild Search](https://www.curseforge.com/wow/addons/guild-search)：這個工具可以搜尋註記，很好用，但會造成 taint。建議找個分身裝就好，不要裝在常玩的角色。
+- [魔獸分身查詢](https://pricer0606.com/)：可以查分身的網站。
 
 --- 
 
 ## 卸任
+
+維持有效的公會幹部名單很重要。公會幹部需要對經營公會有興趣，需要持續願意對公會付出，提出意見，但人總是有需要休息的時候。公會幹部需要清楚自己的狀態，在需要休息時主動溝通，甚至卸任。
+
+卸任後的幹部會記錄於[歷任幹部](alumni.html)紀念，如果離開遊戲，會以 **AFK <3** 的形式保留主要角色。
 
 ---
 
