@@ -1,6 +1,6 @@
 ## 插件：副本
 
-如果覺得手動更新插件很煩，可以考慮用 [WowUp.io](https://wowup.io/) 幫忙管理插件。
+如果覺得手動更新插件很煩，可以考慮用 [WowUp.io](https://wowup.io/) 幫忙管理插件。如果習慣從網頁直接安裝，可以用 [WoWInterface](https://www.wowinterface.com/)。
 
 以下插件如果沒特別說，都是現行版用的，不是經典版。
 
@@ -15,7 +15,7 @@
 
 ## 插件：WeakAuras 2（又稱 WA）
 
-因為 [WA](https://www.wowinterface.com/downloads/info24910-WeakAuras2.html) 雖然強大，但也複雜，所以特別切出來自己一區。**一般玩家可以完全忽略。**
+因為 [WA](https://www.wowinterface.com/downloads/info24910-WeakAuras2.html) 雖然強大，但也複雜，所以特別切出來自己一區。
 
 有興趣可以參考 [Wago.io](https://wago.io/weakauras) 和 [Wowhead](http://www.wowhead.com/weakauras-addon-guide) 相關資源。另外[批踢踢](https://www.ptt.cc/bbs/WOW/M.1488827820.A.769.html)、[巴哈姆特](https://forum.gamer.com.tw/Co.php?bsn=05219&sn=5351696)、[NGA](https://bbs.nga.cn/read.php?tid=4655386&rand=613) 也有教學。
 
@@ -28,7 +28,6 @@
 - [伺服器狀態](https://worldofwarcraft.com/zh-tw/game/status)
 - [官方 YouTube 頻道](https://www.youtube.com/channel/UCgNBSxvqQMhVYBo-XSnmbqg)
 - [Icy Veins](http://www.icy-veins.com/wow/class-guides)：不會玩可以看這裡
-- [WoWInterface](https://www.wowinterface.com/)：找插件
 - [Bloodmallet](https://bloodmallet.com/)：選裝備
 - [Raidbots](https://www.raidbots.com/simbot)：跑模擬
 - [Wowhead 天賦模擬器](http://www.wowhead.com/talent-calc)
