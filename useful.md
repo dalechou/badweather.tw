@@ -42,7 +42,7 @@
 
 ## 很專心做教學內容的實況主
 
-- [老布](https://www.youtube.com/channel/UC10y77XO8L__flCLV2sfCvw)
+- [老布](https://www.youtube.com/channel/UC10y77XO8L__flCLV2sfCvw)（[這個職業做什魔](https://www.youtube.com/watch?v=5DvOgT2Y-P8&list=PLFdmEzD9h-PMRyebLLK4lbTurrKIIapso)系列影片）
 
 --- 
 
