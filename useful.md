@@ -13,9 +13,9 @@
 - [Bagnon](https://www.wowinterface.com/downloads/info4459-Bagnon.html)：把背包整合成一個大背包
 - [TomTom](https://www.wowinterface.com/downloads/info7032-TomTom.html)：在網路討論看到座標，不知道座標怎麼找，可以用這個（不過這個插件似乎會造成 [taint](https://forum.gamer.com.tw/Co.php?bsn=05219&sn=2498142)，請自行評估要不要裝）
 
-## 插件：WeakAuras
+## 插件：WeakAuras 2（又稱 WA）
 
-因為 [WeakAuras 2](https://www.wowinterface.com/downloads/info24910-WeakAuras2.html) 雖然強大，但也複雜，所以特別切出來自己一區。**一般玩家可以完全忽略。**
+因為 [WA](https://www.wowinterface.com/downloads/info24910-WeakAuras2.html) 雖然強大，但也複雜，所以特別切出來自己一區。**一般玩家可以完全忽略。**
 
 有興趣可以參考 [Wago.io](https://wago.io/weakauras) 和 [Wowhead](http://www.wowhead.com/weakauras-addon-guide) 相關資源。另外[批踢踢](https://www.ptt.cc/bbs/WOW/M.1488827820.A.769.html)、[巴哈姆特](https://forum.gamer.com.tw/Co.php?bsn=05219&sn=5351696)、[NGA](https://bbs.nga.cn/read.php?tid=4655386&rand=613) 也有教學。
 
@@ -42,7 +42,7 @@
 
 ## 很專心做教學內容的實況主
 
-- [老布](https://www.youtube.com/channel/UC10y77XO8L__flCLV2sfCvw)（[這個職業做什魔](https://www.youtube.com/watch?v=5DvOgT2Y-P8&list=PLFdmEzD9h-PMRyebLLK4lbTurrKIIapso)系列影片）
+- [老布](https://www.youtube.com/channel/UC10y77XO8L__flCLV2sfCvw)（例如[這個職業做什魔](https://www.youtube.com/watch?v=5DvOgT2Y-P8&list=PLFdmEzD9h-PMRyebLLK4lbTurrKIIapso)系列影片）
 
 --- 
 
