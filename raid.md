@@ -13,7 +13,7 @@
 
 我們在 [WCL](https://www.warcraftlogs.com/guild/reports-list/269517) 設定了公會。實際上是否使用，請以專頁為準。
 
-[Raider](ranks.html) 會階以上成員都有權限上傳紀錄。
+[`Raider`](ranks.html) 會階以上成員都有權限上傳紀錄。
 
 ---
 
