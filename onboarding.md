@@ -79,7 +79,7 @@
 ## 好用的工具
 
 - [Guild Search](https://www.curseforge.com/wow/addons/guild-search)：這個工具可以搜尋註記，很好用，但會造成 taint。建議找個分身裝就好，不要裝在常玩的角色。
-- [魔獸分身查詢](https://pricer0606.com/)：可以查分身的網站。
+- [魔獸分身查詢](https://pricer0606.com/)：查分身的網站。
 
 --- 
 
