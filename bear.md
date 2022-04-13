@@ -50,15 +50,13 @@
 
 說明：出團的樂趣在於挑戰極限，挑戰邊際，無論是團隊或自己的。只有盡力做到最好，才知道能走多遠。
 
-## 語音與社交群組
+## 語音
 
 請在出團前參考[公會語音](voicechat.html)頁面完成設定，確定語音可以用。
 
-請把[社交群組](https://blizzard.com/invite/9EVogsdqA)加入遊戲內聊天框，避免錯過重要訊息。
-
 ## 插件
 
-請安裝 [DBM](https://www.curseforge.com/wow/addons/deadly-boss-mods) 和 [WA](https://www.curseforge.com/wow/addons/weakauras-2)。
+請安裝 [DBM](https://www.wowinterface.com/downloads/info8814-DeadlyBossMods.html) 和 [WA](https://www.wowinterface.com/downloads/info24910-WeakAuras2.html)。
 
 這些工具可以在面對困難的機制時，以視覺的方式提醒團員。拓荒時也常會分享有用的設定或字串。請花時間熟悉這些工具。
 

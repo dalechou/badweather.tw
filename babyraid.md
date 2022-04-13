@@ -34,13 +34,13 @@
 
 公會不會補助修裝費，也不會幫忙準備大餐、大鍋，這部分由當週出席團員自由幫忙。
 
-## 語音與社交群組
+## 語音
 
 請在出團前參考[公會語音](voicechat.html)頁面完成設定，確定語音可以用。
 
 ## 插件
 
-請安裝 [DBM](https://www.curseforge.com/wow/addons/deadly-boss-mods)，另外建議開始研究 [WA](https://www.curseforge.com/wow/addons/weakauras-2)。
+請安裝 [DBM](https://www.wowinterface.com/downloads/info8814-DeadlyBossMods.html)，另外建議開始研究 [WA](https://www.wowinterface.com/downloads/info24910-WeakAuras2.html)。
 
 這些工具可以在面對困難的機制時，以視覺的方式提醒團員。拓荒時也常會分享有用的設定或字串。請花時間熟悉這些工具。
 
