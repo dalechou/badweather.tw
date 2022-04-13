@@ -28,6 +28,7 @@
 - [伺服器狀態](https://worldofwarcraft.com/zh-tw/game/status)
 - [官方 YouTube 頻道](https://www.youtube.com/channel/UCgNBSxvqQMhVYBo-XSnmbqg)
 - [Icy Veins](http://www.icy-veins.com/wow/class-guides)：不會玩可以看這裡
+- [WoWInterface](https://www.wowinterface.com/)：找插件
 - [Bloodmallet](https://bloodmallet.com/)：選裝備
 - [Raidbots](https://www.raidbots.com/simbot)：跑模擬
 - [Wowhead 天賦模擬器](http://www.wowhead.com/talent-calc)
