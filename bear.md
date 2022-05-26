@@ -2,7 +2,7 @@
 
 近期出席報告如下。ʕᵔᴥᵔʔ
 
-- 5/26 請假：
+- 5/26 請假：達納蘇斯渣男、沐熙、玥歆嬌妻
 - 7/21 休團一次
 
 ---
@@ -58,6 +58,8 @@
 請安裝 [DBM](https://www.wowinterface.com/downloads/info8814-DeadlyBossMods.html) 和 [WA](https://www.wowinterface.com/downloads/info24910-WeakAuras2.html)。
 
 這些工具可以在面對困難的機制時，以視覺的方式提醒團員。拓荒時也常會分享有用的設定或字串。請花時間熟悉這些工具。
+
+另外，推薦安裝 [MRT](https://addons.wago.io/addons/method-raid-tools)，有時候會傳筆記和時間軸。
 
 ---
 
