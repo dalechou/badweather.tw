@@ -1,21 +1,25 @@
 ## 插件：副本
 
-如果覺得手動更新插件很煩，可以考慮用 [WowUp.io](https://wowup.io/) 幫忙管理插件。如果習慣從網頁直接安裝，可以用 [WoWInterface](https://www.wowinterface.com/)。
+《魔獸世界》的遊戲體驗可以透過玩家開發的插件改善。目前最主流的插件網站是 [CurseForge](https://www.curseforge.com/wow/addons)，可以在這裡下載插件，手動安裝。
 
-以下插件如果沒特別說，都是現行版用的，不是經典版。
+如果覺得手動更新插件很麻煩，可以用 [CurseForge](https://download.curseforge.com/) 軟體管理插件。請記得下拉畫面，選擇正確的安裝版本，不要裝到 Overwolf。
 
-- [DBM](https://www.wowinterface.com/downloads/info8814-DeadlyBossMods.html)：副本機制提醒
-- [Details!](https://www.wowinterface.com/downloads/info23056-DetailsDamageMeter.html)：看戰鬥數據
-- [GTFO](https://www.wowinterface.com/downloads/info17996-GTFO.html)：常常莫名其妙死掉請裝這個
+![](img_curseforge_installation.png)
+
+以下是跟副本相關的插件。
+
+- [DBM](https://www.curseforge.com/wow/addons/deadly-boss-mods)：副本機制提醒
+- [Details!](https://www.curseforge.com/wow/addons/details)：看戰鬥數據
+- [GTFO](https://www.curseforge.com/wow/addons/gtfo)：常常莫名其妙死掉請裝這個
 
 ## 插件：遊戲生活品質
 
-- [Bagnon](https://www.wowinterface.com/downloads/info4459-Bagnon.html)：把背包整合成一個大背包
-- [TomTom](https://www.wowinterface.com/downloads/info7032-TomTom.html)：在網路討論看到座標，不知道座標怎麼找，可以用這個（不過這個插件似乎會造成 [taint](https://forum.gamer.com.tw/Co.php?bsn=05219&sn=2498142)，請自行評估要不要裝）
+- [Bagnon](https://www.curseforge.com/wow/addons/bagnon)：把背包整合成一個大背包
+- [TomTom](https://www.curseforge.com/wow/addons/tomtom)：在網路討論看到座標，不知道座標怎麼找，可以用這個（不過這個插件似乎會造成 [taint](https://forum.gamer.com.tw/Co.php?bsn=05219&sn=2498142)，請自行評估要不要裝）
 
-## 插件：WeakAuras 2（又稱 WA）
+## 插件：WeakAuras（又稱 WA）
 
-因為 [WA](https://www.wowinterface.com/downloads/info24910-WeakAuras2.html) 雖然強大，但也複雜，所以特別切出來自己一區。
+因為 [WA](https://www.curseforge.com/wow/addons/weakauras-2) 雖然強大，但也複雜，所以特別切出來自己一區。
 
 有興趣可以參考 [Wago.io](https://wago.io/weakauras) 和 [Wowhead](http://www.wowhead.com/weakauras-addon-guide) 相關資源。另外[批踢踢](https://www.ptt.cc/bbs/WOW/M.1488827820.A.769.html)、[巴哈姆特](https://forum.gamer.com.tw/Co.php?bsn=05219&sn=5351696)、[NGA](https://bbs.nga.cn/read.php?tid=4655386&rand=613) 也有教學。
 
@@ -28,11 +32,12 @@
 - [伺服器狀態](https://worldofwarcraft.com/zh-tw/game/status)
 - [官方 YouTube 頻道](https://www.youtube.com/channel/UCgNBSxvqQMhVYBo-XSnmbqg)
 - [Icy Veins](http://www.icy-veins.com/wow/class-guides)：不會玩可以看這裡
+- [Subcreation](https://subcreation.net/)：查當前主流
 - [Bloodmallet](https://bloodmallet.com/)：選裝備
 - [Raidbots](https://www.raidbots.com/simbot)：跑模擬
 - [Wowhead 天賦模擬器](http://www.wowhead.com/talent-calc)
 - [Wowhead 角色進度查詢](https://www.wowhead.com/attunement)
-- [Wowhead 塑形模擬器](http://www.wowhead.com/dressing-room)：小心，時間會不知不覺過去XD
+- [Wowhead 塑形模擬器](http://www.wowhead.com/dressing-room)：小心，時間會不知不覺過去！
 
 ## 教學
 

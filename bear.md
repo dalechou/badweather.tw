@@ -55,11 +55,11 @@
 
 ## 插件
 
-請安裝 [DBM](https://www.wowinterface.com/downloads/info8814-DeadlyBossMods.html) 和 [WA](https://www.wowinterface.com/downloads/info24910-WeakAuras2.html)。
+請安裝 [DBM](https://www.curseforge.com/wow/addons/deadly-boss-mods) 和 [WA](https://www.curseforge.com/wow/addons/weakauras-2)。
 
 這些工具可以在面對困難的機制時，以視覺的方式提醒團員。拓荒時也常會分享有用的設定或字串。請花時間熟悉這些工具。
 
-另外，推薦安裝 [MRT](https://addons.wago.io/addons/method-raid-tools)，有時候會傳筆記和時間軸。
+另外，推薦安裝 [MRT](https://www.curseforge.com/wow/addons/method-raid-tools)。我們會傳筆記和時間軸。
 
 ---
 
