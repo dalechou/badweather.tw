@@ -2,6 +2,7 @@
 
 歡迎回鍋！首先，下列連結是最新的官方資訊。
 
+- [《暗影之境》：跨陣營副本說明](https://worldofwarcraft.com/zh-tw/news/23796742/%E6%9A%97%E5%BD%B1%E4%B9%8B%E5%A2%83%E8%B7%A8%E9%99%A3%E7%87%9F%E5%89%AF%E6%9C%AC%E8%AA%AA%E6%98%8E)
 - [《魔獸世界》資料片揭露](https://youtu.be/vcLT-blOXNE)
 - [《巨龍崛起》公布動畫預告片](https://youtu.be/Kz-2sBKNxhU)
 - [回歸用戶指南](https://worldofwarcraft.com/zh-tw/return)
