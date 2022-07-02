@@ -1,10 +1,14 @@
 ## 團隊活動：趴熊團
 
-近期出席報告如下。ʕᵔᴥᵔʔ
+近期行程和出席報告如下。ʕᵔᴥᵔʔ
 
-- 7/7 請假：一對小兔牙
-- 7/14 請假：一對小兔牙
-- 7/21 休團一次
+| **日期** | **預定行程**               | **請假或預計會遲到的團員** |
+| -------- | -------------------------- | -------------------------- |
+| 7/7      | 打掉尾王，然後轉打普通成就 | 一對小兔牙                 |
+| 7/14     | 普通成就，然後轉打英雄     | 一對小兔牙                 |
+| 7/21     | 大家休息一週               | N/A                        |
+| 7/28     | 打掉尾王、一王，然後休息   |                            |
+| 8/4      | 第四賽季開始               |                            |
 
 ---
 
@@ -13,23 +17,23 @@
 請用名單上的角色出團。雙修專精會用**粗體字**標示。
 
 | **坦克**             | **補師**     | **遠程**       | **近戰**     |
-| ---------------------| ------------ | -------------- | ------------ |
+| -------------------- | ------------ | -------------- | ------------ |
 | 貓語者               | 沙發破一個洞 | 水無月星歌     | Yinuo        |
 | Darc <sup>團熊</sup> | 玥歆嬌妻     | 達納蘇斯渣男   | 尹月狼       |
-|                      | Fanudihoul   | 紅燒布朗尼     | 毛茸茸小貓咪 |
-|                      | 冽光         | **一對小兔牙** | Etro         |
-|                      |              | **奈芙緹緹**   | 賊疾八劍     |
+|                      | Fanudihoul   | **一對小兔牙** | 毛茸茸小貓咪 |
+|                      | 冽光         | **奈芙緹緹**   | Etro         |
+|                      |              |                | 賊疾八劍     |
 |                      |              |                | 醉拳阿達     |
 |                      |              |                | 欸桑         |
 |                      |              |                | 銀華月魂     |
 |                      |              |                | 你不夠森氣   |
 |                      |              |                | Paimia       |
 
-人數：21
+人數：20
 
 ## 招募
 
-招募 DPS 2-3 位，優先找法師、DK。
+招募 DPS 2-3 位，優先找法師、DK、術士。
 
 --- 
 
@@ -118,17 +122,19 @@
 
 團隊目標是英雄全通，拿到「領先群雄」成就。
 
-- 領先群雄：閻獄之主（[榮耀瞬間](img_aotc_jailer_bear.jpg)、[合照](img_aotc_jailer_bear2.jpg)、[天啊](https://www.twitch.tv/videos/1511957208)）──112 次
-- 領先群雄：希瓦娜斯‧風行者（[榮耀瞬間](img_aotc_sylvanas_bear.jpg)、[合照](img_aotc_sylvanas_bear2.jpg)、[勿忘泰達希爾](https://www.twitch.tv/videos/1176564219)）──64 次
-- 領先群雄：戴納瑟斯王（[榮耀瞬間](img_aotc_denathrius_bear.jpg)、[合照](img_aotc_denathrius_bear2.jpg)、[下班了](https://www.twitch.tv/videos/945865869)）──63 次
-- 領先群雄：『腐化者』恩若司（[好好照相](img_aotc_nzoth_thu.jpg)、[永不放棄](https://www.twitch.tv/videos/587773572)）──12 次
-- 領先群雄：艾薩拉女王（[榮耀瞬間](img_aotc_azshara_thu.jpg)、[合照](img_aotc_azshara_thu2.jpg)）──37 次
-- 領先群雄：『虛無使者』烏納特（[合照](img_aotc_uunat_thu.jpg)、[魚頭](img_aotc_uunat_thu2.jpg)）──55 次
-- 領先群雄：珍娜‧普勞德摩爾女士（[合照](img_aotc_jaina_thu.jpg)、[GIF](img_aotc_jaina_thu.gif)）──41 次
-- 領先群雄：古翰（[合照](img_aotc_ghuun_thu.jpg)）──22 次
-- 領先群雄：滅界者阿古斯（[合照](img_aotc_argus.jpg)）
-- 領先群雄：基爾加丹（[週四忘了合照](img_aotc_kiljaeden.jpg)，[隨便傳一個](img_aotc_kiljaeden2.jpg)）
-- 領先群雄：古爾丹（[合照](img_aotc_guldan.jpg)）
+| **成就**                       | **合照或影片剪輯**                                                                                                              | **拓荒次數**     |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| 領先群雄：閻獄之主             | [榮耀瞬間](img_aotc_jailer_bear.jpg)、[合照](img_aotc_jailer_bear2.jpg)、[剪輯](https://www.twitch.tv/videos/1511957208)        | 112              |
+| 領先群雄：希瓦娜斯‧風行者     | [榮耀瞬間](img_aotc_sylvanas_bear.jpg)、[合照](img_aotc_sylvanas_bear2.jpg)、[剪輯](https://www.twitch.tv/videos/1176564219)    | 64               |
+| 領先群雄：戴納瑟斯王           | [榮耀瞬間](img_aotc_denathrius_bear.jpg)、[合照](img_aotc_denathrius_bear2.jpg)、[剪輯](https://www.twitch.tv/videos/945865869) | 63               |
+| 領先群雄：『腐化者』恩若司     | [合照](img_aotc_nzoth_thu.jpg)、[剪輯](https://www.twitch.tv/videos/587773572)                                                  | 12               |
+| 領先群雄：艾薩拉女王           | [榮耀瞬間](img_aotc_azshara_thu.jpg)、[合照](img_aotc_azshara_thu2.jpg)                                                         | 37               |
+| 領先群雄：『虛無使者』烏納特   | [合照](img_aotc_uunat_thu.jpg)、[魚頭](img_aotc_uunat_thu2.jpg)                                                                 | 55               |
+| 領先群雄：珍娜‧普勞德摩爾女士 | [合照](img_aotc_jaina_thu.jpg)、[GIF](img_aotc_jaina_thu.gif)                                                                   | 41               |
+| 領先群雄：古翰                 | [合照](img_aotc_ghuun_thu.jpg)                                                                                                  | 22               |
+| 領先群雄：滅界者阿古斯         | [合照](img_aotc_argus.jpg)                                                                                                      | N/A              |
+| 領先群雄：基爾加丹             | [忘了合照](img_aotc_kiljaeden.jpg)，[隨便傳一個](img_aotc_kiljaeden2.jpg)                                                       | N/A              |
+| 領先群雄：古爾丹               | [合照](img_aotc_guldan.jpg)                                                                                                     | N/A              |
 
 ---
 
