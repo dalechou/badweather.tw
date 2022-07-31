@@ -36,6 +36,8 @@
 
 ![](img_nyalotharaider_tue.jpg)
 
+![](img_nyalotharaider_2022.jpg)
+
 大家一起完成的成就，征服蠕動的寄生蟲！
 
 ---
