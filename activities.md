@@ -12,7 +12,7 @@
 
 ## 2022 命定團隊副本
 
-![](img_fatedraider_bear.jpg)
+![](img_fatedraids_bear.jpg)
 
 一起拿老吉勾沃斯坐騎！
 
