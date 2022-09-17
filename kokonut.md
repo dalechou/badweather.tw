@@ -29,7 +29,7 @@
 
 ## 出團紀錄
 
-- Avidar [WCL](https://www.warcraftlogs.com/user/reports-list/256518/)
+- Kokonut [WCL](https://www.warcraftlogs.com/user/reports-list/256518/)
 
 --- 
 
@@ -59,8 +59,8 @@
 
 ## 聯絡
 
-有事請找聯絡人：Avidar
+有事請找聯絡人：Kokonut
 
 請[點此](index.html)回目錄。
 
-文件變更請參考[公開紀錄](https://github.com/dalechou/badweather.tw/commits/master/avidar.md)，不會另外公告。
+文件變更請參考[公開紀錄](https://github.com/dalechou/badweather.tw/commits/master/kokonut.md)，不會另外公告。
