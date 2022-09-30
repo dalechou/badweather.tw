@@ -2,13 +2,28 @@
 
 歡迎回鍋！首先，下列連結是最新的官方資訊。
 
-- [《暗影之境》：跨陣營副本說明](https://worldofwarcraft.com/zh-tw/news/23796742/%E6%9A%97%E5%BD%B1%E4%B9%8B%E5%A2%83%E8%B7%A8%E9%99%A3%E7%87%9F%E5%89%AF%E6%9C%AC%E8%AA%AA%E6%98%8E)
-- [《魔獸世界》資料片揭露](https://youtu.be/vcLT-blOXNE)
-- [《巨龍崛起》公布動畫預告片](https://youtu.be/Kz-2sBKNxhU)
-- [《永恆之盡》更新](https://worldofwarcraft.com/zh-tw/news/23770462/2-%E6%9C%88-23-%E6%97%A5%E6%9B%B4%E6%96%B0%E6%9A%97%E5%BD%B1%E4%B9%8B%E5%A2%83%E6%B0%B8%E6%81%86%E4%B9%8B%E7%9B%A1%E5%85%A7%E5%AE%B9%E6%9B%B4%E6%96%B0%E8%AA%AA%E6%98%8E)
-- [《永恆之盡》生存指南](https://youtu.be/_d0InFyR0YA)
-- [《永恆之盡》開發者預覽](https://youtu.be/Lk9JLxNCPl4)
+- [半龍人喚能師介紹](https://worldofwarcraft.com/zh-tw/news/23833250/%E5%B7%A8%E9%BE%8D%E5%B4%9B%E8%B5%B7%E9%A0%90%E8%A6%BD%E5%8D%8A%E9%BE%8D%E4%BA%BA%E5%96%9A%E8%83%BD%E5%B8%AB%E4%BB%8B%E7%B4%B9)
+- [《巨龍崛起》公布推出日期](https://worldofwarcraft.com/zh-tw/news/23859631/%E5%9C%A8%E6%97%A5%E6%9B%86%E4%B8%8A%E5%81%9A%E5%A5%BD%E8%A8%98%E8%99%9F%E5%89%8D%E5%BE%80%E5%B7%A8%E9%BE%8D%E7%BE%A4%E5%B3%B6%E7%9A%84%E6%97%85%E7%A8%8B%E5%B0%87%E6%96%BC-11-%E6%9C%88-29-%E6%97%A5%E5%B1%95%E9%96%8B)（[預告片](https://youtu.be/VPMt2gHaWH4)）
+- [《巨龍崛起》第 1 賽季與團隊副本時程表](https://worldofwarcraft.com/zh-tw/news/23841486/%E5%B7%A8%E9%BE%8D%E5%B4%9B%E8%B5%B7%E7%AC%AC-1-%E8%B3%BD%E5%AD%A3%E8%88%87%E5%9C%98%E9%9A%8A%E5%89%AF%E6%9C%AC%E6%99%82%E7%A8%8B%E8%A1%A8)
 - [回歸用戶指南](https://worldofwarcraft.com/zh-tw/return)
+
+---
+
+## 關於 10.0
+
+- **聽說目前有提高練等經驗值的智慧之風，這會持續多久？**
+    
+    從現在起，到前夕上線前結束。
+
+- **目前有什麼重要日期？**
+    
+    前夕上線：未知
+    資料片推出：2022-11-29
+    團隊副本和第一賽季開打：2022-12-13 當週
+
+- **請問半龍人喚能師的起始等級是多少？**
+    
+    58，這是英雄職業。更多資訊請見[半龍人喚能師介紹](https://worldofwarcraft.com/zh-tw/news/23833250/%E5%B7%A8%E9%BE%8D%E5%B4%9B%E8%B5%B7%E9%A0%90%E8%A6%BD%E5%8D%8A%E9%BE%8D%E4%BA%BA%E5%96%9A%E8%83%BD%E5%B8%AB%E4%BB%8B%E7%B4%B9)。
 
 ---
 
