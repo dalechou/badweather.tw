@@ -10,11 +10,51 @@
 
 ---
 
+## 偉大的諾姆瑞根路跑
+
+![](img_greatgnomereganrun_2022-00.jpg)
+
+![](img_greatgnomereganrun_2022-01.jpg)
+
+![](img_greatgnomereganrun_2022-02.jpg)
+
+![](img_greatgnomereganrun_2022-03.jpg)
+
+![](img_greatgnomereganrun_2022-04.jpg)
+
+![](img_greatgnomereganrun_2022-05.jpg)
+
+2022 路跑，感謝 尹月狼、Fanudihoul、霜之銀爪，還有長年捍衛地精生命的 Yoyoman 保護大家，感謝 Avidar 擔任攝影師，Fanudihoul 再次為路跑準備禮物。看到公會一堆地精都在賣力挪動小短腿真是太開心了！尤其最後衝過終點，迄今仍沒有人知道誰是第一名，可見競爭之激烈。跑完後很多地精都累得躺在地上……來年大家再一起加油！
+
+![](img_greatgnomereganrun_2021.jpg)
+
+2021 路跑，感謝 Yinuo、傻大哥、Fanudihoul、暴怒爵士還有 TENET 公會的影千魔來保護大家，感謝尹月狼在終點為我們加油。感謝 Fanudihoul 為路跑準備禮物「渦輪飛行器」！
+
+![](img_greatgnomereganrun_2020.jpg)
+
+這是 2020 路跑，版本末參加的人變少了，感謝 Yinuo、瑤熙來保護大家！
+
+![](img_greatgnomereganrun_2018.jpg)
+
+2018 跑跑跑，向勇敢的抗癌勇士致敬！
+
+---
+
 ## 2022 命定團隊副本
 
 ![](img_fatedraids_bear.jpg)
 
 一起拿老吉勾沃斯坐騎！
+
+---
+
+## 奈奧羅薩團隊高手的榮耀
+
+![](img_nyalotharaider_tue.jpg)
+
+![](img_nyalotharaider_2022.png)
+
+大家一起完成的成就，征服蠕動的寄生蟲！
 
 ---
 
@@ -37,16 +77,6 @@
 ![](img_act_2022-02-03-04.jpg)
 
 謝謝大家參與！
-
----
-
-## 奈奧羅薩團隊高手的榮耀
-
-![](img_nyalotharaider_tue.jpg)
-
-![](img_nyalotharaider_2022.png)
-
-大家一起完成的成就，征服蠕動的寄生蟲！
 
 ---
 
@@ -121,22 +151,6 @@
 ![](img_bbq.jpg)
 
 深夜互相傷害的夥伴。
-
----
-
-## 偉大的諾姆瑞根路跑
-
-![](img_greatgnomereganrun_2021.jpg)
-
-2021 路跑，感謝 Yinuo、傻大哥、Fanudihoul、暴怒爵士還有 TENET 公會的影千魔來保護大家，感謝尹月狼在終點為我們加油。感謝 Fanudihoul 為路跑準備禮物「渦輪飛行器」！
-
-![](img_greatgnomereganrun_2020.jpg)
-
-這是 2020 路跑，版本末參加的人變少了，感謝 Yinuo、瑤熙來保護大家！
-
-![](img_greatgnomereganrun_2018.jpg)
-
-2018 跑跑跑，向勇敢的抗癌勇士致敬！
 
 ---
 
