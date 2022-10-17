@@ -24,7 +24,7 @@
 
 ![](img_greatgnomereganrun_2022-05.jpg)
 
-2022 路跑（[實況剪輯](https://www.twitch.tv/videos/1619041946)），感謝 尹月狼、Fanudihoul、霜之銀爪，還有長年捍衛地精生命的 Yoyoman 保護大家，感謝 Avidar 擔任空拍攝影師，Fanudihoul 再次為路跑準備禮物。看到公會一堆地精都在賣力挪動小短腿真是太開心了！尤其最後衝過終點，迄今仍沒有人知道誰是第一名，可見競爭之激烈。跑完後很多地精都累得躺在地上……來年大家再一起加油！
+2022 路跑（[實況剪輯](https://www.twitch.tv/videos/1619041946)），感謝 尹月狼、Fanudihoul、霜之銀爪，還有長年捍衛地精生命的 Yoyoman 保護大家，感謝 Kokonut 擔任空拍攝影師，Fanudihoul 再次為路跑準備禮物。看到公會一堆地精都在賣力挪動小短腿真是太開心了！尤其最後衝過終點，迄今仍沒有人知道誰是第一名，可見競爭之激烈。跑完後很多地精都累得躺在地上……來年大家再一起加油！
 
 ![](img_greatgnomereganrun_2021.jpg)
 
