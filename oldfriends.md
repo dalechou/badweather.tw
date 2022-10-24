@@ -2,8 +2,11 @@
 
 歡迎回鍋！首先，下列連結是最新的官方資訊。
 
-- [半龍人喚能師介紹](https://worldofwarcraft.com/zh-tw/news/23833250/%E5%B7%A8%E9%BE%8D%E5%B4%9B%E8%B5%B7%E9%A0%90%E8%A6%BD%E5%8D%8A%E9%BE%8D%E4%BA%BA%E5%96%9A%E8%83%BD%E5%B8%AB%E4%BB%8B%E7%B4%B9)
-- [《巨龍崛起》公布推出日期](https://worldofwarcraft.com/zh-tw/news/23859631/%E5%9C%A8%E6%97%A5%E6%9B%86%E4%B8%8A%E5%81%9A%E5%A5%BD%E8%A8%98%E8%99%9F%E5%89%8D%E5%BE%80%E5%B7%A8%E9%BE%8D%E7%BE%A4%E5%B3%B6%E7%9A%84%E6%97%85%E7%A8%8B%E5%B0%87%E6%96%BC-11-%E6%9C%88-29-%E6%97%A5%E5%B1%95%E9%96%8B)（[預告片](https://youtu.be/VPMt2gHaWH4)）
+- [《巨龍崛起》版本前夕-公布推出日期](https://worldofwarcraft.com/zh-tw/news/23859636/%E5%B7%A8%E9%BE%8D%E5%B4%9B%E8%B5%B7%E7%89%88%E6%9C%AC%E5%89%8D%E5%A4%95%E6%9B%B4%E6%96%B0%E6%AA%94%E5%B0%87%E6%96%BC-10-%E6%9C%88-27-%E6%97%A5%E5%B1%95%E9%96%8B)
+- [《巨龍崛起》前夕改版更新檔](https://worldofwarcraft.com/zh-tw/news/23814291/%E5%B7%A8%E9%BE%8D%E5%B4%9B%E8%B5%B7%E5%89%8D%E5%A4%95%E6%94%B9%E7%89%88%E6%9B%B4%E6%96%B0%E6%AA%94%E8%AA%AA%E6%98%8E)
+- [《巨龍崛起》正式上市-公布推出日期](https://worldofwarcraft.com/zh-tw/news/23859631/%E5%9C%A8%E6%97%A5%E6%9B%86%E4%B8%8A%E5%81%9A%E5%A5%BD%E8%A8%98%E8%99%9F%E5%89%8D%E5%BE%80%E5%B7%A8%E9%BE%8D%E7%BE%A4%E5%B3%B6%E7%9A%84%E6%97%85%E7%A8%8B%E5%B0%87%E6%96%BC-11-%E6%9C%88-29-%E6%97%A5%E5%B1%95%E9%96%8B)（[預告片](https://youtu.be/VPMt2gHaWH4)）
+- [《巨龍崛起》抬頭顯示器與使用者介面重製](https://worldofwarcraft.com/zh-tw/news/23841481/%E9%AD%94%E7%8D%B8%E4%B8%96%E7%95%8C%E5%B7%A8%E9%BE%8D%E5%B4%9B%E8%B5%B7%E6%8A%AC%E9%A0%AD%E9%A1%AF%E7%A4%BA%E5%99%A8%E8%88%87%E4%BD%BF%E7%94%A8%E8%80%85%E4%BB%8B%E9%9D%A2%E9%87%8D%E8%A3%BD)
+- [《巨龍崛起》更新你與飛龍騎術邁向全新高度的技能](https://worldofwarcraft.com/zh-tw/news/23818251/-8-%E6%9C%88-25-%E6%97%A5-%E6%9B%B4%E6%96%B0%E4%BD%A0%E8%88%87%E9%A3%9B%E9%BE%8D%E9%A8%8E%E8%A1%93%E9%82%81%E5%90%91%E5%85%A8%E6%96%B0%E9%AB%98%E5%BA%A6%E7%9A%84%E6%8A%80%E8%83%BD)
 - [《巨龍崛起》第 1 賽季與團隊副本時程表](https://worldofwarcraft.com/zh-tw/news/23841486/%E5%B7%A8%E9%BE%8D%E5%B4%9B%E8%B5%B7%E7%AC%AC-1-%E8%B3%BD%E5%AD%A3%E8%88%87%E5%9C%98%E9%9A%8A%E5%89%AF%E6%9C%AC%E6%99%82%E7%A8%8B%E8%A1%A8)
 - [回歸用戶指南](https://worldofwarcraft.com/zh-tw/return)
 
@@ -11,21 +14,23 @@
 
 ## 關於 10.0
 
-- **聽說目前有提高練等經驗值的智慧之風，這會持續多久？**
+- **聽說目前有提高練等經驗值的智慧之風，這將會持續多久？**
     
-    從 10/6 起，到《巨龍崛起》推出前夕改版並實裝全新的半龍人喚能師時結束。
+    從 10/6 起，到《巨龍崛起》推出前夕改版並實裝全新的半龍人喚能師(第二階段)時結束。
 
-- **目前有什麼重要日期？**
+- **目前有什麼重要的時程推出日期表？**
     
-    前夕上線：未知
+    前夕上線：2022-10-27(第一階段)、2022-11-17(第二階段)。
     
-    資料片推出：2022-11-29
+    資料片推出：2022-11-29 禮拜二的早上7點整(第三階段)。
     
-    團隊副本和第一賽季開打：2022-12-13 當週
+    團隊副本和第一賽季開打：2022-12-13 當週的禮拜四(第四階段)。
 
 - **請問半龍人喚能師的起始等級是多少？**
     
-    58，這是英雄職業。更多資訊請見[半龍人喚能師介紹](https://worldofwarcraft.com/zh-tw/news/23833250/%E5%B7%A8%E9%BE%8D%E5%B4%9B%E8%B5%B7%E9%A0%90%E8%A6%BD%E5%8D%8A%E9%BE%8D%E4%BA%BA%E5%96%9A%E8%83%BD%E5%B8%AB%E4%BB%8B%E7%B4%B9)。
+    58，這是英雄職業；關於更多資訊，請見這兩篇介紹:
+([《巨龍崛起》預覽：半龍人喚能師介紹](https://worldofwarcraft.com/zh-tw/news/23833250/%E5%B7%A8%E9%BE%8D%E5%B4%9B%E8%B5%B7%E9%A0%90%E8%A6%BD%E5%8D%8A%E9%BE%8D%E4%BA%BA%E5%96%9A%E8%83%BD%E5%B8%AB%E4%BB%8B%E7%B4%B9))
+([《巨龍崛起》預覽：深入瞭解半龍人](https://worldofwarcraft.com/zh-tw/news/23826544/%E5%B7%A8%E9%BE%8D%E5%B4%9B%E8%B5%B7%E9%A0%90%E8%A6%BD%E6%B7%B1%E5%85%A5%E7%9E%AD%E8%A7%A3%E5%8D%8A%E9%BE%8D%E4%BA%BA))。
 
 ---
 
@@ -33,41 +38,43 @@
 
 - **看不到地板法術效果怎麼辦？**
 
-    系統設定下投影材質打開，粒子密度設定為「高」或以上。
+    ESC->系統->將投影材質設定為「已啟用」，粒子密度則設定為「高」或是以上。
 
 - **我原本的伺服器呢？聽說最近有很多伺服器變成聯結伺服器？**
 
-    請看批踢踢整理的[這一篇](https://www.ptt.cc/bbs/WOW/M.1601913850.A.48F.html)。
+    請看批踢踢整理的這一篇([聯結伺服器一覽暨伺服器合併歷史](https://www.ptt.cc/bbs/WOW/M.1601913850.A.48F.html))。
 
-- **微軟新版的新注音好像會卡到東西（不能飛、不能開地圖、Shift 卡住等），怎麼辦？**
+- **微軟新版的新注音好像會卡到東西（不能飛、不能開地圖、不能點擊物品、不能點擊技能、Shift 鍵 卡住等），怎麼辦？**
 
-    可以按兩次 Windows 鍵或 Shift 鍵，就可以解開了。
+    可以按兩次 Windows 鍵或 Shift 鍵、甚至是 ALT 鍵，就可以解開這問題了。
 
 - **聽說現在聯盟和部落可以一起出團？**
     
-    依目前整理的資料來看，可以跨陣營組隊的活動包括：普通至傳奇難度的團隊副本、積分戰場、M+、預組。
+    依目前整理的資料來看，可以跨陣營組隊的活動，包括：普通至傳奇難度的團隊副本、積分戰場、M+、預組。
     
-    不可跨陣營組隊的活動包括：隨機難度團隊副本、非積分戰場、普通至英雄難度的五人副本、公會。
+    不可跨陣營組隊的活動及功能，包括：隨機難度團隊副本、非積分戰場、普通至英雄難度的五人副本、創建公會。
     
-    團長或隊長可以設定是否允許跨陣營組隊，其他細節可以先看看[官方介紹](https://news.blizzard.com/zh-tw/world-of-warcraft/23761709/%E9%96%8B%E7%99%BC%E9%A0%90%E8%A6%BD%EF%BC%9A%E8%B7%A8%E9%99%A3%E7%87%9F%E5%89%AF%E6%9C%AC)，最後以實裝為準。
+    團長或隊長可以設定是否允許跨陣營組隊，其他細節可以先看看[官方介紹](https://news.blizzard.com/zh-tw/world-of-warcraft/23761709/%E9%96%8B%E7%99%BC%E9%A0%90%E8%A6%BD%EF%BC%9A%E8%B7%A8%E9%99%A3%E7%87%9F%E5%89%AF%E6%9C%AC)。
 
 - **請問要怎麼練等級比較快？排不到五人副本耶！**
 
-    由於台服人數較少，如果習慣一邊解任務，一邊排五人地城，建議選擇《決戰艾澤拉斯》（可以隨時找克羅米改變時間線）。
+    由於台服人數較少，如果習慣一邊解任務，一邊排五人地城，建議選擇《決戰艾澤拉斯》（可以隨時回去暴風城找克羅米改變版本時間線）。
     
-    記得把握時光週，時光週的五人副本經驗值較多，比較多人排。另外，每個月的暗月馬戲團可以提高獲得經驗值的效率。
+    記得把握時光週，時光週的五人副本經驗值較多，也比較多人排。
+
+    另外，在每個月的月初會定期到來的暗月馬戲團，也能夠有效提高獲得經驗值的效率(+10%獲取經驗值、+10%獲取聲望值，最多維持1小時的持續時間)。
 
 - **PvP 的解控場技能跑去哪裡了？**
 
-    搬回 PvP 飾品了。
+    搬回 PvP 飾品的主動、被動效果了。
 
 - **聽說自訂角色外觀大改？**
 
-    沒錯，現在已經不用透過商城買服務改外觀了，去美容院看看吧！
+    沒錯，現在已經不再需要透過商城購買遊戲服務來改變外觀了，請去美容院看看吧！
 
 - **聽說多了個什麼坐騎裝備？**
 
-    請看[坐騎裝備取得一覽](https://forum.gamer.com.tw/C.php?bsn=5219&snA=659405)。
+    請看([坐騎裝備取得一覽](https://forum.gamer.com.tw/C.php?bsn=5219&snA=659405))。
 
 ---
 
@@ -77,29 +84,45 @@
 
     完成「解鎖秘密」成就即可，詳細解法請參考[老布的影片](https://youtu.be/7HrBcnlYTgI)。
 
-- **橘裝怎麼做？**
+- **淵喉及科西亞怎麼飛？**
 
-    橘裝由三樣東西組合而成：**記憶**、**書狀**（兩張，決定副屬性）以及**裝符文的容器**，也就是拍賣場「符文雕刻」分頁下那些價格高昂的白色裝備。
+    淵喉及科西亞跟7版的阿古斯一樣不打算開放飛行，只能夠在陸地上行走。
+
+- **關於橘裝如何弄出來？**
+
+    橘裝由三樣東西組合而成：**記憶**、**書狀**（兩張，來決定副屬性）以及**裝符文的容器**，也就是拍賣場「符文雕刻」分頁下那些價格高昂的白色裝備。
 
 ---
 
 ## 關於 8.x
 
-- **要怎樣才能有庫爾提拉斯人類的任務？**
+- **如何才能獲得機械地精的解鎖相關任務線？**
 
-    海軍府崇拜、成就復仇之潮、成就團結的王國。
+   至少50級，完成成就-機械岡危機([The Mechagonian Threat](https://www.wowhead.com/achievement=13700/the-mechagonian-threat))。
+  
+- **要怎樣才能夠觸發庫爾提拉斯人類的解鎖任務步驟？**
 
-- **黑鐵矮人的條件是什麼？**
+    至少50級，完成兩項成就-復仇之潮([Tides of Vengeance](https://www.wowhead.com/achievement=13467/tides-of-vengeance))、成就-團結的王國([The Pride of Kul Tiras](https://www.wowhead.com/achievement=12997/the-pride-of-kul-tiras))。
 
-    第七軍團聲望崇拜，並且完成敵方大陸三張地圖主線（跳 [Ready for War](https://www.wowhead.com/achievement=12510/ready-for-war) 成就）。
+- **有關黑鐵矮人的解鎖任務條件是什麼？**
+
+    至少50級，完成成就-蓄勢待發([Ready for War](https://www.wowhead.com/achievement=12510/ready-for-war))。
+
+- **需要怎樣才能夠去解鎖虛無精靈？**
+
+    至少45級，完成成就-你現在準備好了！([You Are Now Prepared!](https://www.wowhead.com/achievement=12066/you-are-now-prepared))。
+
+- **需要完成甚麼才可以解鎖光鑄德萊尼？**
+
+    至少45級，完成成就-你現在準備好了！([You Are Now Prepared!](https://www.wowhead.com/achievement=12066/you-are-now-prepared))。
 
 - **納沙塔爾追隨者怎麼練比較好？**
 
-    平均練到等級 3；然後都練到等級 20，拿樹皮；然後都練到等級 30 完成「海陸通吃」成就。
+    平均練到等級 3；然後都練到等級 20，去打地圖上的各個海樹人稀有拾取樹皮(觸發任務)；然後將3隻追隨者都一起練到 30 級，即可完成「海陸通吃」([Aqua Team Murder Force](https://www.wowhead.com/achievement=13762/aqua-team-murder-force))成就。
 
 - **「納迦來襲！」任務怎麼開始？**
 
-    請去祖達薩右下角隨便殺一隻納迦會拿到起始道具（感謝包子提供）。
+    請去祖達薩右下角[地名-懼珠淺灘]處隨便殺一隻納迦，便會拿到起始觸發任務道具（感謝包子提供）。
 
 ---
 
@@ -107,27 +130,27 @@
 
 - **聽說 7.x 每個職業都有很多豐富的故事，但…我沒時間練 12 隻啦！直接跟我說發生什麼事情好不好？**
 
-    好啊，請看這裡：[https://www.ptt.cc/bbs/WOW/M.1532745299.A.C5B.html](https://www.ptt.cc/bbs/WOW/M.1532745299.A.C5B.html)    
+    好啊，請看這裡：([關於7版全部12個職業的職業大廳主線劇情-懶人包](https://www.ptt.cc/bbs/WOW/M.1532745299.A.C5B.html))。
 
 - **阿古斯怎麼飛？**
 
-    阿古斯不能飛。
+    阿古斯並不開放飛行，只能夠在陸地上行走。
 
 - **阿古斯任務串怎麼開始？**
 
     想辦法接到回暴風城或回艾克索達的任務串。
 
-- **職業坐騎任務起點在哪裡？**
+- **關於職業坐騎的任務起點在哪裡？**
 
-    請完成[突破古墓](http://www.wowhead.com/achievement=11546/breaching-the-tomb)成就（其實就是破碎海岸主線）。
+    請完成這三項成就-([輝煌的戰役](https://www.wowhead.com/achievement=10994/a-glorious-campaign))，([軍團之殞勇士](https://www.wowhead.com/achievement=11846/champions-of-legionfall))，([突破古墓](http://www.wowhead.com/achievement=11546/breaching-the-tomb))成就。
 
-- **永夜怎麼進，有什麼前置任務？**
+- **永夜聖殿副本怎麼進，有什麼前置任務？**
 
-    [軍團之殞物資](http://www.wowhead.com/quest=46286/legionfall-supplies)、[神盾祭壇](http://www.wowhead.com/quest=46244/altar-of-the-aegis)，解到神盾祭壇就可以進去了。
+    ([軍團之殞物資](http://www.wowhead.com/quest=46286/legionfall-supplies))、([神盾祭壇](http://www.wowhead.com/quest=46244/altar-of-the-aegis))，解到[神盾祭壇]就可以進去了。
 
-- **卡拉贊前置任務怎麼做？**
+- **卡拉贊的副本前置任務怎麼開始？**
 
-    請看[這一篇](http://www.wowhead.com/quest=45422/edict-of-the-god-king)。
+    請看([這一篇](http://www.wowhead.com/quest=45422/edict-of-the-god-king))。
 
 ---
 
