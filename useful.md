@@ -14,7 +14,6 @@
 
 ## 插件：遊戲生活品質
 
-- [Bagnon](https://www.curseforge.com/wow/addons/bagnon)：把背包整合成一個大背包
 - [TomTom](https://www.curseforge.com/wow/addons/tomtom)：在網路討論看到座標，不知道座標怎麼找，可以用這個（不過這個插件似乎會造成 [taint](https://forum.gamer.com.tw/Co.php?bsn=05219&sn=2498142)，請自行評估要不要裝）
 
 ## 插件：WeakAuras（又稱 WA）
@@ -42,7 +41,6 @@
 ## 教學
 
 - [談顯示設定優化](https://forum.gamer.com.tw/Co.php?bsn=05219&sn=5266501)
-- [內建 UI 設定](https://youtu.be/O0WYoHJ4HMk)
 
 ## 很專心做教學內容的實況主
 
