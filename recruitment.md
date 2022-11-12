@@ -33,7 +33,7 @@
 ## 確認註記，分享公會須知（由幹部完成）
 
 1.  確認註記，填寫幹部註記。幹部註記寫的是當初主要角色的邀請人，不是目前角色的邀請人。
-1.  分享公會網站 [http://badweather.tw/](http://badweather.tw/)，並說明這個頁面很重要：[公會須知](guidelines.html)
+1.  分享公會網站 [https://badweather.tw/](https://badweather.tw/)，並說明這個頁面很重要：[公會須知](guidelines.html)
 
 ## 提升會階（由新人完成）
 
