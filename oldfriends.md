@@ -2,6 +2,7 @@
 
 歡迎回鍋！首先，下列連結是最新的官方資訊。
 
+- [《巨龍崛起》生存指南](https://www.youtube.com/watch?v=oW6OnwIeLWc)
 - [《巨龍崛起》版本前夕-公布推出日期](https://worldofwarcraft.com/zh-tw/news/23859636/%E5%B7%A8%E9%BE%8D%E5%B4%9B%E8%B5%B7%E7%89%88%E6%9C%AC%E5%89%8D%E5%A4%95%E6%9B%B4%E6%96%B0%E6%AA%94%E5%B0%87%E6%96%BC-10-%E6%9C%88-27-%E6%97%A5%E5%B1%95%E9%96%8B)
 - [《巨龍崛起》前夕改版更新檔](https://worldofwarcraft.com/zh-tw/news/23814291/%E5%B7%A8%E9%BE%8D%E5%B4%9B%E8%B5%B7%E5%89%8D%E5%A4%95%E6%94%B9%E7%89%88%E6%9B%B4%E6%96%B0%E6%AA%94%E8%AA%AA%E6%98%8E)
 - [《巨龍崛起》正式上市-公布推出日期](https://worldofwarcraft.com/zh-tw/news/23859631/%E5%9C%A8%E6%97%A5%E6%9B%86%E4%B8%8A%E5%81%9A%E5%A5%BD%E8%A8%98%E8%99%9F%E5%89%8D%E5%BE%80%E5%B7%A8%E9%BE%8D%E7%BE%A4%E5%B3%B6%E7%9A%84%E6%97%85%E7%A8%8B%E5%B0%87%E6%96%BC-11-%E6%9C%88-29-%E6%97%A5%E5%B1%95%E9%96%8B)（[預告片](https://youtu.be/VPMt2gHaWH4)）
