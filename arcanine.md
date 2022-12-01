@@ -20,7 +20,7 @@
 |                     |    桐生可可          |  Enochlis         |   布萊克史東        |
 |                     |  **凌雪熙**          |   阿哭那嗎塔塔     |   Chpeter             |
 |                     |                     |   Gatterx         |    Constance       |
-|                     |                     |   知天易逆天難      |   Acalamun    |
+|                     |                     |   大核斧子      |   Acalamun    |
 |                     |                     |   分身術           |         |
 |                     |                     |  熒熒小朋友    |                  |
 
