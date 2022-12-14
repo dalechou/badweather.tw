@@ -15,6 +15,7 @@
 ## 插件：遊戲生活品質
 
 - [TomTom](https://www.curseforge.com/wow/addons/tomtom)：在網路討論看到座標，不知道座標怎麼找，可以用這個（不過這個插件似乎會造成 [taint](https://forum.gamer.com.tw/Co.php?bsn=05219&sn=2498142)，請自行評估要不要裝）
+- [HandyNotes](https://www.curseforge.com/wow/addons/handynotes)：可以幫助玩家找到想找的東西，例如想寶藏等，需要搭配其他插件使用，例如 [HandyNotes: Dragonflight](https://www.curseforge.com/wow/addons/handynotes-dragonflight)
 
 ## 插件：WeakAuras（又稱 WA）
 
