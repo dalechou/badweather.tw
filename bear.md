@@ -62,7 +62,9 @@
 
 這些工具可以在面對困難的機制時，以視覺的方式提醒團員。拓荒時也常會分享有用的設定或字串。請花時間熟悉這些工具。
 
-另外，推薦安裝 [MRT](https://www.curseforge.com/wow/addons/method-raid-tools)。我們會傳筆記和時間軸。
+另外，推薦安裝 [MRT](https://www.curseforge.com/wow/addons/method-raid-tools)，我們會傳筆記和時間軸。
+
+[Kaze ERT Timers Icons](https://wago.io/n7l5uN3YM)（WA）可以在時間軸提到自己名字時，在畫面上顯示提醒訊息。 
 
 ---
 
