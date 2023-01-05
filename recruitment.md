@@ -29,15 +29,16 @@
 
 1.  使用 `/ginvite` 指令邀請對方，例如：`/ginvite 沙發破一個洞-聖光之願`
 1.  填寫註記。註記請填寫主要角色名稱，不要額外加其他敘述。範例：`沙發破一個洞`
+1.  分享公會網站 [https://badweather.tw/](https://badweather.tw/)，並說明這個頁面很重要：[公會須知](guidelines.html)
 
 ## 確認註記，分享公會須知（由幹部完成）
 
 1.  確認註記，填寫幹部註記。幹部註記寫的是當初主要角色的邀請人，不是目前角色的邀請人。
-1.  分享公會網站 [https://badweather.tw/](https://badweather.tw/)，並說明這個頁面很重要：[公會須知](guidelines.html)
+1.  確認新進會員知道公會網站 [https://badweather.tw/](https://badweather.tw/) 和[公會須知](guidelines.html)。
 
-## 提升會階（由新人完成）
+## 提升會階（由新進會員完成）
 
-1.  新人熟悉[公會須知](guidelines.html)後，可依公會須知寫的步驟提升權限，獲得完整的會員權利。
+1.  新進會員熟悉[公會須知](guidelines.html)後，可依公會須知寫的步驟提升權限，獲得完整的會員權利。
 
 ---
 
