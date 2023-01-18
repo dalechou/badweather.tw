@@ -19,11 +19,12 @@
 |                     |    伊萳娜            |   分身術             |   Kamandalu           |
 |                     |    桐生可可          |  Enochlis         |   布萊克史東        |
 |                     |    凌雪熙          |   阿哭那嗎塔塔     |   Chpeter             |
-|                     |   橘子喵          |   Gatterx         |    Constance       |
+|                     |                    |   Gatterx         |    Constance       |
 |                     |                     |   大核斧子      |   Acalamun    |
 |                     |                     |   熒熒小朋友    | 戴德洛特   |
-|                     |                     |  絕体絕命  |        |
+|                     |                     |  絕体絕命  | 座頭夜市  |
 |                     |                     |  Seraphen  |        |
+|                     |                     |  膝蓋殺手  |        |
 
 
 
