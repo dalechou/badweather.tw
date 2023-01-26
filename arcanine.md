@@ -18,7 +18,7 @@
 |  週日寧靜            |    依古米            |   瘋不覺            |    Pasttime     |
 |                     |    伊萳娜            |   分身術             |   Kamandalu           |
 |                     |    桐生可可          |  膝蓋殺手         |   布萊克史東        |
-|                     |    凌雪熙          |   阿哭那嗎塔塔     |   Chpeter             |
+|                     |    凌雪熙          |   阿哭那嗎塔塔     |   Lchpeterl             |
 |                     |                    |   Gatterx         |    Constance       |
 |                     |                     |   大核斧子      |   Acalamun    |
 |                     |                     |   熒熒小朋友    | 戴德洛特   |
