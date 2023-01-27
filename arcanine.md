@@ -23,7 +23,7 @@
 |                     |                     |   大核斧子      |   Acalamun    |
 |                     |                     |   熒熒小朋友    | 戴德洛特   |
 |                     |                     |  絕体絕命  | 座頭夜市  |
-|                     |                     |  Seraphen  |        |
+|                     |                     |  Seraphen  | Laintx    |
 
 
 
