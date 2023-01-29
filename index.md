@@ -19,7 +19,7 @@
 - [嗨，回鍋的老朋友](oldfriends.html)
 - [會階](ranks.html)
 - [收人規則](recruitment.html)
-- [團隊活動](raid.html)（[趴熊團](bear.html)、[Arcanine 團](arcanine.html)、[小寶寶團](babyraid.html)）
+- [團隊活動](raid.html)（[趴熊團](bear.html)、[浣熊團](浣熊團.html)、[小寶寶團](babyraid.html)）
 - [公會活動](activities.html)
 - [公會語音](voicechat.html)
 - [插件和網路資源](useful.html)
