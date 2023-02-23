@@ -136,7 +136,7 @@
 
 | **成就**                       | **合照或影片剪輯**                                                                                                              | **拓荒次數**     |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
-| 領先群雄：『噬風者』菈薩葛絲   | 榮耀瞬間、合照、剪輯                                                                                                            | N/A              |
+| 領先群雄：『噬風者』菈薩葛絲   | [榮耀瞬間](img_aotc_raszageth_bear.jpg)、[合照](img_aotc_raszageth_bear2.jpg)、[剪輯](https://www.twitch.tv/videos/1746774110)  | 40               |
 | 領先群雄：閻獄之主             | [榮耀瞬間](img_aotc_jailer_bear.jpg)、[合照](img_aotc_jailer_bear2.jpg)、[剪輯](https://www.twitch.tv/videos/1511957208)        | 112              |
 | 領先群雄：希瓦娜斯‧風行者     | [榮耀瞬間](img_aotc_sylvanas_bear.jpg)、[合照](img_aotc_sylvanas_bear2.jpg)、[剪輯](https://www.twitch.tv/videos/1176564219)    | 64               |
 | 領先群雄：戴納瑟斯王           | [榮耀瞬間](img_aotc_denathrius_bear.jpg)、[合照](img_aotc_denathrius_bear2.jpg)、[剪輯](https://www.twitch.tv/videos/945865869) | 63               |
