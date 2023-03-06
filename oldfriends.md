@@ -3,12 +3,8 @@
 歡迎回鍋！首先，下列連結是最新的官方資訊。
 
 - [《巨龍崛起》生存指南](https://www.youtube.com/watch?v=oW6OnwIeLWc)
-- [《巨龍崛起》版本前夕-公布推出日期](https://worldofwarcraft.com/zh-tw/news/23859636/%E5%B7%A8%E9%BE%8D%E5%B4%9B%E8%B5%B7%E7%89%88%E6%9C%AC%E5%89%8D%E5%A4%95%E6%9B%B4%E6%96%B0%E6%AA%94%E5%B0%87%E6%96%BC-10-%E6%9C%88-27-%E6%97%A5%E5%B1%95%E9%96%8B)
-- [《巨龍崛起》前夕改版更新檔](https://worldofwarcraft.com/zh-tw/news/23814291/%E5%B7%A8%E9%BE%8D%E5%B4%9B%E8%B5%B7%E5%89%8D%E5%A4%95%E6%94%B9%E7%89%88%E6%9B%B4%E6%96%B0%E6%AA%94%E8%AA%AA%E6%98%8E)
-- [《巨龍崛起》正式上市-公布推出日期](https://worldofwarcraft.com/zh-tw/news/23859631/%E5%9C%A8%E6%97%A5%E6%9B%86%E4%B8%8A%E5%81%9A%E5%A5%BD%E8%A8%98%E8%99%9F%E5%89%8D%E5%BE%80%E5%B7%A8%E9%BE%8D%E7%BE%A4%E5%B3%B6%E7%9A%84%E6%97%85%E7%A8%8B%E5%B0%87%E6%96%BC-11-%E6%9C%88-29-%E6%97%A5%E5%B1%95%E9%96%8B)（[預告片](https://youtu.be/VPMt2gHaWH4)）
 - [《巨龍崛起》抬頭顯示器與使用者介面重製](https://worldofwarcraft.com/zh-tw/news/23841481/%E9%AD%94%E7%8D%B8%E4%B8%96%E7%95%8C%E5%B7%A8%E9%BE%8D%E5%B4%9B%E8%B5%B7%E6%8A%AC%E9%A0%AD%E9%A1%AF%E7%A4%BA%E5%99%A8%E8%88%87%E4%BD%BF%E7%94%A8%E8%80%85%E4%BB%8B%E9%9D%A2%E9%87%8D%E8%A3%BD)
 - [《巨龍崛起》更新你與飛龍騎術邁向全新高度的技能](https://worldofwarcraft.com/zh-tw/news/23818251/-8-%E6%9C%88-25-%E6%97%A5-%E6%9B%B4%E6%96%B0%E4%BD%A0%E8%88%87%E9%A3%9B%E9%BE%8D%E9%A8%8E%E8%A1%93%E9%82%81%E5%90%91%E5%85%A8%E6%96%B0%E9%AB%98%E5%BA%A6%E7%9A%84%E6%8A%80%E8%83%BD)
-- [《巨龍崛起》第 1 賽季與團隊副本時程表](https://worldofwarcraft.com/zh-tw/news/23841486/%E5%B7%A8%E9%BE%8D%E5%B4%9B%E8%B5%B7%E7%AC%AC-1-%E8%B3%BD%E5%AD%A3%E8%88%87%E5%9C%98%E9%9A%8A%E5%89%AF%E6%9C%AC%E6%99%82%E7%A8%8B%E8%A1%A8)
 - [回歸用戶指南](https://worldofwarcraft.com/zh-tw/return)
 
 ---
