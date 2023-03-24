@@ -2,12 +2,19 @@
 
 歡迎回鍋！首先，下列連結是最新的官方資訊。
 
+- [開發中內容：搶先窺探《奈薩里奧的餘燼》](https://worldofwarcraft.blizzard.com/zh-tw/news/23923484/%E9%96%8B%E7%99%BC%E4%B8%AD%E5%85%A7%E5%AE%B9%E6%90%B6%E5%85%88%E7%AA%BA%E6%8E%A2%E5%A5%88%E8%96%A9%E9%87%8C%E5%A5%A7%E7%9A%84%E9%A4%98%E7%87%BC)
 - [《巨龍崛起》生存指南](https://www.youtube.com/watch?v=oW6OnwIeLWc)
 - [《巨龍崛起》抬頭顯示器與使用者介面重製](https://worldofwarcraft.com/zh-tw/news/23841481/%E9%AD%94%E7%8D%B8%E4%B8%96%E7%95%8C%E5%B7%A8%E9%BE%8D%E5%B4%9B%E8%B5%B7%E6%8A%AC%E9%A0%AD%E9%A1%AF%E7%A4%BA%E5%99%A8%E8%88%87%E4%BD%BF%E7%94%A8%E8%80%85%E4%BB%8B%E9%9D%A2%E9%87%8D%E8%A3%BD)
 - [《巨龍崛起》更新你與飛龍騎術邁向全新高度的技能](https://worldofwarcraft.com/zh-tw/news/23818251/-8-%E6%9C%88-25-%E6%97%A5-%E6%9B%B4%E6%96%B0%E4%BD%A0%E8%88%87%E9%A3%9B%E9%BE%8D%E9%A8%8E%E8%A1%93%E9%82%81%E5%90%91%E5%85%A8%E6%96%B0%E9%AB%98%E5%BA%A6%E7%9A%84%E6%8A%80%E8%83%BD)
 - [回歸用戶指南](https://worldofwarcraft.com/zh-tw/return)
 
 ---
+
+## 關於 10.1.0
+
+- **聯盟跟部落可以同公會了嗎？**
+
+    聽說是<sub>[1](https://tw.forums.blizzard.com/zh/wow/)</sub>, <sub>[2](https://tw.forums.blizzard.com/zh/wow/)</sub>！
 
 ## 關於 10.0
 
