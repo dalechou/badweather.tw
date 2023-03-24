@@ -14,7 +14,7 @@
 
 - **聯盟跟部落可以同公會了嗎？**
 
-    聽說是<sub>[1](https://tw.forums.blizzard.com/zh/wow/)</sub>, <sub>[2](https://tw.forums.blizzard.com/zh/wow/)</sub>！
+    聽說是<sub>[連結](https://tw.forums.blizzard.com/zh/wow/)</sub>, <sub>[連結](https://tw.forums.blizzard.com/zh/wow/)</sub>！
 
 ## 關於 10.0
 
