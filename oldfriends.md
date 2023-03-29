@@ -1,6 +1,8 @@
 ## 嗨，回鍋的老朋友
 
-歡迎回鍋！首先，下列連結是最新的官方資訊。
+歡迎回鍋！
+
+首先，下列連結是最新的官方資訊。
 
 - [開發中內容：搶先窺探《奈薩里奧的餘燼》](https://worldofwarcraft.blizzard.com/zh-tw/news/23923484/%E9%96%8B%E7%99%BC%E4%B8%AD%E5%85%A7%E5%AE%B9%E6%90%B6%E5%85%88%E7%AA%BA%E6%8E%A2%E5%A5%88%E8%96%A9%E9%87%8C%E5%A5%A7%E7%9A%84%E9%A4%98%E7%87%BC)
 - [《巨龍崛起》生存指南](https://www.youtube.com/watch?v=oW6OnwIeLWc)
