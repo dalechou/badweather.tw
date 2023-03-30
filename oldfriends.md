@@ -99,17 +99,13 @@
   
 - **庫爾提拉斯人類的解鎖條件是什麼？**
 
-    至少 50 級，完成兩項成就「復仇之潮」（[Tides of Vengeance](https://www.wowhead.com/achievement=13467/tides-of-vengeance)）、「團結的王國」（[The Pride of Kul Tiras](https://www.wowhead.com/achievement=12997/the-pride-of-kul-tiras)）。
+    至少 50 級，完成兩項成就「復仇之潮」（[Tides of Vengeance](https://www.wowhead.com/achievement=13467/tides-of-vengeance)）和「團結的王國」（[The Pride of Kul Tiras](https://www.wowhead.com/achievement=12997/the-pride-of-kul-tiras)）。
 
 - **黑鐵矮人的解鎖條件是什麼？**
 
     至少 50 級，完成成就「蓄勢待發」（[Ready for War](https://www.wowhead.com/achievement=12510/ready-for-war)）。
 
-- **虛無精靈的解鎖條件是什麼？**
-
-    至少 45 級，完成成就「你現在準備好了！」（[You Are Now Prepared!](https://www.wowhead.com/achievement=12066/you-are-now-prepared)）。
-
-- **光鑄德萊尼的解鎖條件是什麼？**
+- **虛無精靈和光鑄德萊尼的解鎖條件是什麼？**
 
     至少 45 級，完成成就「你現在準備好了！」（[You Are Now Prepared!](https://www.wowhead.com/achievement=12066/you-are-now-prepared)）。
 
