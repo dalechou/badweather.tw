@@ -1,30 +1,39 @@
 ## 嗨，回鍋的老朋友
 
-歡迎回鍋！
-
-首先，下列連結是最新的官方資訊。
+歡迎回鍋！首先，下列連結是最新的官方資訊。
 
 - [開發中內容：搶先窺探《奈薩里奧的餘燼》](https://worldofwarcraft.blizzard.com/zh-tw/news/23923484/%E9%96%8B%E7%99%BC%E4%B8%AD%E5%85%A7%E5%AE%B9%E6%90%B6%E5%85%88%E7%AA%BA%E6%8E%A2%E5%A5%88%E8%96%A9%E9%87%8C%E5%A5%A7%E7%9A%84%E9%A4%98%E7%87%BC)
-- [《巨龍崛起》生存指南](https://www.youtube.com/watch?v=oW6OnwIeLWc)
+- [《巨龍崛起》：重返禁忌之境](https://worldofwarcraft.blizzard.com/zh-tw/news/23923482/%E5%B7%A8%E9%BE%8D%E5%B4%9B%E8%B5%B7%E9%87%8D%E8%BF%94%E7%A6%81%E5%BF%8C%E4%B9%8B%E5%A2%83)
 - [《巨龍崛起》抬頭顯示器與使用者介面重製](https://worldofwarcraft.com/zh-tw/news/23841481/%E9%AD%94%E7%8D%B8%E4%B8%96%E7%95%8C%E5%B7%A8%E9%BE%8D%E5%B4%9B%E8%B5%B7%E6%8A%AC%E9%A0%AD%E9%A1%AF%E7%A4%BA%E5%99%A8%E8%88%87%E4%BD%BF%E7%94%A8%E8%80%85%E4%BB%8B%E9%9D%A2%E9%87%8D%E8%A3%BD)
 - [《巨龍崛起》更新你與飛龍騎術邁向全新高度的技能](https://worldofwarcraft.com/zh-tw/news/23818251/-8-%E6%9C%88-25-%E6%97%A5-%E6%9B%B4%E6%96%B0%E4%BD%A0%E8%88%87%E9%A3%9B%E9%BE%8D%E9%A8%8E%E8%A1%93%E9%82%81%E5%90%91%E5%85%A8%E6%96%B0%E9%AB%98%E5%BA%A6%E7%9A%84%E6%8A%80%E8%83%BD)
+- [《巨龍崛起》預覽：半龍人喚能師介紹](https://worldofwarcraft.com/zh-tw/news/23833250/%E5%B7%A8%E9%BE%8D%E5%B4%9B%E8%B5%B7%E9%A0%90%E8%A6%BD%E5%8D%8A%E9%BE%8D%E4%BA%BA%E5%96%9A%E8%83%BD%E5%B8%AB%E4%BB%8B%E7%B4%B9)
+- [《巨龍崛起》生存指南](https://www.youtube.com/watch?v=oW6OnwIeLWc)
 - [回歸用戶指南](https://worldofwarcraft.com/zh-tw/return)
+- [官方新聞](https://worldofwarcraft.blizzard.com/zh-tw/news)
 
 ---
 
-## 關於 10.1.0
+## 關於 10.1.0（下一個大改版）
 
-- **聯盟跟部落可以同公會了嗎？**
+- **聯盟跟部落在 10.1.0 可以同公會了？**
 
-    聽說是！
+    聽說是，屆時公會的聯盟和部落公會也會合併，敬請期待！
+
+## 關於 10.0.7
+
+- **禁忌之境好多任務，可以直接跟我說要幹嘛嗎？**
+
+    玩新地圖時，隨著劇情推進和收集澤斯克拉密庫鑰匙，最終可以獲得瑪瑙環飾（有三個插槽的戒指）與原初之石（可以插入戒指的厲害石頭）。
+    
+    澤斯克拉密庫總共有 29 個門，可以先打稀有怪，收集好 29 把鑰匙，一次把澤斯克拉密庫所有的門打開。
+    
+    低等級的原初之石可以透過 10 個休眠的源初碎片升級（禁忌之境收集）、25 個光滑寶石粉（拍賣場買）升級。每顆原初之石可以升級兩次。
 
 ## 關於 10.0
 
 - **請問半龍人喚能師的起始等級是多少？**
     
-    58，這是英雄職業；關於更多資訊，請見這兩篇介紹:
-([《巨龍崛起》預覽：半龍人喚能師介紹](https://worldofwarcraft.com/zh-tw/news/23833250/%E5%B7%A8%E9%BE%8D%E5%B4%9B%E8%B5%B7%E9%A0%90%E8%A6%BD%E5%8D%8A%E9%BE%8D%E4%BA%BA%E5%96%9A%E8%83%BD%E5%B8%AB%E4%BB%8B%E7%B4%B9))
-([《巨龍崛起》預覽：深入瞭解半龍人](https://worldofwarcraft.com/zh-tw/news/23826544/%E5%B7%A8%E9%BE%8D%E5%B4%9B%E8%B5%B7%E9%A0%90%E8%A6%BD%E6%B7%B1%E5%85%A5%E7%9E%AD%E8%A7%A3%E5%8D%8A%E9%BE%8D%E4%BA%BA))。
+    58，這是英雄職業。
 
 ---
 
@@ -36,27 +45,25 @@
 
 - **我原本的伺服器呢？聽說最近有很多伺服器變成聯結伺服器？**
 
-    請看批踢踢整理的：[聯結伺服器一覽暨伺服器合併歷史](https://www.ptt.cc/bbs/WOW/M.1601913850.A.48F.html)
+    請看批踢踢整理的[聯結伺服器一覽暨伺服器合併歷史](https://www.ptt.cc/bbs/WOW/M.1601913850.A.48F.html)。
 
 - **微軟新版的新注音好像會卡到東西（不能飛、不能開地圖、不能點擊物品、不能點擊技能、Shift 鍵卡住等），怎麼辦？**
 
-    按兩次 Windows 鍵（也可以改按 Shift 或 Alt 鍵）就能解開這個問題了。
+    按兩次 Windows 鍵（也可以按兩次 Shift 鍵或 Alt 鍵）就能解決這個問題了。
 
 - **聽說現在聯盟和部落可以一起出團？**
     
-    依目前整理的資料來看，可以跨陣營組隊的活動，包括：普通至傳奇難度的團隊副本、積分戰場、M+、預組。
+    依目前整理的資料來看，可以跨陣營組隊的活動，包括：普通至傳奇難度的團隊副本、積分戰場、傳奇鑰石地城、預組。
     
     不可跨陣營組隊的活動及功能，包括：隨機難度團隊副本、非積分戰場、普通至英雄難度的五人副本、創建公會。
-    
-    團長或隊長可以設定是否允許跨陣營組隊，其他細節可以先看看[官方介紹](https://news.blizzard.com/zh-tw/world-of-warcraft/23761709/%E9%96%8B%E7%99%BC%E9%A0%90%E8%A6%BD%EF%BC%9A%E8%B7%A8%E9%99%A3%E7%87%9F%E5%89%AF%E6%9C%AC)。
 
 - **請問要怎麼練等級比較快？排不到五人副本耶！**
 
-    由於台服人數較少，如果習慣一邊解任務，一邊排五人地城，建議選擇《決戰艾澤拉斯》（可以隨時回去暴風城找克羅米改變版本時間線）。
+    由於台服人數較少，如果習慣一邊解任務，一邊排五人地城，建議選擇《決戰艾澤拉斯》（可以在暴風城找克羅米改變版本時間線）。
     
     記得把握時光週，時光週的五人副本經驗值較多，也比較多人排。
 
-    另外，在每個月的月初會定期到來的暗月馬戲團，也能夠有效提高獲得經驗值的效率(+10%獲取經驗值、+10%獲取聲望值，最多維持1小時的持續時間)。
+    另外，在每個月的月初會定期到來的暗月馬戲團，也能夠有效提高獲得經驗值的效率（+10% 獲取經驗值、+10% 獲取聲望值，最多維持一小時的持續時間）。
 
 - **PvP 的解控場技能跑去哪裡了？**
 
@@ -68,7 +75,7 @@
 
 - **聽說多了個什麼坐騎裝備？**
 
-    請看([坐騎裝備取得一覽](https://forum.gamer.com.tw/C.php?bsn=5219&snA=659405))。
+    請看火腿哈密瓜整理的[坐騎裝備取得一覽](https://forum.gamer.com.tw/C.php?bsn=5219&snA=659405)。
 
 ---
 
@@ -80,7 +87,7 @@
 
 - **淵喉及科西亞怎麼飛？**
 
-    淵喉及科西亞跟7版的阿古斯一樣不打算開放飛行，只能夠在陸地上行走。
+    淵喉及科西亞不開放飛行，只能夠在陸地上行走。
 
 ---
 
@@ -88,31 +95,31 @@
 
 - **如何才能獲得機械地精的解鎖相關任務線？**
 
-   至少50級，完成成就-機械岡危機([The Mechagonian Threat](https://www.wowhead.com/achievement=13700/the-mechagonian-threat))。
+    至少 50 級，完成成就「機械岡危機」（[The Mechagonian Threat](https://www.wowhead.com/achievement=13700/the-mechagonian-threat)）。
   
 - **要怎樣才能夠觸發庫爾提拉斯人類的解鎖任務步驟？**
 
-    至少50級，完成兩項成就-復仇之潮([Tides of Vengeance](https://www.wowhead.com/achievement=13467/tides-of-vengeance))、成就-團結的王國([The Pride of Kul Tiras](https://www.wowhead.com/achievement=12997/the-pride-of-kul-tiras))。
+    至少 50 級，完成兩項成就「復仇之潮」（[Tides of Vengeance](https://www.wowhead.com/achievement=13467/tides-of-vengeance)）、「團結的王國」（[The Pride of Kul Tiras](https://www.wowhead.com/achievement=12997/the-pride-of-kul-tiras)）。
 
 - **有關黑鐵矮人的解鎖任務條件是什麼？**
 
-    至少50級，完成成就-蓄勢待發([Ready for War](https://www.wowhead.com/achievement=12510/ready-for-war))。
+    至少 50 級，完成成就「蓄勢待發」（[Ready for War](https://www.wowhead.com/achievement=12510/ready-for-war)）。
 
 - **需要怎樣才能夠去解鎖虛無精靈？**
 
-    至少45級，完成成就-你現在準備好了！([You Are Now Prepared!](https://www.wowhead.com/achievement=12066/you-are-now-prepared))。
+    至少 45 級，完成成就「你現在準備好了！」（[You Are Now Prepared!](https://www.wowhead.com/achievement=12066/you-are-now-prepared)）。
 
 - **需要完成甚麼才可以解鎖光鑄德萊尼？**
 
-    至少45級，完成成就-你現在準備好了！([You Are Now Prepared!](https://www.wowhead.com/achievement=12066/you-are-now-prepared))。
+    至少 45 級，完成成就「你現在準備好了！」（[You Are Now Prepared!](https://www.wowhead.com/achievement=12066/you-are-now-prepared)）。
 
 - **納沙塔爾追隨者怎麼練比較好？**
 
-    平均練到等級 3；然後都練到等級 20，去打地圖上的各個海樹人稀有拾取樹皮(觸發任務)；然後將3隻追隨者都一起練到 30 級，即可完成「海陸通吃」([Aqua Team Murder Force](https://www.wowhead.com/achievement=13762/aqua-team-murder-force))成就。
+    平均練到 3 級，再練到 20 級，然後去打地圖上的各個稀有海樹人拾取樹皮（觸發任務）。三位追隨者都練到 30 級，即可完成成就「海陸通吃」（[Aqua Team Murder Force](https://www.wowhead.com/achievement=13762/aqua-team-murder-force)）。
 
 - **「納迦來襲！」任務怎麼開始？**
 
-    請去祖達薩右下角[地名-懼珠淺灘]處隨便殺一隻納迦，便會拿到起始觸發任務道具（感謝包子提供）。
+    請去祖達薩東南方的懼珠淺灘隨便殺一隻納迦，會拿到起始觸發任務道具。
 
 ---
 
@@ -120,11 +127,11 @@
 
 - **聽說 7.x 每個職業都有很多豐富的故事，但……我沒時間練 12 隻啦！直接跟我說發生什麼事情好不好？**
 
-    好啊，請看這裡：([關於7版全部12個職業的職業大廳主線劇情-懶人包](https://www.ptt.cc/bbs/WOW/M.1532745299.A.C5B.html))。
+    請看批踢踢整理的[職業主線劇情懶人包](https://www.ptt.cc/bbs/WOW/M.1532745299.A.C5B.html)。
 
 - **阿古斯怎麼飛？**
 
-    阿古斯並不開放飛行，只能夠在陸地上行走。
+    阿古斯不開放飛行，只能夠在陸地上行走。
 
 - **阿古斯任務串怎麼開始？**
 
@@ -132,15 +139,11 @@
 
 - **關於職業坐騎的任務起點在哪裡？**
 
-    請完成這三項成就-([輝煌的戰役](https://www.wowhead.com/achievement=10994/a-glorious-campaign))，([軍團之殞勇士](https://www.wowhead.com/achievement=11846/champions-of-legionfall))，([突破古墓](http://www.wowhead.com/achievement=11546/breaching-the-tomb))成就。
+    請完成「[輝煌的戰役](https://www.wowhead.com/achievement=10994/a-glorious-campaign)」、「[軍團之殞勇士](https://www.wowhead.com/achievement=11846/champions-of-legionfall)」、「[突破古墓](http://www.wowhead.com/achievement=11546/breaching-the-tomb)」等三項成就。
 
 - **永夜聖殿副本怎麼進，有什麼前置任務？**
 
-    ([軍團之殞物資](http://www.wowhead.com/quest=46286/legionfall-supplies))、([神盾祭壇](http://www.wowhead.com/quest=46244/altar-of-the-aegis))，解到[神盾祭壇]就可以進去了。
-
-- **卡拉贊的副本前置任務怎麼開始？**
-
-    請看([這一篇](http://www.wowhead.com/quest=45422/edict-of-the-god-king))。
+    完成「[軍團之殞物資](http://www.wowhead.com/quest=46286/legionfall-supplies)」和「[神盾祭壇](http://www.wowhead.com/quest=46244/altar-of-the-aegis)」就可以進去了。
 
 ---
 
