@@ -21,7 +21,7 @@
 
 因為 [WA](https://www.curseforge.com/wow/addons/weakauras-2) 雖然強大，但也複雜，所以特別切出來自己一區。
 
-有興趣可以參考 [Wago.io](https://wago.io/weakauras) 和 [Wowhead](http://www.wowhead.com/weakauras-addon-guide) 相關資源。另外[批踢踢](https://www.ptt.cc/bbs/WOW/M.1488827820.A.769.html)、[巴哈姆特](https://forum.gamer.com.tw/Co.php?bsn=05219&sn=5351696)、[NGA](https://bbs.nga.cn/read.php?tid=4655386&rand=613) 也有教學。
+有興趣可以參考 [Wago.io](https://wago.io/weakauras) 和 [Wowhead](https://www.wowhead.com/guide/how-to-create-and-use-weakauras-5929) 相關資源。另外[批踢踢](https://www.ptt.cc/bbs/WOW/M.1488827820.A.769.html)、[巴哈姆特](https://forum.gamer.com.tw/Co.php?bsn=05219&sn=5351696)、[NGA](https://bbs.nga.cn/read.php?tid=4655386&rand=613) 也有教學。
 
 - [副本時間軸](https://wago.io/RaidAbilityTimeline)
 - [滑鼠位置](https://wago.io/HkjSU79zz)
@@ -31,13 +31,13 @@
 - [官網公會頁面](https://worldofwarcraft.com/zh-tw/guild/tw/lights-hope/bad-weather)
 - [伺服器狀態](https://worldofwarcraft.com/zh-tw/game/status)
 - [官方 YouTube 頻道](https://www.youtube.com/channel/UCgNBSxvqQMhVYBo-XSnmbqg)
-- [Icy Veins](http://www.icy-veins.com/wow/class-guides)：不會玩可以看這裡
+- [Icy Veins](https://www.icy-veins.com/wow/class-guides)：不會玩可以看這裡
 - [Subcreation](https://subcreation.net/)：查當前主流
 - [Bloodmallet](https://bloodmallet.com/)：選裝備
 - [Raidbots](https://www.raidbots.com/simbot)：跑模擬
-- [Wowhead 天賦模擬器](http://www.wowhead.com/talent-calc)
+- [Wowhead 天賦模擬器](https://www.wowhead.com/talent-calc)
 - [Wowhead 角色進度查詢](https://www.wowhead.com/attunement)
-- [Wowhead 塑形模擬器](http://www.wowhead.com/dressing-room)：小心，時間會不知不覺過去！
+- [Wowhead 塑形模擬器](https://www.wowhead.com/dressing-room)：小心，時間會不知不覺過去！
 
 ## 教學
 
