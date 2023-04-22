@@ -15,9 +15,17 @@
 
 ## 關於 10.1.0（下一個大改版）
 
+- **新團本和第二季賽季什麼時候開打？**
+
+    台服 5/4（四）改版，5/11（四）開放新團隊副本和第二賽季。
+    
+    在此附上官網對於[團隊副本](https://worldofwarcraft.blizzard.com/zh-tw/news/23935246/%E3%80%8E%E6%9C%A7%E5%BD%B1%E5%AF%A6%E9%A9%97%E5%A0%B4%E3%80%8F%E4%BA%9E%E8%B2%9D%E9%AD%AF%E6%96%AF%E5%9C%98%E9%9A%8A%E5%89%AF%E6%9C%AC%E9%A0%90%E8%A6%BD%E8%88%87%E6%99%82%E7%A8%8B)和[第二賽季](https://worldofwarcraft.blizzard.com/zh-tw/news/23935247/4-%E6%9C%88-21-%E6%97%A5%E6%9B%B4%E6%96%B0%E6%96%BC-5-%E6%9C%88-11-%E6%97%A5%E5%85%8B%E6%9C%8D%E5%B7%A8%E9%BE%8D%E5%B4%9B%E8%B5%B7%E7%AC%AC-2-%E5%AD%A3%E7%9A%84%E6%8C%91%E6%88%B0)的相關說明。
+
 - **聯盟跟部落在 10.1.0 可以同公會了？**
 
     聽說是，屆時本公會聯盟和部落的玩家就可以在同一個公會了！
+    
+    在此附上[官網說明](https://worldofwarcraft.blizzard.com/zh-tw/news/23934662/%E5%9C%A8%E8%B7%A8%E9%99%A3%E7%87%9F%E5%85%AC%E6%9C%83%E8%88%87%E6%9B%B4%E5%A4%9A%E5%A5%BD%E5%8F%8B%E4%B8%80%E8%B5%B7%E7%8E%A9%E9%81%8A%E6%88%B2)。
 
 ## 關於 10.0.7
 
