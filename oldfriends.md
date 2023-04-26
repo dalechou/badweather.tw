@@ -2,6 +2,7 @@
 
 歡迎回鍋！首先，下列連結是最新的官方資訊。
 
+- [地區預覽：發掘扎拉萊克洞窟的秘密](https://worldofwarcraft.blizzard.com/zh-tw/news/23934660/%E5%9C%B0%E5%8D%80%E9%A0%90%E8%A6%BD%E7%99%BC%E6%8E%98%E6%89%8E%E6%8B%89%E8%90%8A%E5%85%8B%E6%B4%9E%E7%AA%9F%E7%9A%84%E7%A7%98%E5%AF%86)
 - [開發中內容：搶先窺探《奈薩里奧的餘燼》](https://worldofwarcraft.blizzard.com/zh-tw/news/23923484/%E9%96%8B%E7%99%BC%E4%B8%AD%E5%85%A7%E5%AE%B9%E6%90%B6%E5%85%88%E7%AA%BA%E6%8E%A2%E5%A5%88%E8%96%A9%E9%87%8C%E5%A5%A7%E7%9A%84%E9%A4%98%E7%87%BC)
 - [《巨龍崛起》：重返禁忌之境](https://worldofwarcraft.blizzard.com/zh-tw/news/23923482/%E5%B7%A8%E9%BE%8D%E5%B4%9B%E8%B5%B7%E9%87%8D%E8%BF%94%E7%A6%81%E5%BF%8C%E4%B9%8B%E5%A2%83)
 - [《巨龍崛起》抬頭顯示器與使用者介面重製](https://worldofwarcraft.com/zh-tw/news/23841481/%E9%AD%94%E7%8D%B8%E4%B8%96%E7%95%8C%E5%B7%A8%E9%BE%8D%E5%B4%9B%E8%B5%B7%E6%8A%AC%E9%A0%AD%E9%A1%AF%E7%A4%BA%E5%99%A8%E8%88%87%E4%BD%BF%E7%94%A8%E8%80%85%E4%BB%8B%E9%9D%A2%E9%87%8D%E8%A3%BD)
@@ -14,6 +15,10 @@
 ---
 
 ## 關於 10.1.0（下一個大改版）
+
+- **聽說新版本有新的裝備升級系統，不再用勇氣了？**
+
+    沒錯，10.1.0 有全新的裝備升級系統取代勇氣升級系統，請見[巴哈姆特整理的資料](https://forum.gamer.com.tw/C.php?bsn=5219&snA=672409)。
 
 - **新團本和第二季賽季什麼時候開打？**
 
