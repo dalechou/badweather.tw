@@ -18,15 +18,15 @@
 | Darc <sup>團熊</sup> | 沐曦             | 湯姆傑利                 | 尹月狼           |
 |                      | 奈芙緹緹         | 起司厚牛堡               | Rikkua           |
 |                      | 魯苡             | **貓語者**               | 欸桑             |
-|                      | 龍鱗禦寒         | 辛蒂考爾                 | 銀華月魂         |
-|                      |                  | Fmlzhang <sup>拾取</sup> | 銀白龍貓鼠       |
-|                      |                  | **咩咩龍吶吶**           | 霜凍之楓         |
+|                      | 龍鱗禦寒         | Fmlzhang <sup>拾取</sup> | 銀華月魂         |
+|                      |                  | **咩咩龍吶吶**           | 銀白龍貓鼠       |
+|                      |                  |                          | 霜凍之楓         |
 |                      |                  |                          | Najma            |
 |                      |                  |                          | Littleyellow     |
 |                      |                  |                          | 腿長長小羚羊     |
 |                      |                  |                          | Cartier          |
 
-人數：25
+人數：24
 
 請長假：Najma
 
@@ -148,7 +148,7 @@
 
 | **成就**                       | **合照或影片剪輯**                                                                                                              | **拓荒次數**     |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
-| 領先群雄：龍隊指揮官沙卡瑞斯   |                                                                                                                                 |                  |
+| 領先群雄：龍隊指揮官沙卡瑞斯   | [榮耀瞬間](img_aotc_sarkareth_bear.jpg)、[合照](img_aotc_sarkareth_bear2.png)、[剪輯](https://www.twitch.tv/videos/1858922638)  | 20               |
 | 領先群雄：『噬風者』菈薩葛絲   | [榮耀瞬間](img_aotc_raszageth_bear.jpg)、[合照](img_aotc_raszageth_bear2.png)、[剪輯](https://www.twitch.tv/videos/1746774110)  | 40               |
 | 領先群雄：閻獄之主             | [榮耀瞬間](img_aotc_jailer_bear.jpg)、[合照](img_aotc_jailer_bear2.jpg)、[剪輯](https://www.twitch.tv/videos/1511957208)        | 112              |
 | 領先群雄：希瓦娜斯‧風行者     | [榮耀瞬間](img_aotc_sylvanas_bear.jpg)、[合照](img_aotc_sylvanas_bear2.jpg)、[剪輯](https://www.twitch.tv/videos/1176564219)    | 64               |
