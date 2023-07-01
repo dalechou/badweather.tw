@@ -2,6 +2,7 @@
 
 歡迎回鍋！首先，下列連結是最新的官方資訊。
 
+- [「時間問題」遊戲內動畫 |《巨龍崛起》|《魔獸世界》](https://youtu.be/Nxp7rC1yKlE)
 - [開發中：時光的裂痕](https://worldofwarcraft.blizzard.com/zh-tw/news/23951678/%E9%96%8B%E7%99%BC%E4%B8%AD%E6%99%82%E5%85%89%E7%9A%84%E8%A3%82%E7%97%95)
 - [《巨龍崛起》：「奈薩里奧的餘燼」內容更新說明現已上線！](https://worldofwarcraft.blizzard.com/zh-tw/news/23935248/%E5%B7%A8%E9%BE%8D%E5%B4%9B%E8%B5%B7%E3%80%8C%E5%A5%88%E8%96%A9%E9%87%8C%E5%A5%A7%E7%9A%84%E9%A4%98%E7%87%BC%E3%80%8D%E5%85%A7%E5%AE%B9%E6%9B%B4%E6%96%B0%E8%AA%AA%E6%98%8E%E7%8F%BE%E5%B7%B2%E4%B8%8A%E7%B7%9A%EF%BC%81)
 - [《巨龍崛起》抬頭顯示器與使用者介面重製](https://worldofwarcraft.com/zh-tw/news/23841481/%E9%AD%94%E7%8D%B8%E4%B8%96%E7%95%8C%E5%B7%A8%E9%BE%8D%E5%B4%9B%E8%B5%B7%E6%8A%AC%E9%A0%AD%E9%A1%AF%E7%A4%BA%E5%99%A8%E8%88%87%E4%BD%BF%E7%94%A8%E8%80%85%E4%BB%8B%E9%9D%A2%E9%87%8D%E8%A3%BD)
