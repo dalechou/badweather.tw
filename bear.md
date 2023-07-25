@@ -28,7 +28,7 @@
 
 人數：25
 
-請長假：Najma、魯苡、腿長長小羚羊、Littleyellow、Rikkua
+請長假：Najma、魯苡、腿長長小羚羊、Littleyellow、Rikkua、Fmlzhang
 
 ## 招募
 
