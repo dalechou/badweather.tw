@@ -1,5 +1,7 @@
 ## 公會語音
 
+![](img_badguild.png)
+
 很多[公會活動](activities.html)都會用到語音，請先下載 [Discord](https://discordapp.com/)（網頁版不好用），要用時比較方便。
 
 連結：[https://discord.gg/aQnfMvy](https://discord.gg/aQnfMvy)
