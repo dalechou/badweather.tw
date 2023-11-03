@@ -8,8 +8,6 @@
 | ----------------------- | -------------- | ------------- | --------------- |
 | 《魔獸兵團》            | N/A            | Bad Weather   | FluffyNana#4850 |
 | 《暗黑破壞神 IV》       | N/A            | Bad Weather   | dale#3350       |
-| 《暗黑破壞神 永生不朽》 | 喬森           | Bad Weather   | FluffyNana#4850 |
-| 《暗黑破壞神 III》      | 亞服           | Bad Weather   | dale#3350       |
 
 --- 
 
