@@ -14,7 +14,6 @@
 
 - `Bankruiter` 會階（以主要角色為主，分身視個人喜好）
 - "Bad Weather" Discord 伺服器橘色權限
-- "Bad Weather" Line 幹部討論群組
 
 另外，會倉整理人會獲得 Bad Weather Bank 倉庫公會權限。
 
@@ -91,6 +90,12 @@
 - [Guild Search](https://www.curseforge.com/wow/addons/guild-search)：這個工具可以搜尋註記，很好用，但因為操作框架很容易造成 [taint](https://forum.gamer.com.tw/Co.php?bsn=05219&sn=2498142)。建議找個分身裝就好，不要裝在常玩的角色。
 
 --- 
+
+## 尋找新幹部
+
+由於幹部人選和公會文化息息相關，處理會員事務會影響到許多人，幹部必須是維護公正良善環境，願意行動的人。為了維護多元價值，降低[迴聲室效應](https://zh.wikipedia.org/zh-tw/%E8%BF%B4%E8%81%B2%E5%AE%A4%E6%95%88%E6%87%89)和偏見，幹部人選應對公會文化有加成效果，而不只是和文化契合（[culture add v. culture fit](https://www.forbes.com/sites/shanesnow/2020/06/30/culture-add-the-antidote-to-culture-fit/)）。
+
+同樣，因為幹部對公會的重要性和影響力，**幹部不可以共用帳號**。這不只是因為伴隨帳號獲得的權限，還有聊天紀錄等隱私要考慮。會員和其他幹部需要能夠信賴帳號背後的人是同樣的人。
 
 ## 卸任
 
