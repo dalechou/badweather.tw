@@ -14,11 +14,13 @@
 
 ---
 
-## 關於 10.2.5
+## 關於 10.2.7
 
-- **聽說有新的角色自訂選項？**
+- **混搭再造：潘達利亞之謎是什麼？**
 
-    沒錯！請參考[官方網站相關文章](https://worldofwarcraft.blizzard.com/zh-tw/news/24038517/%E5%9C%A8%E5%BE%A9%E8%88%88%E4%B9%8B%E7%A8%AE%E4%B8%AD%E7%8D%B2%E5%8F%96%E5%85%A8%E6%96%B0%E8%A7%92%E8%89%B2%E8%87%AA%E8%A8%82%E9%81%B8%E9%A0%85)。
+    請見[官網文章](https://worldofwarcraft.blizzard.com/zh-tw/news/24092672/%E9%AD%94%E7%8D%B8%E4%B8%96%E7%95%8C%E6%B7%B7%E6%90%AD%E5%86%8D%E9%80%A0%E6%BD%98%E9%81%94%E5%88%A9%E4%BA%9E%E4%B9%8B%E8%AC%8E%E7%8F%BE%E5%B7%B2%E4%B8%8A%E7%B7%9A%EF%BC%81)！
+
+
 
 ## 關於 10.x
 
@@ -53,6 +55,10 @@
 - **請問半龍人喚能師的起始等級是多少？**
     
     58 級，這是英雄職業。
+
+- **聽說有新的角色自訂選項？**
+
+    沒錯！請參考[官方網站相關文章](https://worldofwarcraft.blizzard.com/zh-tw/news/24038517/%E5%9C%A8%E5%BE%A9%E8%88%88%E4%B9%8B%E7%A8%AE%E4%B8%AD%E7%8D%B2%E5%8F%96%E5%85%A8%E6%96%B0%E8%A7%92%E8%89%B2%E8%87%AA%E8%A8%82%E9%81%B8%E9%A0%85)。
 
 ---
 
