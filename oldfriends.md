@@ -2,6 +2,7 @@
 
 歡迎回鍋！首先，下列連結是最新的官方資訊。
 
+- [《黑龍祭-祈福之路》全記錄](https://www.youtube.com/watch?v=qo3yH7fJZ5c)
 - [《地心之戰》的英雄天賦](https://worldofwarcraft.blizzard.com/zh-tw/news/24038519/%E6%90%B6%E5%85%88%E4%B8%80%E7%AA%BA%E5%9C%B0%E5%BF%83%E4%B9%8B%E6%88%B0%E7%9A%84%E8%8B%B1%E9%9B%84%E5%A4%A9%E8%B3%A6)
 - [《魔獸世界®：地心之戰™》官方網站](https://thewarwithin.blizzard.com/zh-tw/)
 - [《魔獸世界》2024 展望](https://worldofwarcraft.blizzard.com/zh-tw/news/24046540/%E9%AD%94%E7%8D%B8%E4%B8%96%E7%95%8C%EF%BC%8D%E5%B1%95%E6%9C%9B-2024)
@@ -20,7 +21,7 @@
 
     請見[官網文章](https://worldofwarcraft.blizzard.com/zh-tw/news/24092672/%E9%AD%94%E7%8D%B8%E4%B8%96%E7%95%8C%E6%B7%B7%E6%90%AD%E5%86%8D%E9%80%A0%E6%BD%98%E9%81%94%E5%88%A9%E4%BA%9E%E4%B9%8B%E8%AC%8E%E7%8F%BE%E5%B7%B2%E4%B8%8A%E7%B7%9A%EF%BC%81)！
 
-
+    又，在「混搭再造：潘達利亞之謎」活動期間，公會開放混搭再造角色入公會，原本六個角色的分身上限暫時提升為七個，直到《地心之戰》前夕開始，再調整回六個角色。
 
 ## 關於 10.x
 
