@@ -2,9 +2,9 @@
 
 歡迎回鍋！首先，下列連結是最新的官方資訊。
 
+- [《魔獸世界®：地心之戰™》官方網站](https://thewarwithin.blizzard.com/zh-tw/)
 - [《黑龍祭-祈福之路》全記錄](https://www.youtube.com/watch?v=qo3yH7fJZ5c)
 - [《地心之戰》的英雄天賦](https://worldofwarcraft.blizzard.com/zh-tw/news/24038519/%E6%90%B6%E5%85%88%E4%B8%80%E7%AA%BA%E5%9C%B0%E5%BF%83%E4%B9%8B%E6%88%B0%E7%9A%84%E8%8B%B1%E9%9B%84%E5%A4%A9%E8%B3%A6)
-- [《魔獸世界®：地心之戰™》官方網站](https://thewarwithin.blizzard.com/zh-tw/)
 - [《魔獸世界》2024 展望](https://worldofwarcraft.blizzard.com/zh-tw/news/24046540/%E9%AD%94%E7%8D%B8%E4%B8%96%E7%95%8C%EF%BC%8D%E5%B1%95%E6%9C%9B-2024)
 - [《巨龍崛起》抬頭顯示器與使用者介面重製](https://worldofwarcraft.com/zh-tw/news/23841481/%E9%AD%94%E7%8D%B8%E4%B8%96%E7%95%8C%E5%B7%A8%E9%BE%8D%E5%B4%9B%E8%B5%B7%E6%8A%AC%E9%A0%AD%E9%A1%AF%E7%A4%BA%E5%99%A8%E8%88%87%E4%BD%BF%E7%94%A8%E8%80%85%E4%BB%8B%E9%9D%A2%E9%87%8D%E8%A3%BD)
 - [《巨龍崛起》更新你與飛龍騎術邁向全新高度的技能](https://worldofwarcraft.com/zh-tw/news/23818251/-8-%E6%9C%88-25-%E6%97%A5-%E6%9B%B4%E6%96%B0%E4%BD%A0%E8%88%87%E9%A3%9B%E9%BE%8D%E9%A8%8E%E8%A1%93%E9%82%81%E5%90%91%E5%85%A8%E6%96%B0%E9%AB%98%E5%BA%A6%E7%9A%84%E6%8A%80%E8%83%BD)
@@ -14,6 +14,12 @@
 - [官方新聞](https://worldofwarcraft.blizzard.com/zh-tw/news)
 
 ---
+
+## 關於 11.0
+
+- **新資料片什麼時候上市？**
+
+    [《魔獸世界®：地心之戰™》將於 8 月 27 日正式推出！ ](https://worldofwarcraft.blizzard.com/zh-tw/news/24107633/%E9%AD%94%E7%8D%B8%E4%B8%96%E7%95%8C%E5%9C%B0%E5%BF%83%E4%B9%8B%E6%88%B0%E2%84%A2%E5%B0%87%E6%96%BC-8-%E6%9C%88-27-%E6%97%A5%E6%AD%A3%E5%BC%8F%E6%8E%A8%E5%87%BA%EF%BC%81)
 
 ## 關於 10.2.7
 
