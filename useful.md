@@ -30,9 +30,10 @@
 
 - [公會頁面](https://worldofwarcraft.com/zh-tw/guild/tw/lights-hope/bad-weather)
 - [伺服器狀態](https://worldofwarcraft.com/zh-tw/game/status)
+- [官方新聞](https://worldofwarcraft.blizzard.com/zh-tw/news)
 - [官方頻道](https://www.youtube.com/channel/UCgNBSxvqQMhVYBo-XSnmbqg)
 - [Icy Veins](https://www.icy-veins.com/wow/class-guides)：不會玩可以看這裡
-- [Subcreation](https://subcreation.net/)：查當前主流
+- [Archon](https://www.archon.gg/wow)：查當前主流
 - [Bloodmallet](https://bloodmallet.com/)：選裝備
 - [Raidbots](https://www.raidbots.com/simbot)：跑模擬
 - [Wowhead 天賦模擬器](https://www.wowhead.com/talent-calc)
