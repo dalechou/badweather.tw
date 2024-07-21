@@ -14,7 +14,9 @@
 
 - **新資料片什麼時候上市？**
 
-    [《魔獸世界®：地心之戰™》將於 8 月 27 日正式推出！ ](https://worldofwarcraft.blizzard.com/zh-tw/news/24107633/%E9%AD%94%E7%8D%B8%E4%B8%96%E7%95%8C%E5%9C%B0%E5%BF%83%E4%B9%8B%E6%88%B0%E2%84%A2%E5%B0%87%E6%96%BC-8-%E6%9C%88-27-%E6%97%A5%E6%AD%A3%E5%BC%8F%E6%8E%A8%E5%87%BA%EF%BC%81)
+    前夕內容更新將在 7 月 25 日上線。
+
+    [《魔獸世界®：地心之戰™》將於 8 月 27 日正式推出！ ](https://worldofwarcraft.blizzard.com/zh-tw/news/24107633/%E9%AD%94%E7%8D%B8%E4%B8%96%E7%95%8C%E5%9C%B0%E5%BF%83%E4%B9%8B%E6%88%B0%E2%84%A2%E5%B0%87%E6%96%BC-8-%E6%9C%88-27-%E6%97%A5%E6%AD%A3%E5%BC%8F%E6%8E%A8%E5%87%BA%EF%BC%81)（如果有買史詩版則是 8 月 23 日）
 
 - **英雄天賦是什麼？**
 
