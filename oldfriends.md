@@ -22,13 +22,15 @@
 
     請參考[官方網站相關說明](https://worldofwarcraft.blizzard.com/zh-tw/news/24038519/%E6%90%B6%E5%85%88%E4%B8%80%E7%AA%BA%E5%9C%B0%E5%BF%83%E4%B9%8B%E6%88%B0%E7%9A%84%E8%8B%B1%E9%9B%84%E5%A4%A9%E8%B3%A6)。
 
+- **什麼是戰隊？聽說可以共享名望、成就、收藏等內容？**
+
+    請參考[官方網站相關說明](https://worldofwarcraft.blizzard.com/zh-tw/news/24061008/%E5%9C%B0%E5%BF%83%E4%B9%8B%E6%88%B0%E6%88%B0%E9%9A%8A%E9%A0%90%E8%A6%BD)。
+
 ## 關於 10.x
 
 - **混搭再造：潘達利亞之謎是什麼？**
 
     請見[官方網站相關說明](https://worldofwarcraft.blizzard.com/zh-tw/news/24092672/%E9%AD%94%E7%8D%B8%E4%B8%96%E7%95%8C%E6%B7%B7%E6%90%AD%E5%86%8D%E9%80%A0%E6%BD%98%E9%81%94%E5%88%A9%E4%BA%9E%E4%B9%8B%E8%AC%8E%E7%8F%BE%E5%B7%B2%E4%B8%8A%E7%B7%9A%EF%BC%81)！
-
-    **在「混搭再造：潘達利亞之謎」活動期間，公會開放混搭再造角色入公會**，原本六個角色的分身上限暫時提升為七個，直到《地心之戰》前夕開始，再調整回六個角色。
 
 - **要如何在巨龍群島使用一般坐騎？**
 
