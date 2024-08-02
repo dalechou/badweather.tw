@@ -2,9 +2,9 @@
 
 近期行程和出席報告如下。ʕᵔᴥᵔʔ
 
-| **日期**   | **預定行程**               | **請假或預計遲到**                                             |
-| ---------- | -------------------------- | -------------------------------------------------------------- |
-| 9/13（五） | 開始拓荒                   |                                                                |
+| **日期**   | **預定行程**           | **請假或預計遲到**                            |
+| ---------- | ---------------------- | --------------------------------------------- |
+| 9/13（五） | 開始拓荒               |                                               |
 
 **問卷調查結果是週五晚上出團。**
 
@@ -14,16 +14,16 @@
 
 請用名單上的角色出團。雙修專精會用**粗體字**標示。
 
-| **坦克**             | **補師**         | **遠程**                 | **近戰**         | **吟遊詩人**     |
-| -------------------- | ---------------- | ------------------------ | ---------------- | -----------------|
-| 先發制人             | 沙發破一個洞     | 湯姆傑利                 | Yinuo            | **咩咩龍吶吶**   |
-| Darc <sup>團熊</sup> | 沐心             | 龍協者黑爪               | 尹月狼           |                  |
-|                      | 奈芙緹緹         | 醬油苦瓜                 | Rikkua           |                  |
-|                      | 峇妲芭巴巴       | 泰坦爸爸                 | 欸桑             |                  |
-|                      | 貓瓜朋朋神牧     | 月華                     | 霜凍之楓         |                  |
-|                      |                  | 貓瓜朋朋冰法             | Cartier          |                  |
-|                      |                  |                          | 貓瓜大聰明       |                  |
-|                      |                  |                          | **Rawdk**        |                  |
+| **坦克**             | **補師**     | **遠程**     | **近戰**     | **吟遊詩人**    |
+| -------------------- | ------------ | ------------ | ------------ | ----------------|
+| 先發制人             | 沙發破一個洞 | 湯姆傑利     | Yinuo        | **咩咩龍吶吶**  |
+| Darc <sup>團熊</sup> | 沐心         | 龍協者黑爪   | 尹月狼       |                 |
+|                      | 奈芙緹緹     | 醬油苦瓜     | Rikkua       |                 |
+|                      | 峇妲芭巴巴   | 泰坦爸爸     | 欸桑         |                 |
+|                      | 娜菩媞菈     | 月華         | 霜凍之楓     |                 |
+|                      |              | Mugenmage    | Cartier      |                 |
+|                      |              |              | 貓瓜大聰明   |                 |
+|                      |              |              | **Raw**      |                 |
 
 人數：22
 
@@ -159,23 +159,23 @@
 
 團隊目標是英雄全通，拿到「領先群雄」成就。
 
-| **成就**                       | **合照或影片剪輯**                                                                                                              | **拓荒次數**     |
-| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| **成就**                       | **合照或影片剪輯**                                                                                                              | **拓荒次數** |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- | ------------ |
 | 領先群雄：安蘇芮克女王         | 榮耀瞬間、合照、剪輯 | |
-| 領先群雄：『熾炎者』菲拉卡     | [榮耀瞬間](img_aotc_fyrakk_bear.jpg)、[合照](img_aotc_fyrakk_bear2.jpg)、[剪輯](https://www.twitch.tv/videos/2016107149)        | 19               |
-| 領先群雄：龍隊指揮官沙卡瑞斯   | [榮耀瞬間](img_aotc_sarkareth_bear.jpg)、[合照](img_aotc_sarkareth_bear2.png)、[剪輯](https://www.twitch.tv/videos/1858922638)  | 20               |
-| 領先群雄：『噬風者』菈薩葛絲   | [榮耀瞬間](img_aotc_raszageth_bear.jpg)、[合照](img_aotc_raszageth_bear2.png)、[剪輯](https://www.twitch.tv/videos/1746774110)  | 40               |
-| 領先群雄：閻獄之主             | [榮耀瞬間](img_aotc_jailer_bear.jpg)、[合照](img_aotc_jailer_bear2.jpg)、[剪輯](https://www.twitch.tv/videos/1511957208)        | 112              |
-| 領先群雄：希瓦娜斯‧風行者     | [榮耀瞬間](img_aotc_sylvanas_bear.jpg)、[合照](img_aotc_sylvanas_bear2.jpg)、[剪輯](https://www.twitch.tv/videos/1176564219)    | 64               |
-| 領先群雄：戴納瑟斯王           | [榮耀瞬間](img_aotc_denathrius_bear.jpg)、[合照](img_aotc_denathrius_bear2.jpg)、[剪輯](https://www.twitch.tv/videos/945865869) | 63               |
-| 領先群雄：『腐化者』恩若司     | [合照](img_aotc_nzoth_thu.jpg)、[剪輯](https://www.twitch.tv/videos/587773572)                                                  | 12               |
-| 領先群雄：艾薩拉女王           | [榮耀瞬間](img_aotc_azshara_thu.jpg)、[合照](img_aotc_azshara_thu2.jpg)                                                         | 37               |
-| 領先群雄：『虛無使者』烏納特   | [合照](img_aotc_uunat_thu.jpg)、[魚頭](img_aotc_uunat_thu2.jpg)                                                                 | 55               |
-| 領先群雄：珍娜‧普勞德摩爾女士 | [合照](img_aotc_jaina_thu.jpg)、[GIF](img_aotc_jaina_thu.gif)                                                                   | 41               |
-| 領先群雄：古翰                 | [合照](img_aotc_ghuun_thu.jpg)                                                                                                  | 22               |
-| 領先群雄：滅界者阿古斯         | [合照](img_aotc_argus.jpg)                                                                                                      | N/A              |
-| 領先群雄：基爾加丹             | [忘了合照](img_aotc_kiljaeden.jpg)，[隨便傳一個](img_aotc_kiljaeden2.jpg)                                                       | N/A              |
-| 領先群雄：古爾丹               | [合照](img_aotc_guldan.jpg)                                                                                                     | N/A              |
+| 領先群雄：『熾炎者』菲拉卡     | [榮耀瞬間](img_aotc_fyrakk_bear.jpg)、[合照](img_aotc_fyrakk_bear2.jpg)、[剪輯](https://www.twitch.tv/videos/2016107149)        | 19           |
+| 領先群雄：龍隊指揮官沙卡瑞斯   | [榮耀瞬間](img_aotc_sarkareth_bear.jpg)、[合照](img_aotc_sarkareth_bear2.png)、[剪輯](https://www.twitch.tv/videos/1858922638)  | 20           |
+| 領先群雄：『噬風者』菈薩葛絲   | [榮耀瞬間](img_aotc_raszageth_bear.jpg)、[合照](img_aotc_raszageth_bear2.png)、[剪輯](https://www.twitch.tv/videos/1746774110)  | 40           |
+| 領先群雄：閻獄之主             | [榮耀瞬間](img_aotc_jailer_bear.jpg)、[合照](img_aotc_jailer_bear2.jpg)、[剪輯](https://www.twitch.tv/videos/1511957208)        | 112          |
+| 領先群雄：希瓦娜斯‧風行者     | [榮耀瞬間](img_aotc_sylvanas_bear.jpg)、[合照](img_aotc_sylvanas_bear2.jpg)、[剪輯](https://www.twitch.tv/videos/1176564219)    | 64           |
+| 領先群雄：戴納瑟斯王           | [榮耀瞬間](img_aotc_denathrius_bear.jpg)、[合照](img_aotc_denathrius_bear2.jpg)、[剪輯](https://www.twitch.tv/videos/945865869) | 63           |
+| 領先群雄：『腐化者』恩若司     | [合照](img_aotc_nzoth_thu.jpg)、[剪輯](https://www.twitch.tv/videos/587773572)                                                  | 12           |
+| 領先群雄：艾薩拉女王           | [榮耀瞬間](img_aotc_azshara_thu.jpg)、[合照](img_aotc_azshara_thu2.jpg)                                                         | 37           |
+| 領先群雄：『虛無使者』烏納特   | [合照](img_aotc_uunat_thu.jpg)、[魚頭](img_aotc_uunat_thu2.jpg)                                                                 | 55           |
+| 領先群雄：珍娜‧普勞德摩爾女士 | [合照](img_aotc_jaina_thu.jpg)、[GIF](img_aotc_jaina_thu.gif)                                                                   | 41           |
+| 領先群雄：古翰                 | [合照](img_aotc_ghuun_thu.jpg)                                                                                                  | 22           |
+| 領先群雄：滅界者阿古斯         | [合照](img_aotc_argus.jpg)                                                                                                      | n/a          |
+| 領先群雄：基爾加丹             | [忘了合照](img_aotc_kiljaeden.jpg)，[隨便傳一個](img_aotc_kiljaeden2.jpg)                                                       | n/a          |
+| 領先群雄：古爾丹               | [合照](img_aotc_guldan.jpg)                                                                                                     | n/a          |
 
 ---
 
