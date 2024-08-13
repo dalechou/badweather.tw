@@ -42,6 +42,7 @@
 
 ## 教學
 
+- [10.2 以後的魔獸幀數相關圖像設置](https://nga.178.com/read.php?tid=39562389)（NGA 教學文）
 - [談顯示設定優化](https://forum.gamer.com.tw/Co.php?bsn=05219&sn=5266501)
 
 ## 很專心做教學內容的實況主
