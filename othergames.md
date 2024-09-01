@@ -9,6 +9,8 @@
 | 《魔獸兵團》            | N/A        | Bad Weather   | FluffyNana#4850、秋雪#3999 |
 | 《暗黑破壞神 IV》       | N/A        | Bad Weather   | dale#3350                  |
 
+也可以透過[公會語音](https://badweather.tw/voicechat.html)找到人一起玩。
+
 --- 
 
 請[點此](index.html)回目錄。
