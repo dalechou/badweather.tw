@@ -1,6 +1,6 @@
 ## 插件：副本
 
-《魔獸世界》的遊戲體驗可以透過玩家開發的插件改善。目前最主流的插件網站是 [CurseForge](https://www.curseforge.com/wow/addons)，可以在這裡下載插件，手動安裝。
+《魔獸世界》的遊戲體驗可以透過玩家開發的插件改善。目前主流的插件網站是 [CurseForge](https://www.curseforge.com/wow/addons)，可以在這裡下載插件，手動安裝。
 
 如果覺得手動更新插件很麻煩，可以用 [CurseForge](https://download.curseforge.com/) 軟體管理插件。請記得下拉畫面，選擇正確的安裝版本，不要裝到 Overwolf。
 
@@ -33,7 +33,7 @@
 - [官方新聞](https://worldofwarcraft.blizzard.com/zh-tw/news)
 - [官方頻道](https://www.youtube.com/channel/UCgNBSxvqQMhVYBo-XSnmbqg)
 - [Icy Veins](https://www.icy-veins.com/wow/class-guides)：不會玩可以看這裡
-- [Archon](https://www.archon.gg/wow)：查當前主流
+- [Maxroll](https://maxroll.gg/wow/class-guides)：查當前主流
 - [Bloodmallet](https://bloodmallet.com/)：選裝備
 - [Raidbots](https://www.raidbots.com/simbot)：跑模擬
 - [Wowhead 天賦模擬器](https://www.wowhead.com/talent-calc)
