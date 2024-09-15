@@ -1,2 +1,2 @@
 # badweather.tw
-<Bad Weather> @ Light's Hope (TW) guild site
+Bad Weather guild site
