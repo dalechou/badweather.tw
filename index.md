@@ -1,6 +1,6 @@
-![](img_badweather.png)
-
 # Bad Weather
+
+![](img_badweather.png)
 
 我們是 _Bad Weather_ 公會。
 
