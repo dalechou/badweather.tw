@@ -1,3 +1,7 @@
+[首頁](index.html) | [公會須知](guidelines.html) | [新手資訊](newbies.html) | [回鍋資訊](oldfriends.html) | [會階](ranks.html) | [收人規則](recruitment.html) | [團隊活動](raid.html) | [公會活動](activities.html) | [公會語音](voicechat.html) | [插件和網路資源](useful.html)
+
+---
+
 ## 前言
 
 我們公會經歷了不少公會幹部。有些人的付出很明顯，改變了公會的運作方式；有些人善居幕後，以隱晦的方式付出。大致回顧，所有人都對公會有正面的影響，這是幸運，然而公會的長期發展卻不能只依賴幸運。
@@ -107,6 +111,6 @@
 
 ---
 
-請[點此](index.html)回目錄。
+請[點此](index.html)回首頁。
 
 文件變更請參考[公開紀錄](https://github.com/dalechou/badweather.tw/commits/master/onboarding.md)，不會另外公告。

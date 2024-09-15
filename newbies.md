@@ -1,3 +1,7 @@
+[首頁](index.html) | [公會須知](guidelines.html) | 新手資訊 | [回鍋資訊](oldfriends.html) | [會階](ranks.html) | [收人規則](recruitment.html) | [團隊活動](raid.html) | [公會活動](activities.html) | [公會語音](voicechat.html) | [插件和網路資源](useful.html)
+
+---
+
 ## 嗨，可口的新手
 
 歡迎你來艾澤拉斯冒險。
@@ -54,6 +58,6 @@
 
 ---
 
-請[點此](index.html)回目錄。
+請[點此](index.html)回首頁。
 
 文件變更請參考[公開紀錄](https://github.com/dalechou/badweather.tw/commits/master/newbies.md)，不會另外公告。

@@ -1,3 +1,7 @@
+[首頁](index.html) | [公會須知](guidelines.html) | [新手資訊](newbies.html) | [回鍋資訊](oldfriends.html) | [會階](ranks.html) | 收人規則 | [團隊活動](raid.html) | [公會活動](activities.html) | [公會語音](voicechat.html) | [插件和網路資源](useful.html)
+
+---
+
 ## 收人規則
 
 由於公會已經發生過數件跟蹤或騷擾事件，請大家一起保護公會成員。
@@ -47,6 +51,6 @@
 
 --- 
 
-請[點此](index.html)回目錄。
+請[點此](index.html)回首頁。
 
 文件變更請參考[公開紀錄](https://github.com/dalechou/badweather.tw/commits/master/recruitment.md)，不會另外公告。

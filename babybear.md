@@ -1,3 +1,7 @@
+[首頁](index.html) | [公會須知](guidelines.html) | [新手資訊](newbies.html) | [回鍋資訊](oldfriends.html) | [會階](ranks.html) | [收人規則](recruitment.html) | [團隊活動](raid.html) | [公會活動](activities.html) | [公會語音](voicechat.html) | [插件和網路資源](useful.html)
+
+---
+
 ## 團隊活動：熊寶寶團
 
 這是新手教學團，以培養興趣為目標。希望可以成為新手的第一個團，大家都能享受一起玩的樂趣。
@@ -81,6 +85,6 @@
 
 有事請找團長。
 
-請[點此](index.html)回目錄。
+請[點此](index.html)回首頁。
 
 文件變更請參考[公開紀錄](https://github.com/dalechou/badweather.tw/commits/master/babybear.md)，不會另外公告。

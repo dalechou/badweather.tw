@@ -1,3 +1,7 @@
+[首頁](index.html) | [公會須知](guidelines.html) | [新手資訊](newbies.html) | [回鍋資訊](oldfriends.html) | [會階](ranks.html) | [收人規則](recruitment.html) | [團隊活動](raid.html) | [公會活動](activities.html) | [公會語音](voicechat.html) | 插件和網路資源
+
+---
+
 ## 插件：副本
 
 《魔獸世界》的遊戲體驗可以透過玩家開發的插件改善。目前主流的插件網站是 [CurseForge](https://www.curseforge.com/wow/addons)，可以在這裡下載插件，手動安裝。
@@ -51,6 +55,6 @@
 
 --- 
 
-請[點此](index.html)回目錄。
+請[點此](index.html)回首頁。
 
 文件變更請參考[公開紀錄](https://github.com/dalechou/badweather.tw/commits/master/useful.md)，不會另外公告。

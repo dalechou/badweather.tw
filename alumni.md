@@ -1,3 +1,7 @@
+[首頁](index.html) | [公會須知](guidelines.html) | [新手資訊](newbies.html) | [回鍋資訊](oldfriends.html) | [會階](ranks.html) | [收人規則](recruitment.html) | [團隊活動](raid.html) | [公會活動](activities.html) | [公會語音](voicechat.html) | [插件和網路資源](useful.html)
+
+---
+
 ## 歷任幹部
 
 經營公會需要考慮各式各樣的事，除了把一群人凝聚起來，還需要妥善的管理和公平的制度。
@@ -22,6 +26,6 @@
 
 --- 
 
-請[點此](index.html)回目錄。
+請[點此](index.html)回首頁。
 
 文件變更請參考[公開紀錄](https://github.com/dalechou/badweather.tw/commits/master/alumni.md)，不會另外公告。

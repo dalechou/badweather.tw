@@ -1,3 +1,7 @@
+[首頁](index.html) | [公會須知](guidelines.html) | [新手資訊](newbies.html) | [回鍋資訊](oldfriends.html) | [會階](ranks.html) | [收人規則](recruitment.html) | [團隊活動](raid.html) | [公會活動](activities.html) | 公會語音 | [插件和網路資源](useful.html)
+
+---
+
 ## 公會語音
 
 ![](img_badguild.png)
@@ -20,6 +24,6 @@
 
 ---
 
-請[點此](index.html)回目錄。
+請[點此](index.html)回首頁。
 
 文件變更請參考[公開紀錄](https://github.com/dalechou/badweather.tw/commits/master/voicechat.md)，不會另外公告。

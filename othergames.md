@@ -1,3 +1,7 @@
+[首頁](index.html) | [公會須知](guidelines.html) | [新手資訊](newbies.html) | [回鍋資訊](oldfriends.html) | [會階](ranks.html) | [收人規則](recruitment.html) | [團隊活動](raid.html) | [公會活動](activities.html) | [公會語音](voicechat.html) | [插件和網路資源](useful.html)
+
+---
+
 ## 其他遊戲
 
 《魔獸世界》玩久了，總會碰碰其他遊戲，到處看看。我們喜歡一起玩，有時候會在其他遊戲創立類似公會的組織。
@@ -13,6 +17,6 @@
 
 --- 
 
-請[點此](index.html)回目錄。
+請[點此](index.html)回首頁。
 
 文件變更請參考[公開紀錄](https://github.com/dalechou/badweather.tw/commits/master/othergames.md)，不會另外公告。
