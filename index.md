@@ -1,6 +1,6 @@
-# Bad Weather
-
 ![](img_badweather.png)
+
+# Bad Weather
 
 我們是 Bad Weather 公會。無論是聯盟或部落，我們都歡迎！
 
