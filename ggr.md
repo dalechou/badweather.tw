@@ -5,6 +5,14 @@
 
 ## 偉大的諾姆瑞根路跑
 
+![](img_greatgnomereganrun_2024-00.jpg)
+
+![](img_greatgnomereganrun_2024-01.jpg)
+
+![](img_greatgnomereganrun_2024-02.jpg)
+
+2024 路跑，在巨大伊諾的追趕之下，所有小地精都非常努力地奔（逃？）向藏寶海灣！這是第一次路跑改辦在週六午後，有許多地精昏昏沉沉在諾姆瑞根午睡沒有出發。感謝 Yinuo 和肥貓法師一路捍衛地精的地生，也謝謝所有一起跑跑的地精！
+
 ![](img_greatgnomereganrun_2023-00.jpg)
 
 ![](img_greatgnomereganrun_2023-01.png)
