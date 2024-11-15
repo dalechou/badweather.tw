@@ -3,6 +3,12 @@
 
 ---
 
+## 奈幽巴團隊高手的榮耀
+
+![](img_nerub-arraider_bear.jpg)
+
+一起解奈幽巴團隊高手的榮耀，這次的坐騎是奇怪的吸血生物！
+
 ## 夢境團隊高手的榮耀
 
 ![](img_dreamraider_bear.jpg)
