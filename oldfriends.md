@@ -9,7 +9,6 @@
 
 - [一同慶祝《魔獸世界®》20 週年！](https://worldofwarcraft.blizzard.com/zh-tw/news/24136212/%E4%B8%80%E5%90%8C%E6%85%B6%E7%A5%9D%E9%AD%94%E7%8D%B8%E4%B8%96%E7%95%8C20-%E9%80%B1%E5%B9%B4%EF%BC%81)
 - [《魔獸世界®：地心之戰™》官方網站](https://thewarwithin.blizzard.com/zh-tw/)
-- [《魔獸世界》2024 展望](https://worldofwarcraft.blizzard.com/zh-tw/news/24046540/%E9%AD%94%E7%8D%B8%E4%B8%96%E7%95%8C%EF%BC%8D%E5%B1%95%E6%9C%9B-2024)
 - [回歸用戶指南](https://worldofwarcraft.com/zh-tw/return)
 - [官方新聞](https://worldofwarcraft.blizzard.com/zh-tw/news)
 - [官方頻道](https://www.youtube.com/@TWworldofwarcraft/videos)
@@ -17,6 +16,8 @@
 ---
 
 公會成員 Norc 也整理了[第一賽季資訊](https://jumbled-paneer-676.notion.site/11-0-S1-e57b26b4dcfc4d119a923502ef0ec53a)。
+
+如果對接下來的內容有興趣，Warcraft Direct 已經公布了 [2025 Roadmap](https://www.wowhead.com/news/world-of-warcraft-2025-roadmap-revealed-the-war-within-and-midnight-expansions-350503#world-of-warcraft-2025-roadmap)。
 
 ---
 
