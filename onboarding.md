@@ -18,7 +18,7 @@
 公會幹部應依工作內容獲得下列權限。
 
 - `Bankruiter` 會階（以主要角色為主，分身視個人喜好）
-- "Bad Weather" Discord 伺服器橘色權限
+- 'Bad Weather' Discord 伺服器橘色權限
 
 另外，會倉整理人會獲得 Bad Weather Bank 倉庫公會權限。
 
