@@ -7,6 +7,7 @@
 
 歡迎回鍋！首先，下列連結是最新的官方資訊。
 
+- [在艾澤拉斯打造家園：搶先一窺房屋功能](https://news.blizzard.com/zh-tw/article/24176592/%E5%9C%A8%E8%89%BE%E6%BE%A4%E6%8B%89%E6%96%AF%E6%89%93%E9%80%A0%E5%AE%B6%E5%9C%92%EF%BC%9A%E6%90%B6%E5%85%88%E4%B8%80%E7%AA%BA%E6%88%BF%E5%B1%8B%E5%8A%9F%E8%83%BD)
 - [回應海妖島的呼喚──現已推出！](https://worldofwarcraft.blizzard.com/zh-tw/news/24165119)
 - [一同慶祝《魔獸世界®》20 週年！](https://worldofwarcraft.blizzard.com/zh-tw/news/24136212/%E4%B8%80%E5%90%8C%E6%85%B6%E7%A5%9D%E9%AD%94%E7%8D%B8%E4%B8%96%E7%95%8C20-%E9%80%B1%E5%B9%B4%EF%BC%81)
 - [《魔獸世界®：地心之戰™》官方網站](https://thewarwithin.blizzard.com/zh-tw/)
