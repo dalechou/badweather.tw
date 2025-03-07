@@ -23,7 +23,7 @@
 | Cartier       | 齁咪呀                     | 醬油苦瓜             | 霜凍之楓     |
 |               | Paimia                     | 泰坦爸爸             | **Raw**      |
 |               | 葛潔爾                     | 卡特皮勒斯           | 銀華月魂     |
-|               |                            | Oriontsai            | 銀白龍貓鼠/Ursula |
+|               |                            | Oriontsai            | Ursula       |
 |               |                            | 月穹狼龍             | Rogrigus     |
 |               |                            | Darc <sup>團熊</sup> |              |
 |               |                            | 鮪魚水手             |              |
