@@ -7,6 +7,8 @@
 
 歡迎回鍋！首先，下列連結是最新的官方資訊。
 
+- [艾澤拉斯之美：房屋內部設計詳解](https://worldofwarcraft.blizzard.com/zh-tw/news/24186690)
+- [BlizzCon 將於 2026 年隆重回歸](https://news.blizzard.com/zh-tw/article/24178650/blizzcon-2026)
 - [《小心幽坑》內容更新將於 2 月 27 日發布](https://worldofwarcraft.blizzard.com/zh-tw/news/24178759/%E5%B0%8F%E5%BF%83%E5%B9%BD%E5%9D%91%E5%85%A7%E5%AE%B9%E6%9B%B4%E6%96%B0%E5%B0%87%E6%96%BC-2-%E6%9C%88-27-%E6%97%A5%E7%99%BC%E5%B8%83)
 - [地心之戰第 2 賽季將在 3 月 6 日開跑](https://worldofwarcraft.blizzard.com/zh-tw/news/24177506/%E5%9C%B0%E5%BF%83%E4%B9%8B%E6%88%B0%E7%AC%AC-2-%E8%B3%BD%E5%AD%A3%E5%B0%87%E5%9C%A8-3-%E6%9C%88-6-%E6%97%A5%E9%96%8B%E8%B7%91)
 - [2025 年的《魔獸世界》未來展望](https://worldofwarcraft.blizzard.com/zh-tw/news/24174878)
