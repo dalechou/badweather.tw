@@ -27,12 +27,12 @@
 |               | 葛潔爾                     | 卡特皮勒斯           | 銀華月魂     |
 |               |                            | Oriontsai            | 銀白龍貓鼠   |
 |               |                            | 月穹狼龍             | Mackenzie    |
-|               |                            | Darc <sup>團熊</sup> |              |
+|               |                            | Darc <sup>團熊</sup> | 雨後之月     |
 |               |                            | 鮪魚水手             |              |
 |               |                            | 雪舞                 |              |
 |               |                            | 熊熊貝爾             |              |
 
-人數：22
+人數：23
 
 ## 招募
 
@@ -167,7 +167,8 @@
 
 | **成就**                       | **合照或影片剪輯**                                                                                                              | **拓荒次數** |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| 領先群雄：安蘇芮克女王         | [合照](img_aotc_ansurek_bear.png)、[剪輯](https://www.twitch.tv/videos/2296735261) | 66 |
+| 領先群雄：閃亮亮大王加里維克斯 | 榮耀瞬間、合照、剪輯                                                                                                            |              |
+| 領先群雄：安蘇芮克女王         | [合照](img_aotc_ansurek_bear.png)、[剪輯](https://www.twitch.tv/videos/2296735261)                                              | 66           |
 | 領先群雄：『熾炎者』菲拉卡     | [榮耀瞬間](img_aotc_fyrakk_bear.jpg)、[合照](img_aotc_fyrakk_bear2.jpg)、[剪輯](https://www.twitch.tv/videos/2016107149)        | 19           |
 | 領先群雄：龍隊指揮官沙卡瑞斯   | [榮耀瞬間](img_aotc_sarkareth_bear.jpg)、[合照](img_aotc_sarkareth_bear2.png)、[剪輯](https://www.twitch.tv/videos/1858922638)  | 20           |
 | 領先群雄：『噬風者』菈薩葛絲   | [榮耀瞬間](img_aotc_raszageth_bear.jpg)、[合照](img_aotc_raszageth_bear2.png)、[剪輯](https://www.twitch.tv/videos/1746774110)  | 40           |
