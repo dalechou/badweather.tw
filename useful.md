@@ -36,14 +36,15 @@
 - [公會頁面](https://worldofwarcraft.com/zh-tw/guild/tw/lights-hope/bad-weather)
 - [伺服器狀態](https://worldofwarcraft.com/zh-tw/game/status)
 - [官方新聞](https://worldofwarcraft.blizzard.com/zh-tw/news)
-- [官方頻道](https://www.youtube.com/channel/UCgNBSxvqQMhVYBo-XSnmbqg)
+- [官方頻道](https://www.youtube.com/@TWworldofwarcraft/videos)
+- [Wowhead](https://www.wowhead.com/tw)：魔獸小百科
+- [Wowhead 天賦模擬器](https://www.wowhead.com/tw/talent-calc)
+- [Wowhead 角色進度查詢](https://www.wowhead.com/tw/attunement)
+- [Wowhead 塑形模擬器](https://www.wowhead.com/tw/dressing-room)：小心，時間會不知不覺過去！
 - [Icy Veins](https://www.icy-veins.com/wow/class-guides)：不會玩可以看這裡
 - [Maxroll](https://maxroll.gg/wow/class-guides)：查當前主流
 - [Bloodmallet](https://bloodmallet.com/)：選裝備
 - [Raidbots](https://www.raidbots.com/simbot)：跑模擬
-- [Wowhead 天賦模擬器](https://www.wowhead.com/talent-calc)
-- [Wowhead 角色進度查詢](https://www.wowhead.com/attunement)
-- [Wowhead 塑形模擬器](https://www.wowhead.com/dressing-room)：小心，時間會不知不覺過去！
 
 ## 教學
 

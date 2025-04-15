@@ -174,11 +174,7 @@
 
 - **關於職業坐騎的任務起點在哪裡？**
 
-    請完成「[輝煌的戰役](https://www.wowhead.com/achievement=10994/a-glorious-campaign)」、「[軍團之殞勇士](https://www.wowhead.com/achievement=11846/champions-of-legionfall)」、「[突破古墓](https://www.wowhead.com/achievement=11546/breaching-the-tomb)」等三項成就。「突破古墓」是帳號共通成就，所以只需要完成一次。
-
-- **永夜聖殿副本怎麼進，有什麼前置任務？**
-
-    完成「[軍團之殞物資](https://www.wowhead.com/quest=46286/legionfall-supplies)」和「[神盾祭壇](https://www.wowhead.com/quest=46244/cathedral-of-eternal-night-altar-of-the-aegis)」就可以進去了。
+    請完成「[輝煌的戰役](https://www.wowhead.com/tw/achievement=10994/a-glorious-campaign)」、「[軍團之殞勇士](https://www.wowhead.com/tw/achievement=11846/champions-of-legionfall)」、「[突破古墓](https://www.wowhead.com/tw/achievement=11546/breaching-the-tomb)」等三項成就。「突破古墓」是帳號共通成就，所以只需要完成一次。
 
 ---
 
