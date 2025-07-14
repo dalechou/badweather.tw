@@ -7,6 +7,7 @@
 
 歡迎回鍋！首先，下列連結是最新的官方資訊。
 
+- [準備迎接《地心之戰》第 3 賽季，將於 8 月 7 日登場](https://worldofwarcraft.blizzard.com/zh-tw/news/24215413/%E6%BA%96%E5%82%99%E8%BF%8E%E6%8E%A5%E5%9C%B0%E5%BF%83%E4%B9%8B%E6%88%B0%E7%AC%AC-3-%E8%B3%BD%E5%AD%A3%EF%BC%8C%E5%B0%87%E6%96%BC-8-%E6%9C%88-7-%E6%97%A5%E7%99%BB%E5%A0%B4)
 - [阿拉索的傳承將在 6 月 19 日推出！](https://worldofwarcraft.blizzard.com/zh-tw/news/24206349/%E9%98%BF%E6%8B%89%E7%B4%A2%E7%9A%84%E5%82%B3%E6%89%BF%E5%B0%87%E5%9C%A8-6-%E6%9C%88-19-%E6%97%A5%E6%8E%A8%E5%87%BA%EF%BC%81)
 - [《魔獸世界®：地心之戰™》官方網站](https://thewarwithin.blizzard.com/zh-tw/)
 - [回歸用戶指南](https://worldofwarcraft.com/zh-tw/return)
@@ -19,7 +20,7 @@
 
 - **聽說以後有玩家小屋？！**
 
-    沒錯，請參考[在艾澤拉斯打造家園：搶先一窺房屋功能](https://news.blizzard.com/zh-tw/article/24176592/%E5%9C%A8%E8%89%BE%E6%BE%A4%E6%8B%89%E6%96%AF%E6%89%93%E9%80%A0%E5%AE%B6%E5%9C%92%EF%BC%9A%E6%90%B6%E5%85%88%E4%B8%80%E7%AA%BA%E6%88%BF%E5%B1%8B%E5%8A%9F%E8%83%BD)和[艾澤拉斯之美：房屋內部設計詳解](https://worldofwarcraft.blizzard.com/zh-tw/news/24186690)這兩篇文章。
+    沒錯，請參考[魔獸世界房屋：和好厝邊相見歡](https://worldofwarcraft.blizzard.com/zh-tw/news/24221516)、[在艾澤拉斯打造家園：搶先一窺房屋功能](https://news.blizzard.com/zh-tw/article/24176592/%E5%9C%A8%E8%89%BE%E6%BE%A4%E6%8B%89%E6%96%AF%E6%89%93%E9%80%A0%E5%AE%B6%E5%9C%92%EF%BC%9A%E6%90%B6%E5%85%88%E4%B8%80%E7%AA%BA%E6%88%BF%E5%B1%8B%E5%8A%9F%E8%83%BD)和[艾澤拉斯之美：房屋內部設計詳解](https://worldofwarcraft.blizzard.com/zh-tw/news/24186690)等介紹文章。
 
 - **以後還會有 BlizzCon 嗎？**
 
