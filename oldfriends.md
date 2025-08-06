@@ -7,8 +7,10 @@
 
 歡迎回鍋！首先，下列連結是最新的官方資訊。
 
+- [凱瑞西之魂內容更新說明](https://worldofwarcraft.blizzard.com/zh-tw/news/24226698/%E5%87%B1%E7%91%9E%E8%A5%BF%E4%B9%8B%E9%AD%82%E5%85%A7%E5%AE%B9%E6%9B%B4%E6%96%B0%E8%AA%AA%E6%98%8E)
+- [獲取瑞西纏帶、進行相位深潛並體驗更多內容！](https://worldofwarcraft.blizzard.com/zh-tw/news/24227050/)
+- [《地心之戰》：「凱瑞西之魂」將在 8 月 7 日正式推出！](https://worldofwarcraft.blizzard.com/zh-tw/news/24226730)
 - [準備迎接《地心之戰》第 3 賽季，將於 8 月 7 日登場](https://worldofwarcraft.blizzard.com/zh-tw/news/24215413/%E6%BA%96%E5%82%99%E8%BF%8E%E6%8E%A5%E5%9C%B0%E5%BF%83%E4%B9%8B%E6%88%B0%E7%AC%AC-3-%E8%B3%BD%E5%AD%A3%EF%BC%8C%E5%B0%87%E6%96%BC-8-%E6%9C%88-7-%E6%97%A5%E7%99%BB%E5%A0%B4)
-- [阿拉索的傳承將在 6 月 19 日推出！](https://worldofwarcraft.blizzard.com/zh-tw/news/24206349/%E9%98%BF%E6%8B%89%E7%B4%A2%E7%9A%84%E5%82%B3%E6%89%BF%E5%B0%87%E5%9C%A8-6-%E6%9C%88-19-%E6%97%A5%E6%8E%A8%E5%87%BA%EF%BC%81)
 - [《魔獸世界®：地心之戰™》官方網站](https://thewarwithin.blizzard.com/zh-tw/)
 - [回歸用戶指南](https://worldofwarcraft.com/zh-tw/return)
 - [官方新聞](https://worldofwarcraft.blizzard.com/zh-tw/news)
