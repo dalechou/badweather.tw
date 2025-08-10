@@ -43,7 +43,7 @@
 ## 紀錄
 
 - WCL：[近期](https://www.warcraftlogs.com/guild/reports-list/269517)、[早期](https://www.warcraftlogs.com/user/reports-list/302729/)
-- Lazyraiders: [趴熊團](https://badweather.tw/bear/index.html)
+- Lazyraiders: [趴熊團](https://badweather.tw/bear/index.html)（資料來源是 Raider.IO，不一定會即時更新）
 - 實況：[Twitch](https://www.twitch.tv/dalechou/videos)
 
 --- 
