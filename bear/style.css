@@ -1,0 +1,61 @@
+/* Add Google Fonts Link */
+@import url('https://fonts.googleapis.com/css2?family=Iansui&display=swap');
+
+body {
+    font-family: 'Iansui', cursive;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #121212; /* dark background */
+    color: #dcdcdc; /* light grey text */
+}
+
+h1 {
+    text-align: left;
+    color: #8fbc8f; /* mellow green */
+    margin-left: 20px;
+    font-size: 2.5rem; /* larger font size */
+}
+
+p {
+    text-align: left;
+    color: #8fbc8f;
+    margin-left: 20px;
+    font-size: 1.5rem;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 1.2rem; /* larger font size */
+    text-align: left;
+    background-color: #1e1e1e; /* dark background */
+    border: 2px solid #444; /* dark grey border */
+    border-radius: 10px; /* rounded corners */
+}
+
+th, td {
+    padding: 15px; /* increase padding */
+    border-bottom: 1px solid #333; /* dark grey border */
+}
+
+th {
+    background-color: #8fbc8f; /* same mellow green as the heading */
+    color: #121212; /* dark text */
+}
+
+tr:hover {
+    background-color: #8fbc8f; /* same mellow green as the heading */
+    color: #121212; /* dark text */
+}
+
+@media (max-width: 600px) {
+    table {
+        font-size: 1rem; /* adjust font size for smaller screens */
+    }
+
+    th, td {
+        padding: 10px; /* adjust padding for smaller screens */
+    }
+}

@@ -24,23 +24,26 @@
 |               | 胖胖虎                     | 泰坦爸爸             | 銀華月魂     |
 |               | 葛潔爾                     | 卡特皮勒斯           | Ursula       |
 |               | 慕斯丸                     | Oriontsai            | 雨後之月     |
-|               |                            | 月穹狼龍             | 鮪魚某種近戰 |
+|               | **咩咩龍吶吶**             | 月穹狼龍             | 鮪魚船長     |
 |               |                            | Darc <sup>團熊</sup> | 先發         |
-|               |                            | 雪舞                 |              |
-|               |                            | 起司厚牛堡           |              |
-|               |                            | 煙消雲散             |              |
+|               |                            | 起司厚牛堡           | **瑤熙**     |
+|               |                            | 煙消雲散？           |              |
+|               |                            | 龍協者黑爪           |              |
+|               |                            | 神聖慕夏             |              |
+|               |                            | 最後登場的神秘人？   |              |
 
-人數：24
+人數：28
 
 ## 招募
 
-如果既有團員有朋友想來或老團員想回鍋，我們還有 1-2 個位子，團長會在開始拓荒前確認名單。
+滿！
 
 --- 
 
 ## 紀錄
 
-- WCL：[公會](https://www.warcraftlogs.com/guild/reports-list/269517)（近期）、[團長](https://www.warcraftlogs.com/user/reports-list/302729/)（早期）
+- WCL：[近期](https://www.warcraftlogs.com/guild/reports-list/269517)、[早期](https://www.warcraftlogs.com/user/reports-list/302729/)
+- Lazyraiders: [趴熊團](https://badweather.tw/bear/index.html)
 - 實況：[Twitch](https://www.twitch.tv/dalechou/videos)
 
 --- 
@@ -130,7 +133,6 @@
 以下這些裝備，不計入拿裝次數：
 
 - 套裝
-- 戰刃（只有 Cartier 可以用）
 
 ---
 
