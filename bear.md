@@ -9,8 +9,7 @@
 
 | **日期**     | **預定行程**                | **請假或預計遲到**                  |
 | ------------ | --------------------------- | ----------------------------------- |
-| 8/22（五）   | 普通拓荒                    | Cartier 遲到、泰坦爸爸、Mugenhoya   |
-| 8/29（五）   | 普通拓荒                    | 沙發鋼鐵直、泰坦爸爸                |
+| 8/29（五）   | 再一次普通，調查套裝數      | 沙發鋼鐵直、鮪魚船醫                |
 | 9/5（五）    | ？                          | 泰坦爸爸                            |
 
 ---
@@ -41,7 +40,7 @@
 
 ## 紀錄
 
-- WCL：[近期](https://www.warcraftlogs.com/guild/reports-list/269517)、[早期](https://www.warcraftlogs.com/user/reports-list/302729/)
+- WCL：[最新](https://www.warcraftlogs.com/guild/reports-list/269517)、[早期](https://www.warcraftlogs.com/user/reports-list/302729/)
 - Lazyraiders: [趴熊團](https://badweather.tw/bear/index.html)（資料來源是 Raider.IO，不一定會即時更新）
 - 實況：[Twitch](https://www.twitch.tv/dalechou/videos)
 
