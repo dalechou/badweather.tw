@@ -9,7 +9,7 @@
 
 很多[公會活動](activities.html)都會用到語音，請先下載 [Discord](https://discordapp.com/)（網頁版不好用），要用時比較方便。
 
-連結：[https://discord.gg/aQnfMvy](https://discord.gg/aQnfMvy)
+連結：[https://discord.gg/badweather](https://discord.gg/badweather)（同公會名）
 
 進入頻道後請把名字改成遊戲內主要使用角色名稱，遵守頻道規定。
 
