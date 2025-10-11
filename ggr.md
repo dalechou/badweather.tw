@@ -5,6 +5,14 @@
 
 ## 偉大的諾姆瑞根路跑
 
+![](img_greatgnomereganrun_2025-00.jpg)
+
+![](img_greatgnomereganrun_2025-01.jpg)
+
+在混搭再造和國慶連假的雙重影響下，2025 參與路跑的小地精少很多，包括粉紅熊熊（熊熊蓓兒）、粉紅波點（蔻醬）和 Plaidrunner（Darc）。不過我們還是辦到了！謝謝一路保護大家的德魯伊晴寶，讓小地精可以順利跑到終點。
+
+---
+
 ![](img_greatgnomereganrun_2024-00.jpg)
 
 ![](img_greatgnomereganrun_2024-01.jpg)
