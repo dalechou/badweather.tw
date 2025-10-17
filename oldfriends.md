@@ -8,7 +8,6 @@
 歡迎回鍋！首先，下列連結是最新的官方資訊。
 
 - [《軍臨天下》混搭再造與 11.2.5 內容更新將在 10 月 9 日推出！](https://worldofwarcraft.blizzard.com/zh-tw/news/24225601)
-- [凱瑞西之魂內容更新說明](https://worldofwarcraft.blizzard.com/zh-tw/news/24226698/%E5%87%B1%E7%91%9E%E8%A5%BF%E4%B9%8B%E9%AD%82%E5%85%A7%E5%AE%B9%E6%9B%B4%E6%96%B0%E8%AA%AA%E6%98%8E)
 - [《魔獸世界：至暗之夜》內容揭露！](https://worldofwarcraft.blizzard.com/zh-tw/news/24228402/)
 - [《魔獸世界®：至暗之夜》™官方網站](https://worldofwarcraft.blizzard.com/zh-tw/midnight)
 - [《魔獸世界®：地心之戰™》官方網站](https://thewarwithin.blizzard.com/zh-tw/)
