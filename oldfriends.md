@@ -7,6 +7,7 @@
 
 歡迎回鍋！首先，下列連結是最新的官方資訊。
 
+- [《至暗之夜》的即將更新如何影響戰鬥插件](https://worldofwarcraft.blizzard.com/zh-tw/news/24244638)
 - [《軍臨天下》混搭再造與 11.2.5 內容更新將在 10 月 9 日推出！](https://worldofwarcraft.blizzard.com/zh-tw/news/24225601)
 - [《魔獸世界：至暗之夜》內容揭露！](https://worldofwarcraft.blizzard.com/zh-tw/news/24228402/)
 - [《魔獸世界®：至暗之夜》™官方網站](https://worldofwarcraft.blizzard.com/zh-tw/midnight)
