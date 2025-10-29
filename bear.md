@@ -9,9 +9,7 @@
 
 | **日期**     | **預定行程**                | **請假或預計遲到**                  |
 | ------------ | --------------------------- | ----------------------------------- |
-| 10/31（五）  | 打英雄                      |                                     |
-
-長假：鮪魚船醫、Chingouo、Oriontsai、胖胖虎
+| n/a          | 休息等 12.0                 |                                     |
 
 ---
 
@@ -51,7 +49,7 @@
 
 ## 準備工作以及責任
 
-裝等要求：705、瑞西纏帶（神器披風）和四件套
+裝等要求：n/a
 
 團員需要對自己的角色狀況和網路品質負責。請自行準備**附魔**、**寶石**、**藥水**、**精煉**、**食物**等物品。
 
@@ -65,11 +63,9 @@
 
 ## 插件
 
-請安裝 [DBM](https://www.curseforge.com/wow/addons/deadly-boss-mods) 和 [WA](https://www.curseforge.com/wow/addons/weakauras-2)。
+某些工具可以在面對困難的機制時，以視覺的方式提醒團員。請花時間熟悉團隊指定的工具。
 
-這些工具可以在面對困難的機制時，以視覺的方式提醒團員。拓荒時也常會分享有用的設定或字串。請花時間熟悉這些工具。
-
-另外，推薦安裝 [MRT](https://www.curseforge.com/wow/addons/method-raid-tools)，我們會傳筆記和時間軸。
+請安裝 [MRT](https://www.curseforge.com/wow/addons/method-raid-tools)，我們會傳筆記和時間軸。
 
 [Kaze ERT Timers Icons](https://wago.io/n7l5uN3YM)（WA）可以在時間軸提到自己名字時，在畫面上顯示提醒訊息。 
 
