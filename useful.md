@@ -22,15 +22,6 @@
 - [TomTom](https://www.curseforge.com/wow/addons/tomtom)：在網路討論看到座標，不知道座標怎麼找，可以用這個（不過這個插件似乎會造成 [taint](https://forum.gamer.com.tw/Co.php?bsn=05219&sn=2498142)，請自行評估要不要裝）
 - [HandyNotes](https://www.curseforge.com/wow/addons/handynotes)：可以幫助玩家找到想找的東西，例如想寶藏等，需要搭配其他插件使用，例如 [HandyNotes: The War Within](https://www.curseforge.com/wow/addons/handynotes-the-war-within)
 
-## 插件：WeakAuras（又稱 WA）
-
-因為 [WA](https://www.curseforge.com/wow/addons/weakauras-2) 雖然強大，但也複雜，所以特別切出來自己一區。
-
-有興趣可以參考 [Wago.io](https://wago.io/weakauras) 和 [Wowhead](https://www.wowhead.com/guide/how-to-create-and-use-weakauras-5929) 相關資源。另外[批踢踢](https://www.ptt.cc/bbs/WOW/M.1488827820.A.769.html)、[巴哈姆特](https://forum.gamer.com.tw/Co.php?bsn=05219&sn=5351696)、[NGA](https://bbs.nga.cn/read.php?tid=4655386&rand=613) 也有教學。
-
-- [副本時間軸](https://wago.io/RaidAbilityTimeline)
-- [滑鼠位置](https://wago.io/HkjSU79zz)
-
 ## 網路資源
 
 - [公會頁面](https://worldofwarcraft.com/zh-tw/guild/tw/lights-hope/bad-weather)
@@ -50,10 +41,6 @@
 
 - [10.2 以後的魔獸幀數相關圖像設置](https://nga.178.com/read.php?tid=39562389)（NGA 教學文）
 - [談顯示設定優化](https://forum.gamer.com.tw/Co.php?bsn=05219&sn=5266501)
-
-## 很專心做教學內容的實況主
-
-- [老布](https://www.youtube.com/channel/UC10y77XO8L__flCLV2sfCvw)（例如[這個職業做什魔](https://www.youtube.com/watch?v=5DvOgT2Y-P8&list=PLFdmEzD9h-PMRyebLLK4lbTurrKIIapso)系列影片）
 
 --- 
 
