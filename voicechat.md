@@ -1,5 +1,5 @@
 # Bad Weather
-### [首頁](index.html)　　[公會須知](guidelines.html)　　[新手資訊](newbies.html)　　[回鍋資訊](oldfriends.html)　　[收人規則](recruitment.html)　　[團隊活動](raid.html)　　[公會活動](activities.html)
+### [首頁](index.html)　　[公會須知](guidelines.html)　　[回鍋資訊](oldfriends.html)　　[收人規則](recruitment.html)　　[團隊活動](raid.html)　　[公會活動](activities.html)　　公會語音
 
 ---
 
