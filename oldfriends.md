@@ -7,6 +7,7 @@
 
 歡迎回鍋！首先，下列連結是最新的官方資訊。
 
+- [《魔獸世界®：至暗之夜》™ 將於 3 月 3 日上線！](https://worldofwarcraft.blizzard.com/zh-tw/news/24243639)
 - [《魔獸世界：至暗之夜》內容揭露！](https://worldofwarcraft.blizzard.com/zh-tw/news/24228402/)
 - [《魔獸世界®：至暗之夜》™官方網站](https://worldofwarcraft.blizzard.com/zh-tw/midnight)
 - [回歸用戶指南](https://worldofwarcraft.com/zh-tw/return)

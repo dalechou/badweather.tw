@@ -67,7 +67,7 @@
 
 請安裝 [MRT](https://www.curseforge.com/wow/addons/method-raid-tools)，我們會傳筆記和時間軸。
 
-[Kaze ERT Timers Icons](https://wago.io/n7l5uN3YM)（WA）可以在時間軸提到自己名字時，在畫面上顯示提醒訊息。 
+~[Kaze ERT Timers Icons](https://wago.io/n7l5uN3YM)（WA）可以在時間軸提到自己名字時，在畫面上顯示提醒訊息。 ~
 
 ---
 
