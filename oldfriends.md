@@ -25,6 +25,8 @@
 - **我能夠有玩家小屋嗎？**
 
     沒錯，請參考[魔獸世界房屋：和好厝邊相見歡](https://worldofwarcraft.blizzard.com/zh-tw/news/24221516)、[在艾澤拉斯打造家園：搶先一窺房屋功能](https://news.blizzard.com/zh-tw/article/24176592/%E5%9C%A8%E8%89%BE%E6%BE%A4%E6%8B%89%E6%96%AF%E6%89%93%E9%80%A0%E5%AE%B6%E5%9C%92%EF%BC%9A%E6%90%B6%E5%85%88%E4%B8%80%E7%AA%BA%E6%88%BF%E5%B1%8B%E5%8A%9F%E8%83%BD)和[艾澤拉斯之美：房屋內部設計詳解](https://worldofwarcraft.blizzard.com/zh-tw/news/24186690)等介紹文章。
+    
+    關於 12 月 4 日開放的房屋系統，[官方網站也有相關公告](https://worldofwarcraft.blizzard.com/zh-tw/news/24244464)。我們公會也會準備好公會社區，方便會員入住。
 
 - **以後還會有 BlizzCon 嗎？**
 
