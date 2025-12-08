@@ -18,24 +18,22 @@
 
 ## 關於未來
 
-- **聽說插件有改？！**
+- **聽說插件有改？**
 
     請參考[《至暗之夜》的即將更新如何影響戰鬥插件](https://worldofwarcraft.blizzard.com/zh-tw/news/24244638)。
 
-- **我能夠有玩家小屋嗎？**
+- **我也可以擁有玩家小屋嗎？**
 
     沒錯，請參考[魔獸世界房屋：和好厝邊相見歡](https://worldofwarcraft.blizzard.com/zh-tw/news/24221516)、[在艾澤拉斯打造家園：搶先一窺房屋功能](https://news.blizzard.com/zh-tw/article/24176592/%E5%9C%A8%E8%89%BE%E6%BE%A4%E6%8B%89%E6%96%AF%E6%89%93%E9%80%A0%E5%AE%B6%E5%9C%92%EF%BC%9A%E6%90%B6%E5%85%88%E4%B8%80%E7%AA%BA%E6%88%BF%E5%B1%8B%E5%8A%9F%E8%83%BD)和[艾澤拉斯之美：房屋內部設計詳解](https://worldofwarcraft.blizzard.com/zh-tw/news/24186690)等介紹文章。
     
-    關於 12 月 4 日開放的房屋系統，[官方網站也有相關公告](https://worldofwarcraft.blizzard.com/zh-tw/news/24244464)。我們公會也會準備好公會社區，方便會員入住。
+    關於 12 月 4 日開放的房屋系統，請參考[官方網站相關說明](https://worldofwarcraft.blizzard.com/zh-tw/news/24244464)。
+    
+    我們公會已經準備好公會社區，歡迎會員入住。
 
 - **以後還會有 BlizzCon 嗎？**
 
-    會，[BlizzCon 將於 2026 年隆重回歸](https://news.blizzard.com/zh-tw/article/24178650/blizzcon-2026)。
+    有喔，[BlizzCon 將於 2026 年隆重回歸](https://news.blizzard.com/zh-tw/article/24178650/blizzcon-2026)。
     
-- **《魔獸世界》接下來會怎麼開發？**
-
-    如果對接下來的內容有興趣，官網已經公布了 [2025 年的《魔獸世界》未來展望](https://worldofwarcraft.blizzard.com/zh-tw/news/24174878)，Warcraft Direct 也公布了 [2025 Roadmap](https://www.wowhead.com/news/world-of-warcraft-2025-roadmap-revealed-the-war-within-and-midnight-expansions-350503#world-of-warcraft-2025-roadmap)。
-
 ---
 
 ## 關於 11.x
@@ -44,35 +42,37 @@
 
     請參考[《軍臨天下》混搭再造與 11.2.5 內容更新將在 10 月 9 日推出！](https://worldofwarcraft.blizzard.com/zh-tw/news/24225601)。
 
-- **製造裝備系統好複雜，我看不懂怎麼辦！**
+## 其他現行版本通用
 
-    請參考[巴哈姆特上玩家寫的專業技能與訂單系統簡介](https://forum.gamer.com.tw/C.php?bsn=5219&snA=676428)。
+- **一定要同伺服器才能加公會嗎？**
 
-- **英雄天賦是什麼？**
+    已經沒有這種限制了，現在所有伺服器的玩家都能加公會喔，也沒有聯盟、部落的陣營限制了。
 
-    請參考[官方網站相關說明](https://worldofwarcraft.blizzard.com/zh-tw/news/24038519/%E6%90%B6%E5%85%88%E4%B8%80%E7%AA%BA%E5%9C%B0%E5%BF%83%E4%B9%8B%E6%88%B0%E7%9A%84%E8%8B%B1%E9%9B%84%E5%A4%A9%E8%B3%A6)。
+- **蛤？聯盟和部落可以同公會？還可以一起出團？**
+    
+    沒錯，例如本公會聯盟和部落的玩家已經合併在同一個公會了。在此附上[官方網站相關說明](https://worldofwarcraft.blizzard.com/zh-tw/news/23934662/%E5%9C%A8%E8%B7%A8%E9%99%A3%E7%87%9F%E5%85%AC%E6%9C%83%E8%88%87%E6%9B%B4%E5%A4%9A%E5%A5%BD%E5%8F%8B%E4%B8%80%E8%B5%B7%E7%8E%A9%E9%81%8A%E6%88%B2)。
+    
+    可以跨陣營組隊的活動包括普通至傳奇難度的團隊副本、積分戰場、傳奇鑰石地城、預組。
+    
+    不可跨陣營的活動包括：隨機難度的團隊副本、普通戰場、普通至英雄難度的五人副本、時光五人副本。
 
 - **什麼是戰隊？聽說可以共享名望、成就、收藏等內容？**
 
     請參考[官方網站相關說明](https://worldofwarcraft.blizzard.com/zh-tw/news/24061008/%E5%9C%B0%E5%BF%83%E4%B9%8B%E6%88%B0%E6%88%B0%E9%9A%8A%E9%A0%90%E8%A6%BD)。
 
-- **一定要同伺服器才能加公會嗎？**
+- **英雄天賦是什麼？**
 
-    已經沒有這種限制了，現在所有伺服器的玩家都能加公會喔！
-
-## 其他現行版本通用
+    請參考[官方網站相關說明](https://worldofwarcraft.blizzard.com/zh-tw/news/24038519/%E6%90%B6%E5%85%88%E4%B8%80%E7%AA%BA%E5%9C%B0%E5%BF%83%E4%B9%8B%E6%88%B0%E7%9A%84%E8%8B%B1%E9%9B%84%E5%A4%A9%E8%B3%A6)。
 
 - **聽說使用者介面重製了，現在可以自訂抬頭顯示器？**
 
     是的，請參考[抬頭顯示器與使用者介面重製](https://worldofwarcraft.com/zh-tw/news/23841481/%E9%AD%94%E7%8D%B8%E4%B8%96%E7%95%8C%E5%B7%A8%E9%BE%8D%E5%B4%9B%E8%B5%B7%E6%8A%AC%E9%A0%AD%E9%A1%AF%E7%A4%BA%E5%99%A8%E8%88%87%E4%BD%BF%E7%94%A8%E8%80%85%E4%BB%8B%E9%9D%A2%E9%87%8D%E8%A3%BD)相關文章。
 
-- **天空騎術是什麼？**
+- **天空騎術是什麼？現在要怎麼學騎術？**
 
     天空騎術是新的空中旅行方法，請參考[官方網站相關說明](https://worldofwarcraft.blizzard.com/zh-tw/news/24104275/%E5%88%A9%E7%94%A8%E5%A4%A9%E7%A9%BA%E9%A8%8E%E8%A1%93%E7%BF%B1%E7%BF%94%E5%A4%A9%E9%9A%9B)。
     
-- **改版後要怎麼學騎術？**
-
-    騎術會根據角色等級自動學會。
+    現在騎術會根據角色等級自動學會。
     
     10 等：天空騎術和中等騎術，可以用陸上坐騎
 
@@ -81,6 +81,10 @@
     30 等：專家騎術，提高穩速飛行速度
     
     如果不習慣天空騎術（這是新的飛行方式，有些人衝來衝去會頭暈）可以在坐騎頁面切換成穩速飛行。穩速飛行是原本的飛行方式。
+
+- **製造裝備系統好複雜，我看不懂怎麼辦！**
+
+    請參考[巴哈姆特上玩家寫的專業技能與訂單系統簡介](https://forum.gamer.com.tw/C.php?bsn=5219&snA=676428)。
     
 - **請問半龍人喚能師的起始等級是多少？**
     
@@ -93,14 +97,6 @@
 - **據說有新的裝備升級系統，取代原有的勇氣系統？**
 
     沒錯，10.1.0 開始有全新的裝備升級系統取代勇氣升級系統，請見[官方網站相關說明](https://worldofwarcraft.blizzard.com/zh-tw/news/23944889/%E3%80%8C%E5%A5%88%E8%96%A9%E9%87%8C%E5%A5%A7%E7%9A%84%E9%A4%98%E7%87%BC%E3%80%8D%E6%9B%B4%E6%96%B0%E7%B3%BB%E7%B5%B1%E6%A6%82%E8%A7%80)和[巴哈姆特整理的資料](https://forum.gamer.com.tw/C.php?bsn=5219&snA=672409)。
-
-- **聯盟和部落可以同公會？還可以一起出團？！**
-    
-    沒錯，本公會聯盟和部落的玩家已經合併在同一個公會了（聖光之願聯盟）！在此附上[官方網站相關說明](https://worldofwarcraft.blizzard.com/zh-tw/news/23934662/%E5%9C%A8%E8%B7%A8%E9%99%A3%E7%87%9F%E5%85%AC%E6%9C%83%E8%88%87%E6%9B%B4%E5%A4%9A%E5%A5%BD%E5%8F%8B%E4%B8%80%E8%B5%B7%E7%8E%A9%E9%81%8A%E6%88%B2)。
-    
-    依目前整理的資料來看，可以跨陣營組隊的活動包括普通至傳奇難度的團隊副本、積分戰場、傳奇鑰石地城、預組。
-    
-    不可跨陣營的活動包括：隨機難度的團隊副本、普通戰場、普通至英雄難度的五人副本、時光五人副本。
 
 - **請問要怎麼練等級比較快？排不到五人副本耶！**
 
@@ -145,10 +141,6 @@
 ---
 
 ## 關於 10.x
-
-- **混搭再造：潘達利亞之謎是什麼？**
-
-    請見[官方網站相關說明](https://worldofwarcraft.blizzard.com/zh-tw/news/24092672/%E9%AD%94%E7%8D%B8%E4%B8%96%E7%95%8C%E6%B7%B7%E6%90%AD%E5%86%8D%E9%80%A0%E6%BD%98%E9%81%94%E5%88%A9%E4%BA%9E%E4%B9%8B%E8%AC%8E%E7%8F%BE%E5%B7%B2%E4%B8%8A%E7%B7%9A%EF%BC%81)！
 
 - **要如何在巨龍群島使用一般坐騎？**
 

@@ -36,6 +36,7 @@
 - [Maxroll](https://maxroll.gg/wow/class-guides)：查當前主流
 - [Bloodmallet](https://bloodmallet.com/)：選裝備
 - [Raidbots](https://www.raidbots.com/simbot)：跑模擬
+- [Housing Decor Items](https://housing.wowdb.com/decor/)：找喜歡的家具
 
 ## 教學
 
