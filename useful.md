@@ -3,7 +3,7 @@
 
 ---
 
-## 插件：副本
+## 插件
 
 《魔獸世界》的遊戲體驗可以透過玩家開發的插件改善。目前主流的插件網站是 [CurseForge](https://www.curseforge.com/wow/addons)，可以在這裡下載插件，手動安裝。
 
@@ -11,16 +11,8 @@
 
 ![](img_curseforge_installation.png)
 
-以下是跟副本相關的插件。
-
-- [DBM](https://www.curseforge.com/wow/addons/deadly-boss-mods)：副本機制提醒
-- [Details!](https://www.curseforge.com/wow/addons/details)：看戰鬥數據
-- [GTFO](https://www.curseforge.com/wow/addons/gtfo)：常常莫名其妙死掉請裝這個
-
-## 插件：遊戲生活品質
-
 - [TomTom](https://www.curseforge.com/wow/addons/tomtom)：在網路討論看到座標，不知道座標怎麼找，可以用這個（不過這個插件似乎會造成 [taint](https://forum.gamer.com.tw/Co.php?bsn=05219&sn=2498142)，請自行評估要不要裝）
-- [HandyNotes](https://www.curseforge.com/wow/addons/handynotes)：可以幫助玩家找到想找的東西，例如想寶藏等，需要搭配其他插件使用，例如 [HandyNotes: The War Within](https://www.curseforge.com/wow/addons/handynotes-the-war-within)
+- [HandyNotes](https://www.curseforge.com/wow/addons/handynotes)：可以幫助玩家找到想找的東西，例如想寶藏等，需要搭配其他插件使用，例如 [HandyNotes: Midnight](https://www.curseforge.com/wow/addons/handynotes-midnight)
 
 ## 網路資源
 
@@ -30,7 +22,6 @@
 - [官方頻道](https://www.youtube.com/@TWworldofwarcraft/videos)
 - [Wowhead](https://www.wowhead.com/tw)：魔獸小百科
 - [Wowhead 天賦模擬器](https://www.wowhead.com/tw/talent-calc)
-- [Wowhead 角色進度查詢](https://www.wowhead.com/tw/attunement)
 - [Wowhead 塑形模擬器](https://www.wowhead.com/tw/dressing-room)：小心，時間會不知不覺過去！
 - [Icy Veins](https://www.icy-veins.com/wow/class-guides)：不會玩可以看這裡
 - [Maxroll](https://maxroll.gg/wow/class-guides)：查當前主流

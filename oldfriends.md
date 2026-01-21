@@ -8,7 +8,7 @@
 歡迎回鍋！首先，下列連結是最新的官方資訊。
 
 - [《魔獸世界®：至暗之夜》™ 將於 3 月 3 日上線！](https://worldofwarcraft.blizzard.com/zh-tw/news/24243639)
-- [《魔獸世界：至暗之夜》內容揭露！](https://worldofwarcraft.blizzard.com/zh-tw/news/24228402/)
+- [《至暗之夜》資料片資訊總整理](https://worldofwarcraft.blizzard.com/zh-tw/news/24229031)
 - [《魔獸世界®：至暗之夜》™官方網站](https://worldofwarcraft.blizzard.com/zh-tw/midnight)
 - [回歸用戶指南](https://worldofwarcraft.com/zh-tw/return)
 - [官方新聞](https://worldofwarcraft.blizzard.com/zh-tw/news)
@@ -17,18 +17,6 @@
 ---
 
 ## 關於未來
-
-- **聽說插件有改？**
-
-    請參考[《至暗之夜》的即將更新如何影響戰鬥插件](https://worldofwarcraft.blizzard.com/zh-tw/news/24244638)。
-
-- **我也可以擁有玩家小屋嗎？**
-
-    沒錯，請參考[魔獸世界房屋：和好厝邊相見歡](https://worldofwarcraft.blizzard.com/zh-tw/news/24221516)、[在艾澤拉斯打造家園：搶先一窺房屋功能](https://news.blizzard.com/zh-tw/article/24176592/%E5%9C%A8%E8%89%BE%E6%BE%A4%E6%8B%89%E6%96%AF%E6%89%93%E9%80%A0%E5%AE%B6%E5%9C%92%EF%BC%9A%E6%90%B6%E5%85%88%E4%B8%80%E7%AA%BA%E6%88%BF%E5%B1%8B%E5%8A%9F%E8%83%BD)和[艾澤拉斯之美：房屋內部設計詳解](https://worldofwarcraft.blizzard.com/zh-tw/news/24186690)等介紹文章。
-    
-    關於 12 月 4 日開放的房屋系統，請參考[官方網站相關說明](https://worldofwarcraft.blizzard.com/zh-tw/news/24244464)。
-    
-    我們公會已經準備好公會社區，歡迎會員入住。
 
 - **以後還會有 BlizzCon 嗎？**
 
@@ -40,9 +28,26 @@
 
 - **前夕是什麼時候？**
 
-    前夕將於 1 月 22 日上線，請參考[官方網站相關說明](https://worldofwarcraft.blizzard.com/zh-tw/news/24245217)。
+    前夕已經上線了，請參考[官方網站相關說明](https://worldofwarcraft.blizzard.com/zh-tw/news/24245217)。
+
+- **資料片改版是什麼時候？**
+
+    《至暗之夜》將於 3 月 2 日上線，如果買了史詩版，可以早三天開始玩。
+
+- **第一賽季什麼時候開放？**
+
+    第一賽季 3 月 19 日開放。
+
+- **聽說插件有改？**
+
+    請參考[《至暗之夜》的即將更新如何影響戰鬥插件](https://worldofwarcraft.blizzard.com/zh-tw/news/24244638)。
+
+- **我也可以擁有玩家小屋嗎？**
+
+    沒錯，房屋系統已經開放了，請參考[魔獸世界房屋：和好厝邊相見歡](https://worldofwarcraft.blizzard.com/zh-tw/news/24221516)、[艾澤拉斯之美：房屋內部設計詳解](https://worldofwarcraft.blizzard.com/zh-tw/news/24186690)等介紹文章。
     
-    
+    我們公會已經準備好公會社區，歡迎會員入住。
+
 ## 其他現行版本通用
 
 - **一定要同伺服器才能加公會嗎？**
