@@ -11,8 +11,9 @@
 
 ![](img_curseforge_installation.png)
 
-- [TomTom](https://www.curseforge.com/wow/addons/tomtom)：在網路討論看到座標，不知道座標怎麼找，可以用這個（不過這個插件似乎會造成 [taint](https://forum.gamer.com.tw/Co.php?bsn=05219&sn=2498142)，請自行評估要不要裝）
-- [HandyNotes](https://www.curseforge.com/wow/addons/handynotes)：可以幫助玩家找到想找的東西，例如想寶藏等，需要搭配其他插件使用，例如 [HandyNotes: Midnight](https://www.curseforge.com/wow/addons/handynotes-midnight)
+- [TomTom](https://www.curseforge.com/wow/addons/tomtom)：遊戲內導航系統，可以看到所在位置座標或用座標尋路
+- [HandyNotes](https://www.curseforge.com/wow/addons/handynotes)：可以幫忙尋找寶藏、稀有怪、任務 NPC 等，需要搭配其他插件，例如 [HandyNotes: Midnight](https://www.curseforge.com/wow/addons/handynotes-midnight)
+- [Home Bound](https://www.curseforge.com/wow/addons/home-bound)：幫忙蒐集家具和裝飾
 
 ## 網路資源
 
