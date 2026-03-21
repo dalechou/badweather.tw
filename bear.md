@@ -33,13 +33,13 @@
 
 ## 招募
 
-DPS 2-3 位，薩滿、戰士、喚能師讚讚！
+DPS 2-3 位，想要薩滿！
 
 --- 
 
 ## 紀錄
 
-- WCL：[最新](https://www.warcraftlogs.com/guild/reports-list/269517)、[早期](https://www.warcraftlogs.com/user/reports-list/302729/)
+- WCL：[近期](https://www.warcraftlogs.com/guild/reports-list/269517)、[早期](https://www.warcraftlogs.com/user/reports-list/302729/)
 - Lazyraiders: [趴熊團](https://badweather.tw/bear/index.html)（資料來源是 Raider.IO，不一定會即時更新）
 - 實況：[Twitch](https://www.twitch.tv/dalechou/videos)
 
@@ -61,9 +61,9 @@ DPS 2-3 位，薩滿、戰士、喚能師讚讚！
 
 ## 插件
 
-某些工具可以在面對困難的機制時，以視覺的方式提醒團員。請花時間熟悉團隊指定的工具。
+本團沒有必須安裝的插件，如果有的話會另外特別要求。
 
-請安裝 [MRT](https://www.curseforge.com/wow/addons/method-raid-tools)，我們會傳筆記和時間軸。
+如果對分裝計算過程有興趣，可以安裝 [MRT](https://www.curseforge.com/wow/addons/method-raid-tools)，團長會用這個插件推送分裝筆記。
 
 ---
 
