@@ -5,10 +5,9 @@
 
 ## 嗨，回鍋的老朋友
 
-歡迎回鍋！首先，下列連結是最新的官方資訊。
+歡迎回鍋！首先，以下連結是最新的官方資訊。
 
-- [《魔獸世界®：至暗之夜》™ 將於 3 月 3 日上線！](https://worldofwarcraft.blizzard.com/zh-tw/news/24243639)
-- [《至暗之夜》資料片資訊總整理](https://worldofwarcraft.blizzard.com/zh-tw/news/24229031)
+- [12.0.5 內容更新將在 4 月 23 日推出](https://worldofwarcraft.blizzard.com/zh-tw/news/24266871)
 - [《魔獸世界®：至暗之夜》™官方網站](https://worldofwarcraft.blizzard.com/zh-tw/midnight)
 - [回歸用戶指南](https://worldofwarcraft.com/zh-tw/return)
 - [官方新聞](https://worldofwarcraft.blizzard.com/zh-tw/news)
@@ -20,7 +19,7 @@
 
 - **以後還會有 BlizzCon 嗎？**
 
-    有喔，[BlizzCon 將於 2026 年隆重回歸](https://news.blizzard.com/zh-tw/article/24178650/blizzcon-2026)。
+    有喔，就在今年，[BlizzCon 將於 2026 年隆重回歸](https://news.blizzard.com/zh-tw/article/24178650/blizzcon-2026)。
 
 - **《魔獸世界》的未來更新計畫是什麼？**
 
