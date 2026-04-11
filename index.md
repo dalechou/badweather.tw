@@ -1,9 +1,3 @@
-![](img_badweather.png)
-
-<p align="center">
-    <img src='img_badweather.png' />
-</p>
-
 <div style='text-align:center'><img src='img_badweather.png' /></div>
 
 # Bad Weather
