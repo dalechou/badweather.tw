@@ -4,6 +4,8 @@
     <img src='img_badweather.png' />
 </p>
 
+<div style='text-align:center'><img src='img_badweather.png' /></div>
+
 # Bad Weather
 
 嗨，我們是 Bad Weather 公會。
