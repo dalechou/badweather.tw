@@ -1,5 +1,9 @@
 ![](img_badweather.png)
 
+<p align="center">
+    <img src='img_badweather.png' />
+</p>
+
 # Bad Weather
 
 嗨，我們是 Bad Weather 公會。
