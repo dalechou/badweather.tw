@@ -7,7 +7,6 @@
 
 歡迎回鍋！首先，以下連結是最新的官方資訊。
 
-- [12.0.5 內容更新將在 4 月 23 日推出](https://worldofwarcraft.blizzard.com/zh-tw/news/24266871)
 - [《魔獸世界®：至暗之夜》™官方網站](https://worldofwarcraft.blizzard.com/zh-tw/midnight)
 - [回歸用戶指南](https://worldofwarcraft.com/zh-tw/return)
 - [官方新聞](https://worldofwarcraft.blizzard.com/zh-tw/news)
