@@ -28,9 +28,9 @@
 
 ## 關於下次內容更新
 
-- **下次更新內容是什麼？**
+- **聽說以後遊戲內公會聊天頻道可以公會 Discord 的聊天頻道連起來？**
 
-    12.0.7 即將於 6/18 上線，請參考[官方網站相關說明](https://worldofwarcraft.blizzard.com/zh-tw/news/24266797/%E8%87%B3%E6%9A%97%E4%B9%8B%E5%A4%9C%E3%80%8C%E7%9C%9F%E7%9B%B8%E6%8F%AD%E6%9B%89%E3%80%8D%E5%85%A7%E5%AE%B9%E6%9B%B4%E6%96%B0%E6%96%BC-6-%E6%9C%88-18-%E6%97%A5%E4%B8%8A%E7%B7%9A%EF%BC%81)。
+    沒錯，請參考[官方網站相關說明](https://worldofwarcraft.blizzard.com/zh-tw/news/24286284/%E5%9C%A8%E3%80%8C%E7%83%8F%E6%8B%89%E7%89%B9%E5%85%8B%E7%9A%84%E8%A9%9B%E5%92%92%E3%80%8D%E5%85%A7%E5%AE%B9%E6%9B%B4%E6%96%B0%E4%B8%AD%E5%B0%87-battlenet-%E5%B8%B3%E8%99%9F%E8%88%87-discord-%E9%80%A3%E7%B5%90)。
 
 ## 關於 12.0.5
 
