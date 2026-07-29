@@ -18,7 +18,7 @@
 
 - **以後還會有 BlizzCon 嗎？**
 
-    有喔，就在今年，[BlizzCon 將於 2026 年隆重回歸](https://news.blizzard.com/zh-tw/article/24178650/blizzcon-2026)。
+    有喔，就在今年，[BlizzCon 將於 2026 年隆重回歸](https://news.blizzard.com/zh-tw/article/24178650)。
 
 - **《魔獸世界》的未來更新計畫是什麼？**
 
@@ -30,7 +30,11 @@
 
 - **聽說以後遊戲內公會聊天頻道可以公會 Discord 的聊天頻道連起來？**
 
-    沒錯，請參考[官方網站相關說明](https://worldofwarcraft.blizzard.com/zh-tw/news/24286284/%E5%9C%A8%E3%80%8C%E7%83%8F%E6%8B%89%E7%89%B9%E5%85%8B%E7%9A%84%E8%A9%9B%E5%92%92%E3%80%8D%E5%85%A7%E5%AE%B9%E6%9B%B4%E6%96%B0%E4%B8%AD%E5%B0%87-battlenet-%E5%B8%B3%E8%99%9F%E8%88%87-discord-%E9%80%A3%E7%B5%90)。
+    沒錯，請參考[官方網站相關說明](https://worldofwarcraft.blizzard.com/zh-tw/news/24286284)。
+
+- **「烏拉特克的詛咒」還有什麼新內容？**
+
+    請參考[官方網站相關說明](https://worldofwarcraft.blizzard.com/zh-tw/news/24294370)。
 
 ## 關於 12.0.5
 
@@ -67,7 +71,7 @@
 
 - **蛤？聯盟和部落可以同公會？還可以一起出團？**
     
-    沒錯，例如本公會聯盟和部落的玩家已經合併在同一個公會了。在此附上[官方網站相關說明](https://worldofwarcraft.blizzard.com/zh-tw/news/23934662/%E5%9C%A8%E8%B7%A8%E9%99%A3%E7%87%9F%E5%85%AC%E6%9C%83%E8%88%87%E6%9B%B4%E5%A4%9A%E5%A5%BD%E5%8F%8B%E4%B8%80%E8%B5%B7%E7%8E%A9%E9%81%8A%E6%88%B2)。
+    沒錯，例如本公會聯盟和部落的玩家已經合併在同一個公會了。在此附上[官方網站相關說明](https://worldofwarcraft.blizzard.com/zh-tw/news/23934662)。
     
     可以跨陣營組隊的活動包括普通至傳奇難度的團隊副本、積分戰場、傳奇鑰石地城、預組。
     
@@ -75,19 +79,19 @@
 
 - **什麼是戰隊？聽說可以共享名望、成就、收藏等內容？**
 
-    請參考[官方網站相關說明](https://worldofwarcraft.blizzard.com/zh-tw/news/24061008/%E5%9C%B0%E5%BF%83%E4%B9%8B%E6%88%B0%E6%88%B0%E9%9A%8A%E9%A0%90%E8%A6%BD)。
+    請參考[官方網站相關說明](https://worldofwarcraft.blizzard.com/zh-tw/news/24061008)。
 
 - **英雄天賦是什麼？**
 
-    請參考[官方網站相關說明](https://worldofwarcraft.blizzard.com/zh-tw/news/24038519/%E6%90%B6%E5%85%88%E4%B8%80%E7%AA%BA%E5%9C%B0%E5%BF%83%E4%B9%8B%E6%88%B0%E7%9A%84%E8%8B%B1%E9%9B%84%E5%A4%A9%E8%B3%A6)。
+    請參考[官方網站相關說明](https://worldofwarcraft.blizzard.com/zh-tw/news/24038519)。
 
 - **聽說使用者介面重製了，現在可以自訂抬頭顯示器？**
 
-    是的，請參考[抬頭顯示器與使用者介面重製](https://worldofwarcraft.com/zh-tw/news/23841481/%E9%AD%94%E7%8D%B8%E4%B8%96%E7%95%8C%E5%B7%A8%E9%BE%8D%E5%B4%9B%E8%B5%B7%E6%8A%AC%E9%A0%AD%E9%A1%AF%E7%A4%BA%E5%99%A8%E8%88%87%E4%BD%BF%E7%94%A8%E8%80%85%E4%BB%8B%E9%9D%A2%E9%87%8D%E8%A3%BD)相關文章。
+    是的，請參考[抬頭顯示器與使用者介面重製](https://worldofwarcraft.blizzard.com/zh-tw/news/23841481)相關文章。
 
 - **天空騎術是什麼？現在要怎麼學騎術？**
 
-    天空騎術是新的空中旅行方法，請參考[官方網站相關說明](https://worldofwarcraft.blizzard.com/zh-tw/news/24104275/%E5%88%A9%E7%94%A8%E5%A4%A9%E7%A9%BA%E9%A8%8E%E8%A1%93%E7%BF%B1%E7%BF%94%E5%A4%A9%E9%9A%9B)。
+    天空騎術是新的空中旅行方法，請參考[官方網站相關說明](https://worldofwarcraft.blizzard.com/zh-tw/news/24104275)。
     
     現在騎術會根據角色等級自動學會。
     
@@ -105,7 +109,7 @@
     
 - **請問半龍人喚能師的起始等級是多少？**
     
-    58 級，這是英雄職業，詳細資訊可以參考[半龍人喚能師介紹](https://worldofwarcraft.com/zh-tw/news/23833250/%E5%B7%A8%E9%BE%8D%E5%B4%9B%E8%B5%B7%E9%A0%90%E8%A6%BD%E5%8D%8A%E9%BE%8D%E4%BA%BA%E5%96%9A%E8%83%BD%E5%B8%AB%E4%BB%8B%E7%B4%B9)。
+    58 級，這是英雄職業，詳細資訊可以參考[半龍人喚能師介紹](https://worldofwarcraft.blizzard.com/zh-tw/news/23833250)。
 
 - **我的達拉然爐石跟要塞爐石跑去哪裡了？**
 
@@ -113,7 +117,7 @@
 
 - **據說有新的裝備升級系統，取代原有的勇氣系統？**
 
-    沒錯，10.1.0 開始有全新的裝備升級系統取代勇氣升級系統，請見[官方網站相關說明](https://worldofwarcraft.blizzard.com/zh-tw/news/23944889/%E3%80%8C%E5%A5%88%E8%96%A9%E9%87%8C%E5%A5%A7%E7%9A%84%E9%A4%98%E7%87%BC%E3%80%8D%E6%9B%B4%E6%96%B0%E7%B3%BB%E7%B5%B1%E6%A6%82%E8%A7%80)和[巴哈姆特整理的資料](https://forum.gamer.com.tw/C.php?bsn=5219&snA=672409)。
+    沒錯，10.1.0 開始有全新的裝備升級系統取代勇氣升級系統，請見[官方網站相關說明](https://worldofwarcraft.blizzard.com/zh-tw/news/23944889)和[巴哈姆特整理的資料](https://forum.gamer.com.tw/C.php?bsn=5219&snA=672409)。
 
 - **請問要怎麼練等級比較快？排不到五人副本耶！**
 
