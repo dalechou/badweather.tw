@@ -7,6 +7,7 @@
 
 歡迎回鍋！首先，以下連結是最新的官方資訊。
 
+- [現已上線：劇毒深淵團隊副本、傳奇鑰石難度與 PvP 第 2 賽季，還有更多其他內容！](https://worldofwarcraft.blizzard.com/zh-tw/news/24294369)
 - [《魔獸世界®：至暗之夜》™官方網站](https://worldofwarcraft.blizzard.com/zh-tw/midnight)
 - [回歸用戶指南](https://worldofwarcraft.com/zh-tw/return)
 - [官方新聞](https://worldofwarcraft.blizzard.com/zh-tw/news)
@@ -30,7 +31,7 @@
 
 - **聽說以後遊戲內公會聊天頻道可以公會 Discord 的聊天頻道連起來？**
 
-    沒錯，請參考[官方網站相關說明](https://worldofwarcraft.blizzard.com/zh-tw/news/24286284)。
+    沒錯，請參考[官方網站相關說明](https://news.blizzard.com/zh-tw/article/24296228/)。
 
 - **「烏拉特克的詛咒」還有什麼新內容？**
 
