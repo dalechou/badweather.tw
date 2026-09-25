@@ -17,10 +17,6 @@
 
 ## 關於未來
 
-- **以後還會有 BlizzCon 嗎？**
-
-    有喔，就在今年，[BlizzCon 將於 2026 年隆重回歸](https://news.blizzard.com/zh-tw/article/24178650)。
-
 - **《魔獸世界》的未來更新計畫是什麼？**
 
     可以參考[官方網站相關說明](https://worldofwarcraft.blizzard.com/zh-tw/news/24250385/)。
