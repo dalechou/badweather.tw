@@ -5,6 +5,10 @@
 
 ## 偉大的諾姆瑞根路跑
 
+![](img_greatgnomereganrun_2026-00.jpg)
+
+2026 小地精依然努力奔跑，很意外地遇見不是雪舞的『小雪舞』陪我們跑完全程。參加路跑的小地精中，沒想到麗梅格的 48 等死亡騎士是最大的大地精，只好擔起沿途保護大家的重責大任。
+
 ![](img_greatgnomereganrun_2025-00.jpg)
 
 ![](img_greatgnomereganrun_2025-01.jpg)
