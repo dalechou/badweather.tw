@@ -13,7 +13,7 @@
 | 10/30          | 團隊高手的榮耀             |                                |
 | 11/20          |                          | 沙發鋼鐵直                      |
 | 11/27          |                          | 沙發鋼鐵直                      |
-
+ 
 ---
 
 ## 名單
@@ -162,30 +162,30 @@
 
 團隊目標是英雄全通，拿到「領先群雄」成就。
 
-| **成就**                       | **合照或影片剪輯**                                                                                                              | **拓荒次數** |
-| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| 領先群雄：烏拉特克             |                                                                                                                                 |              |
-| 腐沼 <sup>這隻沒成就</sup>     | [合照](img_aotc_rotmire_bear.jpg)                                                                                               | 2            |
-| 領先群雄：午夜之落             | [合照](img_aotc_lura_bear.jpg)、[你走開](img_aotc_lura_bear2.jpg)、[剪輯](https://www.twitch.tv/videos/2778244948)              | 31           |
-| 領先群雄：宇宙之冠             | [合照](img_aotc_alleria_bear.jpg)、[剪輯](https://www.twitch.tv/videos/2767148292)                                              | 23           |
-| 領先群雄：『夢境之神』奇美魯斯 | [剪輯](https://www.twitch.tv/videos/2750027755)                                                                                 | 1            |
-| 領先群雄：『吞盡者』迪曼修斯   | [榮耀瞬間](img_aotc_dimensius_bear.jpg)、[合照](img_aotc_dimensius_bear2.jpg)、[剪輯](https://www.twitch.tv/videos/2594470657)  | 55           |
-| 領先群雄：閃亮亮大王加里維克斯 | [榮耀瞬間](img_aotc_gallywix_bear.png)、[合照](img_aotc_gallywix_bear2.jpg)                                                     | 54           |
-| 領先群雄：安蘇芮克女王         | [合照](img_aotc_ansurek_bear.png)、[剪輯](https://www.twitch.tv/videos/2296735261)                                              | 66           |
-| 領先群雄：『熾炎者』菲拉卡     | [榮耀瞬間](img_aotc_fyrakk_bear.jpg)、[合照](img_aotc_fyrakk_bear2.jpg)、[剪輯](https://www.twitch.tv/videos/2016107149)        | 19           |
-| 領先群雄：龍隊指揮官沙卡瑞斯   | [榮耀瞬間](img_aotc_sarkareth_bear.jpg)、[合照](img_aotc_sarkareth_bear2.png)、[剪輯](https://www.twitch.tv/videos/1858922638)  | 20           |
-| 領先群雄：『噬風者』菈薩葛絲   | [榮耀瞬間](img_aotc_raszageth_bear.jpg)、[合照](img_aotc_raszageth_bear2.png)、[剪輯](https://www.twitch.tv/videos/1746774110)  | 40           |
-| 領先群雄：閻獄之主             | [榮耀瞬間](img_aotc_jailer_bear.jpg)、[合照](img_aotc_jailer_bear2.jpg)、[剪輯](https://www.twitch.tv/videos/1511957208)        | 112          |
-| 領先群雄：希瓦娜斯‧風行者     | [榮耀瞬間](img_aotc_sylvanas_bear.jpg)、[合照](img_aotc_sylvanas_bear2.jpg)、[剪輯](https://www.twitch.tv/videos/1176564219)    | 64           |
-| 領先群雄：戴納瑟斯王           | [榮耀瞬間](img_aotc_denathrius_bear.jpg)、[合照](img_aotc_denathrius_bear2.jpg)、[剪輯](https://www.twitch.tv/videos/945865869) | 63           |
-| 領先群雄：『腐化者』恩若司     | [合照](img_aotc_nzoth_thu.jpg)、[剪輯](https://www.twitch.tv/videos/587773572)                                                  | 12           |
-| 領先群雄：艾薩拉女王           | [榮耀瞬間](img_aotc_azshara_thu.jpg)、[合照](img_aotc_azshara_thu2.jpg)                                                         | 37           |
-| 領先群雄：『虛無使者』烏納特   | [合照](img_aotc_uunat_thu.jpg)、[魚頭](img_aotc_uunat_thu2.jpg)                                                                 | 55           |
-| 領先群雄：珍娜‧普勞德摩爾女士 | [合照](img_aotc_jaina_thu.jpg)、[GIF](img_aotc_jaina_thu.gif)                                                                   | 41           |
-| 領先群雄：古翰                 | [合照](img_aotc_ghuun_thu.jpg)                                                                                                  | 22           |
-| 領先群雄：滅界者阿古斯         | [合照](img_aotc_argus.jpg)                                                                                                      | n/a          |
-| 領先群雄：基爾加丹             | [忘了合照](img_aotc_kiljaeden.jpg)，[隨便傳一個](img_aotc_kiljaeden2.jpg)                                                       | n/a          |
-| 領先群雄：古爾丹               | [合照](img_aotc_guldan.jpg)                                                                                                     | n/a          |
+| **成就**                        | **合照或影片剪輯**                                                                                                               | **拓荒次數**  |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ | ------------ |
+| 領先群雄：烏拉特克                | 榮耀瞬間、合照、剪輯                                                                                                              |              |
+| 腐沼 <sup>這隻沒成就，以後只照有「領先群雄」成就的</sup> | [合照](img_aotc_rotmire_bear.jpg)                                                                            | 2            |
+| 領先群雄：午夜之落                | [合照](img_aotc_lura_bear.jpg)、[你走開](img_aotc_lura_bear2.jpg)、[剪輯](https://www.twitch.tv/videos/2778244948)                | 31           |
+| 領先群雄：宇宙之冠                | [合照](img_aotc_alleria_bear.jpg)、[剪輯](https://www.twitch.tv/videos/2767148292)                                              | 23           |
+| 領先群雄：『夢境之神』奇美魯斯      | [剪輯](https://www.twitch.tv/videos/2750027755)                                                                                | 1            |
+| 領先群雄：『吞盡者』迪曼修斯       | [榮耀瞬間](img_aotc_dimensius_bear.jpg)、[合照](img_aotc_dimensius_bear2.jpg)、[剪輯](https://www.twitch.tv/videos/2594470657)     | 55           |
+| 領先群雄：閃亮亮大王加里維克斯      | [榮耀瞬間](img_aotc_gallywix_bear.png)、[合照](img_aotc_gallywix_bear2.jpg)                                                      | 54           |
+| 領先群雄：安蘇芮克女王            | [合照](img_aotc_ansurek_bear.png)、[剪輯](https://www.twitch.tv/videos/2296735261)                                               | 66           |
+| 領先群雄：『熾炎者』菲拉卡         | [榮耀瞬間](img_aotc_fyrakk_bear.jpg)、[合照](img_aotc_fyrakk_bear2.jpg)、[剪輯](https://www.twitch.tv/videos/2016107149)          | 19           |
+| 領先群雄：龍隊指揮官沙卡瑞斯       | [榮耀瞬間](img_aotc_sarkareth_bear.jpg)、[合照](img_aotc_sarkareth_bear2.png)、[剪輯](https://www.twitch.tv/videos/1858922638)    | 20           |
+| 領先群雄：『噬風者』菈薩葛絲       | [榮耀瞬間](img_aotc_raszageth_bear.jpg)、[合照](img_aotc_raszageth_bear2.png)、[剪輯](https://www.twitch.tv/videos/1746774110)    | 40           |
+| 領先群雄：閻獄之主                | [榮耀瞬間](img_aotc_jailer_bear.jpg)、[合照](img_aotc_jailer_bear2.jpg)、[剪輯](https://www.twitch.tv/videos/1511957208)          | 112          |
+| 領先群雄：希瓦娜斯‧風行者          | [榮耀瞬間](img_aotc_sylvanas_bear.jpg)、[合照](img_aotc_sylvanas_bear2.jpg)、[剪輯](https://www.twitch.tv/videos/1176564219)      | 64           |
+| 領先群雄：戴納瑟斯王              | [榮耀瞬間](img_aotc_denathrius_bear.jpg)、[合照](img_aotc_denathrius_bear2.jpg)、[剪輯](https://www.twitch.tv/videos/945865869)   | 63           |
+| 領先群雄：『腐化者』恩若司         | [合照](img_aotc_nzoth_thu.jpg)、[剪輯](https://www.twitch.tv/videos/587773572)                                                  | 12           |
+| 領先群雄：艾薩拉女王              | [榮耀瞬間](img_aotc_azshara_thu.jpg)、[合照](img_aotc_azshara_thu2.jpg)                                                          | 37           |
+| 領先群雄：『虛無使者』烏納特       | [合照](img_aotc_uunat_thu.jpg)、[魚頭](img_aotc_uunat_thu2.jpg)                                                                 | 55            |
+| 領先群雄：珍娜‧普勞德摩爾女士      | [合照](img_aotc_jaina_thu.jpg)、[GIF](img_aotc_jaina_thu.gif)                                                                   | 41           |
+| 領先群雄：古翰                   | [合照](img_aotc_ghuun_thu.jpg)                                                                                                 | 22           |
+| 領先群雄：滅界者阿古斯            | [合照](img_aotc_argus.jpg)                                                                                                     | n/a          |
+| 領先群雄：基爾加丹               | [忘了合照](img_aotc_kiljaeden.jpg)，[隨便傳一個](img_aotc_kiljaeden2.jpg)                                                         | n/a          |
+| 領先群雄：古爾丹                 | [合照](img_aotc_guldan.jpg)                                                                                                    | n/a          |
 
 ---
 
