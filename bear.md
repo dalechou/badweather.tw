@@ -166,7 +166,7 @@
 
 | **成就**                        | **合照或影片剪輯**                                                                                                               | **拓荒次數**  |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ | ------------ |
-| 領先群雄：烏拉特克                | [榮耀瞬間](img_aotc_ulatek_bear.jpg)、[合照](img_aotc_ulatek_bear2.jpg)、[剪輯](https://www.twitch.tv/videos/2908660592)          | 21           |
+| 領先群雄：烏拉特克                | [榮耀瞬間](img_aotc_ulatek_bear.jpg)、[合照](img_aotc_ulatek_bear2.jpg)、[剪輯](https://www.twitch.tv/videos/2908660592)          | 24           |
 | 腐沼 <sup>這隻沒成就，以後只照有「領先群雄」成就的</sup> | [合照](img_aotc_rotmire_bear.jpg)                                                                            | 2            |
 | 領先群雄：午夜之落                | [合照](img_aotc_lura_bear.jpg)、[你走開](img_aotc_lura_bear2.jpg)、[剪輯](https://www.twitch.tv/videos/2778244948)                | 31           |
 | 領先群雄：宇宙之冠                | [合照](img_aotc_alleria_bear.jpg)、[剪輯](https://www.twitch.tv/videos/2767148292)                                              | 23           |
