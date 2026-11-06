@@ -3,6 +3,16 @@
 
 ---
 
+## 劇毒團隊高手的榮耀
+
+![](img_venomousraider_bear.jpg)
+
+![](img_venomousraider_bear2.jpg)
+
+一起獲得劇毒團隊高手的榮耀。很多人覺得這次應該是歷來最麻煩的，每隻王的開場說明都是：「這個王有點麻煩。」最後甚至得加班十分鐘才打完。坐騎是看起來有點噁心的緋紅毒牙……
+
+---
+
 ## 至暗之夜團隊高手的榮耀
 
 ![](img_midnightraider_bear.jpg)
